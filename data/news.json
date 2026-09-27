@@ -1,6 +1,36 @@
 {
- "updated": "2026-09-27T19:43:12+00:00",
+ "updated": "2026-09-27T22:57:26+00:00",
  "items": [
+  {
+   "id": "63f85032962d",
+   "type": "news",
+   "title": "Anthropic’s CEO is about to have dinner with President Trump",
+   "title_orig": "Anthropic’s CEO is about to have dinner with President Trump",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "80032e73c06a",
+   "type": "news",
+   "title": "Can Muse overcome Meta’s trust issues?",
+   "title_orig": "Can Muse overcome Meta’s trust issues?",
+   "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "9c14e3f08427",
+   "type": "news",
+   "title": "Engram is a sampler that turns broken AI hallucinations into music",
+   "title_orig": "Engram is a sampler that turns broken AI hallucinations into music",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
   {
    "id": "39e6d83733f3",
    "type": "news",
