@@ -1,0 +1,505 @@
+[
+ {
+  "category": "API",
+  "code": "import anthropic\n\nclient = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY\n\nmsg = client.messages.create(\n    model=\"claude-sonnet-5\",\n    max_tokens=1000,\n    messages=[{\"role\": \"user\", \"content\": \"תסביר לי מה זה API בשני משפטים\"}],\n)\nprint(msg.content[0].text)",
+  "desc": "הדרך הבסיסית לשלוח שאלה ל־Claude מתוך קוד. מתקינים: pip install anthropic ושמים את המפתח במשתנה הסביבה ANTHROPIC_API_KEY.",
+  "tags": [
+   "Python"
+  ],
+  "title": "קריאה ל־Claude מ־Python",
+  "type": "code",
+  "url": "https://docs.claude.com",
+  "id": "c01"
+ },
+ {
+  "category": "אוטומציה",
+  "code": "import pathlib, anthropic\n\nclient = anthropic.Anthropic()\nfor f in pathlib.Path(\"docs\").glob(\"*.txt\"):\n    text = f.read_text(encoding=\"utf-8\")\n    r = client.messages.create(\n        model=\"claude-sonnet-5\", max_tokens=500,\n        messages=[{\"role\": \"user\", \"content\": f\"Summarize in Hebrew, 3 bullets:\\n\\n{text}\"}],\n    )\n    f.with_suffix(\".summary.txt\").write_text(r.content[0].text, encoding=\"utf-8\")\n    print(\"done:\", f.name)",
+  "desc": "סקריפט שעובר על כל קובץ txt בתיקייה ושומר לידו סיכום.",
+  "tags": [
+   "Python",
+   "קבצים"
+  ],
+  "title": "סיכום כל קבצי הטקסט בתיקייה",
+  "type": "code",
+  "id": "c02"
+ },
+ {
+  "category": "API",
+  "code": "import Anthropic from \"@anthropic-ai/sdk\";\n\nconst client = new Anthropic(); // reads ANTHROPIC_API_KEY\nconst msg = await client.messages.create({\n  model: \"claude-sonnet-5\",\n  max_tokens: 1000,\n  messages: [{ role: \"user\", content: \"כתוב סלוגן לבית קפה בתל אביב\" }],\n});\nconsole.log(msg.content[0].text);",
+  "desc": "אותו רעיון ב־Node.js. מתקינים: npm install @anthropic-ai/sdk",
+  "tags": [
+   "JavaScript"
+  ],
+  "title": "קריאה ל־API מ־JavaScript",
+  "type": "code",
+  "id": "c03"
+ },
+ {
+  "category": "סוכנים ואוטומציה",
+  "desc": "תוסף לכרום שנותן ל־Claude לגלוש, ללחוץ ולמלא טפסים בשבילך, ישירות בדפדפן.",
+  "tags": [
+   "Anthropic",
+   "אוטומציה"
+  ],
+  "title": "Claude in Chrome",
+  "type": "plugin",
+  "url": "https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn",
+  "id": "g01"
+ },
+ {
+  "category": "עבודה ופרודוקטיביות",
+  "desc": "Claude בתוך אקסל: כותב נוסחאות, מנקה נתונים ובונה מודלים ישירות בגיליון.",
+  "tags": [
+   "אקסל"
+  ],
+  "title": "Claude for Excel",
+  "type": "plugin",
+  "url": "https://claude.com/resources/tutorials/getting-started-with-claude-in-excel",
+  "id": "g02"
+ },
+ {
+  "category": "תכנות",
+  "desc": "השלמת קוד וצ'אט בתוך VS Code, JetBrains ועורכים נוספים.",
+  "tags": [
+   "VS Code"
+  ],
+  "title": "GitHub Copilot",
+  "type": "plugin",
+  "url": "https://github.com/features/copilot",
+  "id": "g03"
+ },
+ {
+  "category": "תכנות",
+  "desc": "סוכן קוד בקוד פתוח ל־VS Code, שאפשר לחבר לכל ספק מודלים.",
+  "tags": [
+   "קוד פתוח"
+  ],
+  "title": "Cline",
+  "type": "plugin",
+  "url": "https://cline.bot",
+  "id": "g04"
+ },
+ {
+  "category": "תכנות",
+  "desc": "עוזר קוד בקוד פתוח ל־VS Code ו־JetBrains, עובד גם עם מודלים מקומיים.",
+  "tags": [
+   "קוד פתוח"
+  ],
+  "title": "Continue",
+  "type": "plugin",
+  "url": "https://www.continue.dev",
+  "id": "g05"
+ },
+ {
+  "category": "סוכנים ואוטומציה",
+  "desc": "מחבר בין אלפי אפליקציות ומוסיף שלב AI באמצע – למשל לסכם כל מייל חדש ולשלוח לוואטסאפ או לסלאק.",
+  "tags": [
+   "No-code"
+  ],
+  "title": "Zapier + AI",
+  "type": "plugin",
+  "url": "https://zapier.com",
+  "id": "g06"
+ },
+ {
+  "category": "פרומפטים טובים",
+  "desc": "במקום 'כתוב מייל', כתוב 'אתה מנהל שיווק מנוסה. כתוב מייל ללקוח ותיק שכועס על עיכוב במשלוח'. ככל שההקשר ברור יותר, התשובה מדויקת יותר.",
+  "tags": [
+   "בסיס"
+  ],
+  "title": "תן ל־AI תפקיד וקהל יעד",
+  "type": "tip",
+  "id": "p01"
+ },
+ {
+  "category": "פרומפטים טובים",
+  "desc": "אם יש לך סגנון שאתה אוהב, הדבק דוגמה ותגיד 'כתוב בסגנון הזה'. דוגמה אחת שווה פסקה של הסברים.",
+  "tags": [
+   "סגנון"
+  ],
+  "title": "בקש דוגמה לפני הכל",
+  "type": "tip",
+  "id": "p02"
+ },
+ {
+  "category": "בטיחות",
+  "desc": "כלי AI עלולים להמציא פרטים בביטחון מלא. לכל דבר חשוב – תאריכים, חוקים, מחירים – בקש מקורות ובדוק אותם בעצמך.",
+  "tags": [
+   "אמינות"
+  ],
+  "title": "תמיד תבדוק עובדות, מספרים וקישורים",
+  "type": "tip",
+  "id": "p03"
+ },
+ {
+  "category": "בטיחות",
+  "desc": "סיסמאות, מספרי תעודת זהות, פרטי כרטיס אשראי ומידע סודי של העבודה לא צריכים להגיע לצ'אט. מחק או החלף אותם לפני שאתה מדביק מסמך.",
+  "tags": [
+   "פרטיות"
+  ],
+  "title": "אל תדביק מידע רגיש",
+  "type": "tip",
+  "id": "p04"
+ },
+ {
+  "category": "פרומפטים טובים",
+  "desc": "למשימה גדולה, בקש קודם תוכנית או ראשי פרקים, אשר אותם, ורק אז את הגרסה המלאה. קל יותר לתקן כיוון מוקדם.",
+  "tags": [
+   "שיטה"
+  ],
+  "title": "עבוד בשלבים",
+  "type": "tip",
+  "id": "p05"
+ },
+ {
+  "category": "עבודה",
+  "code": "סכם את המסמך הבא ב־5 נקודות עיקריות.\nאחר כך כתוב: מה ההחלטות שצריך לקבל, מי אחראי, ומה הדדליין.\nאם משהו לא ברור במסמך, ציין את זה במקום לנחש.\n\n[הדבק כאן את המסמך]",
+  "desc": "הדבק את המסמך אחרי הפרומפט.",
+  "tags": [
+   "סיכום"
+  ],
+  "title": "סיכום מסמך ארוך",
+  "type": "prompt",
+  "id": "r01"
+ },
+ {
+  "category": "כתיבה",
+  "code": "כתוב מייל בעברית, מנומס אבל נחרץ, ל[למי].\nהמטרה: [מה אני רוצה שיקרה].\nהרקע: [מה קרה].\nעד 120 מילים, בלי משפטי פתיחה מיותרים, וסיים בבקשה ברורה עם תאריך יעד.",
+  "desc": "לתלונות, בירורים ובקשות החזר.",
+  "tags": [
+   "מיילים"
+  ],
+  "title": "מייל מנומס אבל נחרץ",
+  "type": "prompt",
+  "id": "r02"
+ },
+ {
+  "category": "לימודים",
+  "code": "אני רוצה ללמוד [נושא]. הרמה שלי: [מתחיל/בינוני].\nהסבר לי את הרעיון המרכזי בפשטות, עם דוגמה מהחיים.\nאחר כך שאל אותי שאלה אחת כדי לבדוק שהבנתי, וחכה לתשובה שלי לפני שתמשיך.",
+  "desc": "הופך את הצ'אט למורה שבודק הבנה.",
+  "tags": [
+   "למידה"
+  ],
+  "title": "מורה פרטי לכל נושא",
+  "type": "prompt",
+  "id": "r03"
+ },
+ {
+  "category": "תמונות",
+  "code": "[subject], [action], in [setting],\n[style: photo / watercolor / 3D render],\n[lighting: soft morning light],\n[camera: close-up, 35mm], [mood: calm],\nhigh detail, no text",
+  "desc": "תבנית שעובדת טוב ברוב מחוללי התמונות (עדיף באנגלית).",
+  "tags": [
+   "תמונות"
+  ],
+  "title": "פרומפט לתמונה",
+  "type": "prompt",
+  "id": "r04"
+ },
+ {
+  "category": "צ'אט ועוזרים",
+  "date": "2026-09-10",
+  "desc": "הדגם החדש והחזק ביותר של Anthropic שזמין לציבור. נכנס למקום הראשון בדירוג כלי הפיתוח של LogRocket לספטמבר, וקריאות מהמטמון זולות ב־75%, מה שמוריד משמעותית את העלות של משימות סוכנים ארוכות.",
+  "tags": [
+   "Anthropic",
+   "תכנות",
+   "סוכנים"
+  ],
+  "title": "Claude Fable 5.1",
+  "type": "tool",
+  "url": "https://claude.com",
+  "id": "t01"
+ },
+ {
+  "category": "צ'אט ועוזרים",
+  "date": "2026-09-02",
+  "desc": "הדגם המהיר החדש של גוגל, שיצא ב־2 בספטמבר. מתאים לשאלות מהירות, סיכומים ועבודה עם קבצים, ועליו רצים גם הסוכנים החדשים ב־AI Studio.",
+  "tags": [
+   "Google",
+   "מהיר"
+  ],
+  "title": "Gemini 3.8 Flash",
+  "type": "tool",
+  "url": "https://gemini.google.com",
+  "id": "t02"
+ },
+ {
+  "category": "צ'אט ועוזרים",
+  "date": "2026-09-14",
+  "desc": "הצ'אטבוט של OpenAI קיבל עדכון גרסה באמצע ספטמבר ורץ כעת על מנוע GPT-6 Astra. זמין בדפדפן, בטלפון ובמחשב, וגם בעברית.",
+  "tags": [
+   "OpenAI",
+   "כללי"
+  ],
+  "title": "ChatGPT (עדכון GPT-6 Astra)",
+  "type": "tool",
+  "url": "https://chatgpt.com",
+  "id": "t03"
+ },
+ {
+  "category": "עבודה ופרודוקטיביות",
+  "date": "2026-09-18",
+  "desc": "אפליקציית Copilot עוצבה מחדש ונוספו לה שלושה מצבים: מסך בית אישי, מצב קוד למתכנתים, ו־Autopilot שמבצע משימות בשבילך מתחילתן ועד סופן.",
+  "tags": [
+   "Microsoft",
+   "סוכנים"
+  ],
+  "title": "Microsoft Copilot: Home, Code ו־Autopilot",
+  "type": "tool",
+  "url": "https://copilot.microsoft.com",
+  "id": "t04"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "2026-09-08",
+  "desc": "סוכן חדש של Leonardo.Ai ששומר על אותה דמות ואותו מיתוג לאורך סדרה של סצנות. מעולה לסטוריבורד, קומיקס, או סדרת פוסטים עם דמות קבועה.",
+  "tags": [
+   "עיצוב",
+   "דמויות"
+  ],
+  "title": "Leonardo Agent",
+  "type": "tool",
+  "url": "https://leonardo.ai",
+  "id": "t05"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "2026-09-16",
+  "desc": "עריכה בשיחה עם Gemini לשורטס, בדיקת A/B של עד שלוש גרסאות סרטון, תמונות ממוזערות דינמיות וסינון תגובות אוטומטי. מיועד לכל מי שמעלה תוכן ליוטיוב.",
+  "tags": [
+   "יוטיוב",
+   "יוצרים"
+  ],
+  "title": "YouTube Studio – כלי AI ליוצרים",
+  "type": "tool",
+  "url": "https://studio.youtube.com",
+  "id": "t06"
+ },
+ {
+  "category": "סוכנים ואוטומציה",
+  "date": "2026-09-24",
+  "desc": "מוצר לארגונים שמרכז במקום אחד את כל סוכני ה־AI בחברה: מי אחראי על כל סוכן, האם הוא עומד ביעדים ומה רמת הסיכון שלו. הושק ב־24 בספטמבר, וזמינות מלאה מתוכננת לאוקטובר.",
+  "tags": [
+   "ארגונים",
+   "ניהול"
+  ],
+  "title": "Dataiku Agent Management",
+  "type": "tool",
+  "url": "https://www.dataiku.com",
+  "id": "t07"
+ },
+ {
+  "category": "צ'אט ועוזרים",
+  "date": "2026-09-12",
+  "desc": "הדגם החדש של עליבאבא, הראשון של החברה שנכנס לשלושת המקומות הראשונים בדירוג כלי הפיתוח. אלטרנטיבה חזקה בעיקר למשימות תכנות.",
+  "tags": [
+   "Alibaba",
+   "תכנות"
+  ],
+  "title": "Qwen 3.8 Max",
+  "type": "tool",
+  "url": "https://chat.qwen.ai",
+  "id": "t08"
+ },
+ {
+  "category": "סוכנים ואוטומציה",
+  "date": "2026-05-28",
+  "desc": "הגרסה החדשה של Le Chat מבית Mistral הצרפתית: צ'אט וסוכן תכנות שמסוגל לעבוד על משימות ארוכות. טוב למי שמחפש חלופה אירופית.",
+  "tags": [
+   "Mistral",
+   "תכנות"
+  ],
+  "title": "Mistral Vibe",
+  "type": "tool",
+  "url": "https://mistral.ai/products/vibe/",
+  "id": "t09"
+ },
+ {
+  "category": "תכנות",
+  "date": "2026-09-10",
+  "desc": "סוכן תכנות שעובד ישירות על הקוד שלך: כותב, מתקן ומריץ בדיקות מהטרמינל, מהמחשב או מהטלפון. לפי דירוג ספטמבר של LogRocket, כלי הפיתוח מספר 1.",
+  "tags": [
+   "Anthropic",
+   "מתכנתים"
+  ],
+  "title": "Claude Code",
+  "type": "tool",
+  "url": "https://code.claude.com/docs",
+  "id": "t10"
+ },
+ {
+  "category": "מחקר ולמידה",
+  "date": "",
+  "desc": "מנוע חיפוש שעונה בשפה טבעית ומצרף מקורות לכל טענה. מצוין לבדיקת עובדות ולמחקר מהיר.",
+  "tags": [
+   "חיפוש",
+   "מקורות"
+  ],
+  "title": "Perplexity",
+  "type": "tool",
+  "url": "https://www.perplexity.ai",
+  "id": "t11"
+ },
+ {
+  "category": "מחקר ולמידה",
+  "date": "",
+  "desc": "מעלים מסמכים, סרטונים או קישורים, ומקבלים סיכומים, שאלות ותשובות, ואפילו פודקאסט שמסביר את החומר. כלי מעולה ללמידה למבחנים.",
+  "tags": [
+   "Google",
+   "לימודים"
+  ],
+  "title": "NotebookLM",
+  "type": "tool",
+  "url": "https://notebooklm.google.com",
+  "id": "t12"
+ },
+ {
+  "category": "תכנות",
+  "date": "",
+  "desc": "עורך קוד שבנוי סביב AI: משלים קוד, מסביר ומבצע שינויים בכמה קבצים בבת אחת.",
+  "tags": [
+   "עורך קוד"
+  ],
+  "title": "Cursor",
+  "type": "tool",
+  "url": "https://cursor.com",
+  "id": "t13"
+ },
+ {
+  "category": "קול ומוזיקה",
+  "date": "",
+  "desc": "הקראה בקול טבעי, דיבוב לשפות אחרות ושיבוט קול, כולל תמיכה בעברית.",
+  "tags": [
+   "קריינות",
+   "דיבוב"
+  ],
+  "title": "ElevenLabs",
+  "type": "tool",
+  "url": "https://elevenlabs.io",
+  "id": "t14"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "",
+  "desc": "אחד ממחוללי התמונות האיכותיים ביותר, עם סגנון אמנותי חזק. מתאים לאיורים, קונספטים ועיצוב.",
+  "tags": [
+   "תמונות",
+   "אמנות"
+  ],
+  "title": "Midjourney",
+  "type": "tool",
+  "url": "https://www.midjourney.com",
+  "id": "t15"
+ },
+ {
+  "category": "קול ומוזיקה",
+  "date": "",
+  "desc": "יוצר שירים שלמים, כולל מנגינה ושירה, מתיאור קצר בטקסט.",
+  "tags": [
+   "מוזיקה"
+  ],
+  "title": "Suno",
+  "type": "tool",
+  "url": "https://suno.com",
+  "id": "t16"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "",
+  "desc": "כלי העיצוב הפופולרי עם יכולות AI מובנות: יצירת תמונות, הסרת רקע, כתיבת טקסטים והפקת מצגות ופוסטים מתיאור קצר. תומך בעברית.",
+  "tags": [
+   "עיצוב",
+   "מצגות"
+  ],
+  "title": "Canva AI",
+  "type": "tool",
+  "url": "https://www.canva.com",
+  "id": "t17"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "",
+  "desc": "יצירה ועריכה של וידאו בעזרת AI: הפיכת טקסט או תמונה לסרטון, הסרת אובייקטים והארכת קליפים.",
+  "tags": [
+   "וידאו"
+  ],
+  "title": "Runway",
+  "type": "tool",
+  "url": "https://runwayml.com",
+  "id": "t18"
+ },
+ {
+  "category": "תמונות ווידאו",
+  "date": "",
+  "desc": "סרטונים עם אווטאר מדבר ותרגום סרטונים לשפות אחרות תוך שמירה על הקול ותנועות השפתיים. שימושי לשיווק ולהדרכות.",
+  "tags": [
+   "אווטאר",
+   "תרגום"
+  ],
+  "title": "HeyGen",
+  "type": "tool",
+  "url": "https://www.heygen.com",
+  "id": "t19"
+ },
+ {
+  "category": "עבודה ופרודוקטיביות",
+  "date": "",
+  "desc": "בונה מצגות, מסמכים ודפי אינטרנט מעוצבים מתוך תיאור קצר או טקסט קיים, תוך דקות.",
+  "tags": [
+   "מצגות"
+  ],
+  "title": "Gamma",
+  "type": "tool",
+  "url": "https://gamma.app",
+  "id": "t20"
+ },
+ {
+  "category": "עבודה ופרודוקטיביות",
+  "date": "",
+  "desc": "עוזר AI בתוך Notion שמסכם פגישות, כותב טיוטות ועונה על שאלות מתוך כל המסמכים של הצוות.",
+  "tags": [
+   "ניהול ידע"
+  ],
+  "title": "Notion AI",
+  "type": "tool",
+  "url": "https://www.notion.so",
+  "id": "t21"
+ },
+ {
+  "category": "עבודה ופרודוקטיביות",
+  "date": "",
+  "desc": "שירות תרגום מבוסס AI שנחשב לאחד המדויקים והטבעיים, כולל תרגום מסמכים שלמים ושכתוב טקסטים.",
+  "tags": [
+   "תרגום"
+  ],
+  "title": "DeepL",
+  "type": "tool",
+  "url": "https://www.deepl.com",
+  "id": "t22"
+ },
+ {
+  "category": "סוכנים ואוטומציה",
+  "date": "",
+  "desc": "פלטפורמת אוטומציה חזותית (קוד פתוח) לבניית תהליכים וסוכני AI שמחברים בין מאות שירותים. אפשר להריץ בענן או על שרת משלך.",
+  "tags": [
+   "No-code",
+   "קוד פתוח"
+  ],
+  "title": "n8n",
+  "type": "tool",
+  "url": "https://n8n.io",
+  "id": "t23"
+ },
+ {
+  "category": "תכנות",
+  "date": "",
+  "desc": "בונה אפליקציות ואתרים שלמים מתוך תיאור בשפה רגילה, גם בלי ידע בתכנות. מתאים לאבות־טיפוס מהירים.",
+  "tags": [
+   "בלי קוד",
+   "אתרים"
+  ],
+  "title": "Lovable",
+  "type": "tool",
+  "url": "https://lovable.dev",
+  "id": "t24"
+ }
+]

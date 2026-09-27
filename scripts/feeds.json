@@ -1,0 +1,12 @@
+[
+ {"name": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "all_ai": true},
+ {"name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "all_ai": true},
+ {"name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "all_ai": true},
+ {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "all_ai": true},
+ {"name": "Ars Technica", "url": "https://arstechnica.com/ai/feed/", "all_ai": true},
+ {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "all_ai": true},
+ {"name": "Google", "url": "https://blog.google/technology/ai/rss/", "all_ai": true},
+ {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "all_ai": true},
+ {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "all_ai": true},
+ {"name": "Geektime", "url": "https://www.geektime.co.il/feed/", "lang": "he"}
+]

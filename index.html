@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="חדשות בינה מלאכותית, כלים חדשים, טיפים ופרומפטים בעברית. מתעדכן כל שעה.">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>רדאר AI – כל כלי הבינה המלאכותית בעברית</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Secular+One&family=Assistant:wght@400;600;700&family=Fira+Code:wght@400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F3F5FA; --surface:#FFFFFF; --ink:#18213F; --muted:#5B6485; --line:#DCE1EE;
+  --blue:#2F5BEA; --blue-soft:#E4EAFD; --mint:#0F9D80; --mint-soft:#DDF4EE; --code-bg:#1D2545; --code-ink:#E6EAFF;
+  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#10152B; --surface:#182041; --ink:#EDF0FF; --muted:#A3ABCC; --line:#2A3460;
+  --blue:#7C9BFF; --blue-soft:#243060; --mint:#4FD6B4; --mint-soft:#163F3A; --code-bg:#0A0E1F; --code-ink:#E6EAFF;}}
+:root[data-theme="dark"]{
+  --bg:#10152B; --surface:#182041; --ink:#EDF0FF; --muted:#A3ABCC; --line:#2A3460;
+  --blue:#7C9BFF; --blue-soft:#243060; --mint:#4FD6B4; --mint-soft:#163F3A; --code-bg:#0A0E1F; --code-ink:#E6EAFF;}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Assistant",Arial,sans-serif;font-size:17px;line-height:1.6}
+a{color:var(--blue)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+header.hero{padding:44px 0 26px}
+.logo{font-family:"Secular One","Assistant",sans-serif;font-size:clamp(40px,8vw,76px);line-height:1;margin:0;letter-spacing:-.5px}
+.logo .dot{display:inline-block;width:.32em;height:.32em;border-radius:50%;background:var(--mint);margin-inline-start:.12em;vertical-align:.18em;box-shadow:0 0 0 0 var(--mint);animation:ping 2.4s ease-out infinite}
+@keyframes ping{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--mint) 60%,transparent)}100%{box-shadow:0 0 0 .5em transparent}}
+@media (prefers-reduced-motion:reduce){.logo .dot{animation:none}}
+.tag{color:var(--muted);font-size:19px;margin:12px 0 0;max-width:60ch}
+.stamp{font-size:14px;color:var(--muted);margin-top:6px}
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:10px 0}
+.bar .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.tabs{display:flex;gap:4px;overflow-x:auto;flex:1 1 auto}
+.tabs button{border:0;background:none;font:inherit;font-weight:600;color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+.search{flex:0 1 260px;min-width:180px;font:inherit;padding:8px 14px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink)}
+button:focus-visible,input:focus-visible,a:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:20px 0 6px}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-size:15px;padding:3px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{border-color:var(--blue);background:var(--blue-soft);color:var(--blue);font-weight:700}
+main{padding-bottom:60px}
+.month{font-family:"Secular One",sans-serif;font-size:22px;margin:30px 0 10px;display:flex;align-items:center;gap:12px}
+.month::after{content:"";flex:1;height:2px;background:var(--line)}
+.list{display:grid;gap:14px}
+.item{background:var(--surface);border:1px solid var(--line);border-inline-start:5px solid var(--blue);border-radius:6px;padding:18px 20px}
+.item.fresh{border-inline-start-color:var(--mint)}
+.item h3{margin:0;font-size:21px;display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.new{font-size:13px;font-weight:700;background:var(--mint-soft);color:var(--mint);padding:1px 9px;border-radius:999px}
+.cat{font-size:14px;color:var(--muted);font-weight:600}
+.item p{margin:8px 0 0;max-width:72ch}
+.meta{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin-top:12px;font-size:15px}
+.meta .t{color:var(--muted)}
+.go{font-weight:700;text-decoration:none;border:2px solid var(--blue);padding:3px 14px;border-radius:999px}
+.go:hover{background:var(--blue);color:var(--surface)}
+pre{direction:ltr;text-align:left;background:var(--code-bg);color:var(--code-ink);font-family:"Fira Code",Consolas,monospace;font-size:14px;padding:14px;border-radius:6px;overflow-x:auto;margin:12px 0 0;white-space:pre}
+.yt{font-weight:700;text-decoration:none;border:2px solid #D93025;color:#D93025;padding:3px 14px;border-radius:999px}
+.yt:hover{background:#D93025;color:#fff}
+.yt.ghost{border-color:var(--line);color:var(--muted);font-weight:600}
+.yt.ghost:hover{background:var(--line);color:var(--ink)}
+.month small{font-family:"Assistant",sans-serif;font-size:15px;color:var(--muted);font-weight:600;order:3}
+.chip b{font-weight:700;opacity:.6;margin-inline-start:2px}
+.nhead{display:flex;gap:10px;align-items:center;font-size:14px;margin-bottom:4px}
+.co{font-weight:700;background:var(--blue-soft);color:var(--blue);padding:1px 10px;border-radius:4px}
+.nhead .t{color:var(--muted)}
+.learn{margin-top:12px;background:var(--mint-soft);border-radius:6px;padding:10px 14px}
+.learn strong{color:var(--mint);font-size:15px}
+.learn p{margin:2px 0 0}
+.copy{font:inherit;font-size:14px;border:1px solid var(--line);background:none;color:var(--ink);border-radius:999px;padding:2px 12px;cursor:pointer}
+.del{font:inherit;font-size:13px;border:0;background:none;color:#C23B3B;cursor:pointer;margin-inline-start:auto}
+.empty{padding:40px 0;color:var(--muted)}
+.admin{background:var(--surface);border:2px dashed var(--line);border-radius:8px;padding:18px 20px;margin-top:24px}
+.admin h2{font-family:"Secular One",sans-serif;font-size:22px;margin:0 0 4px}
+.admin .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.admin input,.admin select,.admin textarea{font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);flex:1 1 200px}
+.primary{font:inherit;font-weight:700;border:0;background:var(--blue);color:#fff;padding:8px 18px;border-radius:999px;cursor:pointer}
+.primary:disabled{opacity:.5;cursor:wait}
+.status{font-size:15px;color:var(--muted);margin-top:8px;min-height:1.4em}
+footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<header class="hero wrap">
+  <h1 class="logo">רדאר AI<span class="dot" aria-hidden="true"></span></h1>
+  <p class="tag">חדשות הבינה המלאכותית וכל כלי חדש שיוצא, מוסברים בעברית פשוטה. ולצדם טיפים, פרומפטים מוכנים, תוספים וקטעי קוד שאפשר להעתיק ולהשתמש.</p>
+  <div class="stamp" id="stamp"></div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <input class="search" id="q" type="search" placeholder="חיפוש כלי, טיפ או קוד…" aria-label="חיפוש">
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="chips" id="chips"></div>
+  <div id="feed"><p class="empty">טוען תוכן…</p></div>
+  
+</main>
+<footer class="wrap">רדאר AI · החדשות נסרקות אוטומטית כל שעה ממקורות מובילים, עם קישור לכל כתבה מקורית.</footer>
+
+<script>
+const TABS=[["news","חדשות"],["tool","כלים"],["tip","טיפים"],["prompt","פרומפטים"],["plugin","תוספים ופלאגינים"],["code","קוד"]];
+const MONTHS=["ינואר","פברואר","מרץ","אפריל","מאי","יוני","יולי","אוגוסט","ספטמבר","אוקטובר","נובמבר","דצמבר"];
+let items=[],tab="news",cat=null,q="",db=null,canEdit=false;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:null;
+
+$("tabs").innerHTML=TABS.map(([k,l])=>`<button role="tab" data-k="${k}" aria-selected="${k===tab}">${l}</button>`).join("");
+$("tabs").onclick=e=>{const b=e.target.closest("button");if(!b)return;tab=b.dataset.k;cat=null;[...$("tabs").children].forEach(x=>x.setAttribute("aria-selected",x===b));render()};
+$("q").oninput=e=>{q=e.target.value.trim().toLowerCase();render()};
+
+function isFresh(d){if(!d)return false;const t=new Date(d.length===7?d+"-15":d);return (Date.now()-t)<21*864e5}
+function monthLabel(d){if(!d)return "";const [y,m]=d.split("-");return MONTHS[+m-1]+" "+y}
+
+const CAT_ORDER=["צ'אט ועוזרים","תכנות","תמונות ווידאו","קול ומוזיקה","סוכנים ואוטומציה","מחקר ולמידה","עבודה ופרודוקטיביות"];
+const CAT_ICON={"צ'אט ועוזרים":"💬","תכנות":"👩‍💻","תמונות ווידאו":"🎨","קול ומוזיקה":"🎧","סוכנים ואוטומציה":"🤖","מחקר ולמידה":"📚","עבודה ופרודוקטיביות":"📊"};
+const ytUrl=(t,lang)=>"https://www.youtube.com/results?search_query="+encodeURIComponent(lang==="he"?t+" מדריך בעברית":t+" tutorial");
+const catRank=c=>{let i=CAT_ORDER.indexOf(c);if(i<0)i=NEWS_ORDER.indexOf(c);return i<0?99:i};
+function card(i){
+  const u=safeUrl(i.url),fresh=(tab==="tool"||tab==="plugin")&&isFresh(i.date),isTool=tab==="tool"||tab==="plugin";
+  const yt=safeUrl(i.youtube);
+  return `<article class="item ${fresh?"fresh":""}">
+    <h3>${esc(i.title)} ${fresh?'<span class="new">חדש</span>':""} ${!isTool&&i.category?`<span class="cat">${esc(i.category)}</span>`:""}</h3>
+    <p>${esc(i.desc)}</p>
+    ${i.code?`<pre><code>${esc(i.code)}</code></pre>`:""}
+    <div class="meta">
+      ${u?`<a class="go" href="${esc(u)}" target="_blank" rel="noopener">${isTool?"לאתר הרשמי":"למקור"}</a>`:""}
+      ${isTool?`<a class="yt" href="${esc(yt||ytUrl(i.title,"he"))}" target="_blank" rel="noopener">▶ ${yt?"סרטון מומלץ":"סרטונים בעברית"}</a>
+        <a class="yt ghost" href="${esc(ytUrl(i.title,"en"))}" target="_blank" rel="noopener">▶ מדריכים באנגלית</a>`:""}
+      ${i.code?`<button class="copy" data-copy="${esc(i._id)}">העתק</button>`:""}
+      ${i.date&&isTool?`<span class="t">${monthLabel(i.date.slice(0,7))}</span>`:""}
+      ${canEdit?`<button class="del" data-del="${esc(i._id)}">מחק</button>`:""}
+    </div></article>`;
+}
+const NEWS_ORDER=["מודלים חדשים","חברות גדולות","מוצרים ששוברים את השוק","מחקר ופריצות דרך","בטיחות ורגולציה"];
+function dateLabel(d){if(!d)return "";if(d.length===7)return monthLabel(d);return new Date(d).toLocaleDateString("he-IL",{day:"numeric",month:"long",year:"numeric"})}
+function newsCard(i){
+  const u=safeUrl(i.url),fresh=isFresh(i.date);
+  return `<article class="item news ${fresh?"fresh":""}">
+    <div class="nhead">${i.company?`<span class="co">${esc(i.company)}</span>`:""}<span class="t">${dateLabel(i.date)}</span>${fresh?'<span class="new">חדש</span>':""}</div>
+    <h3>${esc(i.title)}</h3>
+    <p>${esc(i.desc)}</p>
+    ${i.learn?`<div class="learn"><strong>💡 מה אפשר ללמוד מזה</strong><p>${esc(i.learn)}</p></div>`:""}
+    <div class="meta">${u?`<a class="go" href="${esc(u)}" target="_blank" rel="noopener">למקור הידיעה</a>`:""}
+      ${i.category?`<span class="t">${esc(i.category)}</span>`:""}
+      ${canEdit?`<button class="del" data-del="${esc(i._id)}">מחק</button>`:""}</div></article>`;
+}
+function render(){
+  let list=items.filter(i=>i.type===tab);
+  const counts={};list.forEach(i=>{const c=i.category||"אחר";counts[c]=(counts[c]||0)+1});
+  const cats=Object.keys(counts).sort((a,b)=>catRank(a)-catRank(b));
+  const isTool=tab==="tool"||tab==="plugin";
+  $("chips").innerHTML=cats.length>1?[`<button class="chip" aria-pressed="${!cat}" data-c="">הכל <b>${list.length}</b></button>`,...cats.map(c=>`<button class="chip" data-c="${esc(c)}" aria-pressed="${cat===c}">${CAT_ICON[c]?CAT_ICON[c]+" ":""}${esc(c)} <b>${counts[c]}</b></button>`)].join(""):"";
+  if(cat)list=list.filter(i=>(i.category||"אחר")===cat);
+  if(q)list=list.filter(i=>[i.title,i.desc,i.category,(i.tags||[]).join(" "),i.code].join(" ").toLowerCase().includes(q));
+  list.sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+  if(!list.length){$("feed").innerHTML=`<p class="empty">${q?"לא נמצאו תוצאות. נסה מילה אחרת.":"עדיין אין כאן תוכן."}</p>`;return}
+  if(tab==="news"){$("feed").innerHTML=`<div class="list">${list.map(newsCard).join("")}</div>`;return}
+  if(!isTool){$("feed").innerHTML=`<div class="list">${list.map(card).join("")}</div>`;return}
+  const groups={};list.forEach(i=>{const c=i.category||"אחר";(groups[c]=groups[c]||[]).push(i)});
+  $("feed").innerHTML=Object.keys(groups).sort((a,b)=>catRank(a)-catRank(b)).map(c=>
+    `<section><h2 class="month"><span>${CAT_ICON[c]||"✨"}</span>${esc(c)}<small>${groups[c].length} כלים</small></h2><div class="list">${groups[c].map(card).join("")}</div></section>`).join("");
+}
+$("chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;cat=b.dataset.c||null;render()};
+$("feed").onclick=async e=>{
+  const c=e.target.closest("[data-copy]");
+  if(c){const it=items.find(x=>x._id===c.dataset.copy);try{await navigator.clipboard.writeText(it.code);c.textContent="הועתק ✓"}catch{c.textContent="העתק ידנית"}setTimeout(()=>c.textContent="העתק",1800);return}
+  const d=e.target.closest("[data-del]");
+  if(d&&db&&confirm("למחוק את הפריט?")){try{await db.doc("items/"+d.dataset.del).delete()}catch(err){status("המחיקה נכשלה: "+err.message)}}
+};
+
+function status(t){$("status").textContent=t}
+const today=()=>new Date().toISOString().slice(0,10);
+const newId=()=>"i"+Date.now().toString(36)+Math.random().toString(36).slice(2,6);
+
+(async()=>{
+  try{
+    const [c,n]=await Promise.all([fetch("data/content.json",{cache:"no-cache"}),fetch("data/news.json",{cache:"no-cache"})]);
+    const content=await c.json(),news=await n.json();
+    items=[...content,...news.items].map(i=>({...i,_id:i.id,company:i.company||i.source}));
+    if(news.updated){
+      const mins=Math.round((Date.now()-new Date(news.updated))/60000);
+      $("stamp").textContent="החדשות נסרקו לאחרונה "+(mins<60?`לפני ${Math.max(mins,1)} דקות`:mins<1440?`לפני ${Math.round(mins/60)} שעות`:new Date(news.updated).toLocaleDateString("he-IL"));
+    }
+    render();
+  }catch(err){$("feed").innerHTML='<p class="empty">לא הצלחתי לטעון את התוכן. רענן את הדף.</p>'}
+})();
+</script>
+</body>
+</html>
