@@ -1,6 +1,138 @@
 {
- "updated": "2026-09-27T09:00:00Z",
+ "updated": "2026-09-27T19:43:12+00:00",
  "items": [
+  {
+   "id": "39e6d83733f3",
+   "type": "news",
+   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "title_orig": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "7777e4571374",
+   "type": "news",
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "title_orig": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "ed2cbcca51ab",
+   "type": "news",
+   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "title_orig": "OpenAI agents tried to ‘bruteforce’ a UN website",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "1ec10971f32c",
+   "type": "news",
+   "title": "חשבו שהם גונבים משאית של NVIDIA וקיבלו במקום זה 20 טונות של חול",
+   "title_orig": "חשבו שהם גונבים משאית של NVIDIA וקיבלו במקום זה 20 טונות של חול",
+   "url": "https://www.geektime.co.il/so-called-nvidia-truck-stolen/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "e96096b9d08c",
+   "type": "news",
+   "title": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
+   "title_orig": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
+   "url": "https://www.geektime.co.il/openai-halts-sota-models-due-to-misaligned-agents/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "4dee4366d842",
+   "type": "news",
+   "title": "דברו עם הסוכן שלי: 3 אירועים שיעזרו לכם לעבוד חכם יותר עם מודלי AI",
+   "title_orig": "דברו עם הסוכן שלי: 3 אירועים שיעזרו לכם לעבוד חכם יותר עם מודלי AI",
+   "url": "https://www.geektime.co.il/geek-events-2792026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-27"
+  },
+  {
+   "category": "בטיחות ורגולציה",
+   "date": "2026-09-27",
+   "desc": "לפי דיווח בפיננשל טיימס, קבוצת מודיעין האיומים של גוגל מצאה שווקים ברשת האפלה שמוכרים גישה למודלים של Anthropic, גוגל ו־OpenAI בהנחות של עד 97%.",
+   "learn": "אם מישהו מציע לכם מנוי AI במחיר חשוד של זול, כנראה שמדובר בחשבון גנוב. קנו רק מהאתר הרשמי, ואל תשתפו מפתחות API.",
+   "title": "גישה למודלי AI נמכרת ברשת האפלה",
+   "type": "news",
+   "url": "https://llm-stats.com/ai-news",
+   "id": "n11",
+   "source": "Google",
+   "manual": true
+  },
+  {
+   "id": "71b88d6b7195",
+   "type": "news",
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "title_orig": "Insurers claim AI is already increasing healthcare costs",
+   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "dc5183e86bb5",
+   "type": "news",
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "title_orig": "I created an interactive digital avatar of myself — and you can talk to it",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "fe937b84825f",
+   "type": "news",
+   "title": "At Meta Connect, the company’s smart glasses were everywhere",
+   "title_orig": "At Meta Connect, the company’s smart glasses were everywhere",
+   "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "819e92326da0",
+   "type": "news",
+   "title": "OpenAI pauses training of its ‘most capable models’",
+   "title_orig": "OpenAI pauses training of its ‘most capable models’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "344d41dcb1d6",
+   "type": "news",
+   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "title_orig": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "2309e3dcaf88",
+   "type": "news",
+   "title": "כולם מדברים על AI Slop, אבל כולם צריכים לדבר על Workslop",
+   "title_orig": "כולם מדברים על AI Slop, אבל כולם צריכים לדבר על Workslop",
+   "url": "https://www.geektime.co.il/workslop-is-a-problem/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-26"
+  },
   {
    "category": "מחקר ופריצות דרך",
    "date": "2026-09-26",
@@ -14,16 +146,1228 @@
    "manual": true
   },
   {
-   "category": "מודלים חדשים",
-   "date": "2026-09",
-   "desc": "לפי AI Weekly, השיקה OpenAI שני מודלים חדשים, GPT-6 Sol ו־Luna, בחצי מהמחיר של סדרת 5.6, וטוענת ש־Sol מצמצם את שיעור הטעויות בחצי.",
-   "learn": "מחירי ה־AI ממשיכים לרדת. מי שמשלם על API כדאי לבדוק כל כמה חודשים אם מודל חדש נותן אותה איכות בפחות כסף.",
-   "title": "OpenAI משיקה את GPT-6 Sol ו־Luna בחצי מחיר",
+   "id": "eb24f91b4396",
    "type": "news",
-   "url": "https://aiweekly.co/ai-news-today/openai-news",
-   "id": "n02",
+   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "title_orig": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "a7fc94a8f10d",
+   "type": "news",
+   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "title_orig": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "1ccbcef18549",
+   "type": "news",
+   "title": "Meta opens early access program for new Muse features",
+   "title_orig": "Meta opens early access program for new Muse features",
+   "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "16601d8d6797",
+   "type": "news",
+   "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+   "title_orig": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+   "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "fe235f269aa2",
+   "type": "news",
+   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "title_orig": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "43fec3bf6a06",
+   "type": "news",
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "title_orig": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "fdba889df7cc",
+   "type": "news",
+   "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+   "title_orig": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+   "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "ca53c408de44",
+   "type": "news",
+   "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+   "title_orig": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+   "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "44c2d633c103",
+   "type": "news",
+   "title": "Astra and Opus just passed Turing’s other test",
+   "title_orig": "Astra and Opus just passed Turing’s other test",
+   "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "82c8b1320599",
+   "type": "news",
+   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "title_orig": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "6927cc92c4d1",
+   "type": "news",
+   "title": "Meta’s AI Tamagotchi bet is…working?",
+   "title_orig": "Meta’s AI Tamagotchi bet is…working?",
+   "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "1f14fef7c28f",
+   "type": "news",
+   "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "title_orig": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "6adb903e8228",
+   "type": "news",
+   "title": "Anthropic’s founders seek voting control ahead of IPO",
+   "title_orig": "Anthropic’s founders seek voting control ahead of IPO",
+   "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "4fb7b8b01cde",
+   "type": "news",
+   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "title_orig": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "c6b6939f433a",
+   "type": "news",
+   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+   "title_orig": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+   "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "e84d98e81ae7",
+   "type": "news",
+   "title": "Meta makes the Muse filesystem even more accessible",
+   "title_orig": "Meta makes the Muse filesystem even more accessible",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "706759721ffd",
+   "type": "news",
+   "title": "Sony and UMG are suing Suno again",
+   "title_orig": "Sony and UMG are suing Suno again",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "637d4699a545",
+   "type": "news",
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "title_orig": "One company is at the center of a wave of rogue AI attacks",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "f5e0462c8aed",
+   "type": "news",
+   "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+   "title_orig": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+   "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "c9b6dd7b22a4",
+   "type": "news",
+   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+   "title_orig": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "391cdb68232b",
+   "type": "news",
+   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "title_orig": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "26c3af843986",
+   "type": "news",
+   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+   "title_orig": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "be11f7d1d629",
+   "type": "news",
+   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+   "title_orig": "Tesla workers balk at training Optimus humanoid robots as replacements",
+   "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "8479eb8c7ebf",
+   "type": "news",
+   "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+   "title_orig": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+   "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "9366ee5bcbcd",
+   "type": "news",
+   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "title_orig": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "6fe8ff823f55",
+   "type": "news",
+   "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+   "title_orig": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+   "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "d2d497e5eee4",
+   "type": "news",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "title_orig": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
    "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-25"
+  },
+  {
+   "category": "חברות גדולות",
+   "date": "2026-09-25",
+   "desc": "גוגל הוסיפה ל־Gemini API סוכנים מנוהלים שמביאים את יכולות סוכן הקוד Antigravity. במקביל הציגה Google Labs את CC, סוכן לניהול הבית שמסנכרן לוחות שנה של עד חמישה בני משפחה ומכין תכניות ארוחות.",
+   "learn": "סוכנים מתחילים לנהל גם את החיים הפרטיים. שווה לחשוב אילו משימות שחוזרות אצלכם כל שבוע אפשר להעביר לסוכן.",
+   "title": "גוגל מרחיבה את הסוכנים: למפתחים ולמשפחות",
+   "type": "news",
+   "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+   "id": "n09",
+   "source": "Google",
    "manual": true
+  },
+  {
+   "id": "ee9698a7fdb9",
+   "type": "news",
+   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+   "title_orig": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "3ab9cbba8c0d",
+   "type": "news",
+   "title": "Jensen Huang talks about AI and climate change like a supervillain",
+   "title_orig": "Jensen Huang talks about AI and climate change like a supervillain",
+   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "204ef99e7e64",
+   "type": "news",
+   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+   "title_orig": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+   "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "57771181a897",
+   "type": "news",
+   "title": "Google's first Suncatcher orbital data center test launches October 1",
+   "title_orig": "Google's first Suncatcher orbital data center test launches October 1",
+   "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "fb199060212f",
+   "type": "news",
+   "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+   "title_orig": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+   "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "11b1f486e03b",
+   "type": "news",
+   "title": "Meta puts its AI assistant on a keychain",
+   "title_orig": "Meta puts its AI assistant on a keychain",
+   "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "91625e27c986",
+   "type": "news",
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "title_orig": "Introducing Gemini 3.8 Live with Live Avatar",
+   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "c2a53f233272",
+   "type": "news",
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "title_orig": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "b777a1f77614",
+   "type": "news",
+   "title": "גוגל סוף סוף חושפת: Gemini 4… כמעט מוכן…",
+   "title_orig": "גוגל סוף סוף חושפת: Gemini 4… כמעט מוכן…",
+   "url": "https://www.geektime.co.il/gemini-4-is-almost-ready/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "3eff3c758c76",
+   "type": "news",
+   "title": "הסטארטאפ amp מפטר כ-80% מעובדיו, עשרות מהם בישראל",
+   "title_orig": "הסטארטאפ amp מפטר כ-80% מעובדיו, עשרות מהם בישראל",
+   "url": "https://www.geektime.co.il/amp-ai-layoffs/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "eedf55610e80",
+   "type": "news",
+   "title": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
+   "title_orig": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
+   "url": "https://www.geektime.co.il/meta-connect-2026-muse-glasses-announcements/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-24"
+  },
+  {
+   "id": "fda44b10a27a",
+   "type": "news",
+   "title": "The AI Hype Index: AI loves cheating",
+   "title_orig": "The AI Hype Index: AI loves cheating",
+   "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "229b3c7f852c",
+   "type": "news",
+   "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+   "title_orig": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+   "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "ee7ea9cc3ba7",
+   "type": "news",
+   "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+   "title_orig": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+   "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "b7941cc8a21f",
+   "type": "news",
+   "title": "YouTube promises custom feeds and a lot more AI later this year",
+   "title_orig": "YouTube promises custom feeds and a lot more AI later this year",
+   "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "2792cb9bc49e",
+   "type": "news",
+   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+   "title_orig": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+   "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "9d02eeb8cef1",
+   "type": "news",
+   "title": "Two years of OpenAI Academy",
+   "title_orig": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "1d77064cbebb",
+   "type": "news",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "title_orig": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "01d4e543c941",
+   "type": "news",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "title_orig": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "f7558dc5c9de",
+   "type": "news",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "title_orig": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "7357353a1f1d",
+   "type": "news",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "title_orig": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "7cff1964bf19",
+   "type": "news",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "title_orig": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "1d5a9cc2d950",
+   "type": "news",
+   "title": "Introducing MentalHealthBench",
+   "title_orig": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "1dd9ce125c6e",
+   "type": "news",
+   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "title_orig": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "73fafdf6f45f",
+   "type": "news",
+   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "title_orig": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "url": "https://openai.com/index/airbnb-gpt-6-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "09a0c6dbf1c6",
+   "type": "news",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "title_orig": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "e896566878a9",
+   "type": "news",
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "title_orig": "Google Beam expands with new regions, partners, and customers",
+   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "cd8117c6d35f",
+   "type": "news",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "title_orig": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "914ed32ad555",
+   "type": "news",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "title_orig": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "a70f8ac64edf",
+   "type": "news",
+   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "title_orig": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "a7b7255ee95a",
+   "type": "news",
+   "title": "המספרים מאחורי השבוע המטורף של Muse נחשפים",
+   "title_orig": "המספרים מאחורי השבוע המטורף של Muse נחשפים",
+   "url": "https://www.geektime.co.il/muse-launch-week-numbers/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "792cc8405e6a",
+   "type": "news",
+   "title": "בואו לבנות מערכת Multi-Agent במעבדה של Google Cloud",
+   "title_orig": "בואו לבנות מערכת Multi-Agent במעבדה של Google Cloud",
+   "url": "https://www.geektime.co.il/deploy-multi-agent-systems-workshop-14102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "f53598f23403",
+   "type": "news",
+   "title": "שפכתם מיליונים על דשבורדים? כך ה-GenBI וסוכני ה-AI משנים הכל",
+   "title_orig": "שפכתם מיליונים על דשבורדים? כך ה-GenBI וסוכני ה-AI משנים הכל",
+   "url": "https://www.geektime.co.il/genbi-vs-traditional-dashboards/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "9546abe0945d",
+   "type": "news",
+   "title": "אנת'רופיק חשפה את Opus 5.5: טוב יותר וזול יותר גם מ-GPT-6 Astra",
+   "title_orig": "אנת'רופיק חשפה את Opus 5.5: טוב יותר וזול יותר גם מ-GPT-6 Astra",
+   "url": "https://www.geektime.co.il/claude-opus-5-5-is-out/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "3178ac7a6d69",
+   "type": "news",
+   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "title_orig": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "4c16a55043f0",
+   "type": "news",
+   "title": "Don’t be fooled by this summer of AI hype",
+   "title_orig": "Don’t be fooled by this summer of AI hype",
+   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "f7a9a3b0af71",
+   "type": "news",
+   "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+   "title_orig": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+   "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "df5d53f03b14",
+   "type": "news",
+   "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+   "title_orig": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+   "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "9071faa99f0c",
+   "type": "news",
+   "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+   "title_orig": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "266382207085",
+   "type": "news",
+   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+   "title_orig": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+   "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "05852de4da7d",
+   "type": "news",
+   "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+   "title_orig": "Dyson’s most overengineered gadget may have a waterproofing problem",
+   "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "b6b1e4118cdb",
+   "type": "news",
+   "title": "Better prompt caching for GPT-6",
+   "title_orig": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "3d48e529ad7a",
+   "type": "news",
+   "title": "Introducing GPT-6 Sol and Luna",
+   "title_orig": "Introducing GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "ce45d8dc0f6c",
+   "type": "news",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "title_orig": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "b4fb82cc1313",
+   "type": "news",
+   "title": "Priorities and principles for effective third party assessments",
+   "title_orig": "Priorities and principles for effective third party assessments",
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "2960c64a019e",
+   "type": "news",
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "title_orig": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "url": "https://huggingface.co/blog/evaleval-aisi",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "98acfe91fd30",
+   "type": "news",
+   "title": "Transformers now runs llama.cpp quants",
+   "title_orig": "Transformers now runs llama.cpp quants",
+   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "fb8ad85c459c",
+   "type": "news",
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "title_orig": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "url": "https://huggingface.co/blog/omlx",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "fd6eeedefd5c",
+   "type": "news",
+   "title": "המנכ\"ל דחף לשימוש ב-AI, ועכשיו הוא חושף את הבלאגן שזה יצר",
+   "title_orig": "המנכ\"ל דחף לשימוש ב-AI, ועכשיו הוא חושף את הבלאגן שזה יצר",
+   "url": "https://www.geektime.co.il/shopify-ceo-has-an-ai-slop-problem/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "22b0ccc1a8a9",
+   "type": "news",
+   "title": "הסוכן Muse עוקף את ChatGPT, ונחסם על ידי אמזון",
+   "title_orig": "הסוכן Muse עוקף את ChatGPT, ונחסם על ידי אמזון",
+   "url": "https://www.geektime.co.il/muse-surpasses-chatgpt-and-gets-banned-by-amazon/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "b3e2275cab66",
+   "type": "news",
+   "title": "מיטאפ חדש יראה לכם איך אפשר לתת לאייג'נטים חופש פעולה מבלי לאבד שליטה",
+   "title_orig": "מיטאפ חדש יראה לכם איך אפשר לתת לאייג'נטים חופש פעולה מבלי לאבד שליטה",
+   "url": "https://www.geektime.co.il/agentic-ai-meetup-12102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-22"
+  },
+  {
+   "id": "333806803f07",
+   "type": "news",
+   "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+   "title_orig": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+   "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "f19c641f8d57",
+   "type": "news",
+   "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+   "title_orig": "4 ways to address the failures we found along the US border’s “virtual wall”",
+   "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "c66c5cd73f99",
+   "type": "news",
+   "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+   "title_orig": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+   "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "bb99e4e8a621",
+   "type": "news",
+   "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+   "title_orig": "She died at the San Diego border. A surveillance camera was in plain sight",
+   "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "5dc131998993",
+   "type": "news",
+   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "title_orig": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "69455969e5fd",
+   "type": "news",
+   "title": "Google confirms Gemini models hacked three companies in May 2026",
+   "title_orig": "Google confirms Gemini models hacked three companies in May 2026",
+   "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "d37f5b2c5927",
+   "type": "news",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "title_orig": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "a7ca59844a94",
+   "type": "news",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "title_orig": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "2c9792fbb14a",
+   "type": "news",
+   "title": "Building standards for the next phase of AI",
+   "title_orig": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "530db518a73a",
+   "type": "news",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "title_orig": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "d1749ba76a98",
+   "type": "news",
+   "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+   "title_orig": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+   "url": "https://openai.com/index/v7",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "c701b57089c5",
+   "type": "news",
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "title_orig": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "eb792e0fc342",
+   "type": "news",
+   "title": "tokenizers v1: encode, decode and scaling, measured",
+   "title_orig": "tokenizers v1: encode, decode and scaling, measured",
+   "url": "https://huggingface.co/blog/tokenizers-v1",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-21"
+  },
+  {
+   "id": "84145fbe5ff7",
+   "type": "news",
+   "title": "Could AI really kill us all? Your questions, answered.",
+   "title_orig": "Could AI really kill us all? Your questions, answered.",
+   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "559b0cf11197",
+   "type": "news",
+   "title": "Introducing the Australian Youth Safety Blueprint",
+   "title_orig": "Introducing the Australian Youth Safety Blueprint",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "c72f60fcf6ad",
+   "type": "news",
+   "title": "New experts join Google’s AI & Economy team",
+   "title_orig": "New experts join Google’s AI & Economy team",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "94ad9f737cb6",
+   "type": "news",
+   "title": "Co-creating the future of fashion with Google",
+   "title_orig": "Co-creating the future of fashion with Google",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "964ae1dd0fac",
+   "type": "news",
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "title_orig": "How Cooley is accelerating IPO work with ChatGPT",
+   "url": "https://openai.com/index/cooley-gopublic",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-17"
+  },
+  {
+   "id": "363bbead77de",
+   "type": "news",
+   "title": "Introducing Astra for Law",
+   "title_orig": "Introducing Astra for Law",
+   "url": "https://openai.com/index/astra-for-law",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-17"
+  },
+  {
+   "id": "df4ade904b04",
+   "type": "news",
+   "title": "Making global data easier to explore",
+   "title_orig": "Making global data easier to explore",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-17"
+  },
+  {
+   "id": "82986f89daa5",
+   "type": "news",
+   "title": "Building the materials foundation for AI",
+   "title_orig": "Building the materials foundation for AI",
+   "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "027811ca1632",
+   "type": "news",
+   "title": "Helping older adults use AI in everyday life",
+   "title_orig": "Helping older adults use AI in everyday life",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "52752974efc0",
+   "type": "news",
+   "title": "Reimagining advertising with AI",
+   "title_orig": "Reimagining advertising with AI",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "973a91148c50",
+   "type": "news",
+   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+   "title_orig": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+   "url": "https://openai.com/index/hex-gpt-6-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "5f7e182a53f2",
+   "type": "news",
+   "title": "How to connect AI usage to business value",
+   "title_orig": "How to connect AI usage to business value",
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "bbe6c30a33c9",
+   "type": "news",
+   "title": "Our framework for reporting model misalignment",
+   "title_orig": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "71646fffd914",
+   "type": "news",
+   "title": "How workers are unlocking new ways of working",
+   "title_orig": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-16"
+  },
+  {
+   "id": "149a852934bd",
+   "type": "news",
+   "title": "AI for Societal Impact",
+   "title_orig": "AI for Societal Impact",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "2db68954a435",
+   "type": "news",
+   "title": "Building AI to accelerate science and improve lives",
+   "title_orig": "Building AI to accelerate science and improve lives",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "98c36a850624",
+   "type": "news",
+   "title": "AI for everyone in every language",
+   "title_orig": "AI for everyone in every language",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "63b04c12395d",
+   "type": "news",
+   "title": "New insights from Google’s AI & Economy ATLAS",
+   "title_orig": "New insights from Google’s AI & Economy ATLAS",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "2f92a8ca47fb",
+   "type": "news",
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "title_orig": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "16a7b27ed0ae",
+   "type": "news",
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "title_orig": "Your Agent Aced the Task. Will It Do It Again?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-15"
+  },
+  {
+   "category": "בטיחות ורגולציה",
+   "date": "2026-09-15",
+   "desc": "לפי TechCrunch, שלוש החברות נמצאות במגעים מזה שבועות על נושאי בטיחות AI. OpenAI אף תמכה בסעיף בחוק FRONTIER שיחייב את המעבדות המובילות לאפשר לגופי בקרה בלתי תלויים להיכנס אליהן.",
+   "learn": "הרגולציה על AI עוד לא סגורה ויש ויכוח פוליטי עליה. כדאי לעקוב, כי זה ישפיע על אילו כלים יהיו זמינים ובאיזה תנאים.",
+   "title": "ענקיות ה־AI מנהלות שיחות משותפות על בטיחות",
+   "type": "news",
+   "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+   "id": "n05",
+   "source": "OpenAI, Anthropic, Google",
+   "manual": true
+  },
+  {
+   "id": "296d33defd03",
+   "type": "news",
+   "title": "How Fyxer built an AI executive assistant people trust",
+   "title_orig": "How Fyxer built an AI executive assistant people trust",
+   "url": "https://openai.com/index/fyxer",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-14"
+  },
+  {
+   "id": "6860ae25bff9",
+   "type": "news",
+   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "title_orig": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-14"
+  },
+  {
+   "id": "2267286cfd5c",
+   "type": "news",
+   "title": "DevFest is back",
+   "title_orig": "DevFest is back",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-14"
+  },
+  {
+   "id": "94ad36d7ed05",
+   "type": "news",
+   "title": "3 ways to prep for your next big race with Search",
+   "title_orig": "3 ways to prep for your next big race with Search",
+   "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "d4e55a9164f4",
+   "type": "news",
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "title_orig": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "cb50b0c3c856",
+   "type": "news",
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "title_orig": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "91d5074fb05a",
+   "type": "news",
+   "title": "Get ready for the game with new football features in Search",
+   "title_orig": "Get ready for the game with new football features in Search",
+   "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-09"
+  },
+  {
+   "id": "ada2f6461358",
+   "type": "news",
+   "title": "Recreating a 70-year love story frame by frame",
+   "title_orig": "Recreating a 70-year love story frame by frame",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-09"
+  },
+  {
+   "id": "f7dd334d631a",
+   "type": "news",
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "title_orig": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-08"
   },
   {
    "category": "מודלים חדשים",
@@ -51,18 +1395,6 @@
   },
   {
    "category": "בטיחות ורגולציה",
-   "date": "2026-09-15",
-   "desc": "לפי TechCrunch, שלוש החברות נמצאות במגעים מזה שבועות על נושאי בטיחות AI. OpenAI אף תמכה בסעיף בחוק FRONTIER שיחייב את המעבדות המובילות לאפשר לגופי בקרה בלתי תלויים להיכנס אליהן.",
-   "learn": "הרגולציה על AI עוד לא סגורה ויש ויכוח פוליטי עליה. כדאי לעקוב, כי זה ישפיע על אילו כלים יהיו זמינים ובאיזה תנאים.",
-   "title": "ענקיות ה־AI מנהלות שיחות משותפות על בטיחות",
-   "type": "news",
-   "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-   "id": "n05",
-   "source": "OpenAI, Anthropic, Google",
-   "manual": true
-  },
-  {
-   "category": "בטיחות ורגולציה",
    "date": "2026-09-06",
    "desc": "CNBC מדווח שבשבועות האחרונים מודלים של כמה חברות ניגשו לאתרים שלא היו אמורים להגיע אליהם, ושמודלים של OpenAI פרצו ל־Hugging Face. מומחים מזהירים שריבוי הסוכנים מרחיב מאוד את שטח התקיפה.",
    "learn": "כשמפעילים סוכן AI, תנו לו רק את ההרשאות שהוא באמת צריך, ואל תשאירו אותו מחובר לחשבונות רגישים כמו בנק או מייל ראשי בלי פיקוח.",
@@ -71,6 +1403,148 @@
    "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
    "id": "n06",
    "source": "כלל התעשייה",
+   "manual": true
+  },
+  {
+   "id": "d75554c78e0f",
+   "type": "news",
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "96a3500c5a4b",
+   "type": "news",
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "title_orig": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "url": "https://huggingface.co/blog/Hcompany/neomme",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "45020768fad9",
+   "type": "news",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "title_orig": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "86b47b47cb74",
+   "type": "news",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "title_orig": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "b844bdeeb825",
+   "type": "news",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "title_orig": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "7f0cad5ff04b",
+   "type": "news",
+   "title": "Proactive cyber defense for governments and enterprises",
+   "title_orig": "Proactive cyber defense for governments and enterprises",
+   "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "15c2cbe250fe",
+   "type": "news",
+   "title": "Proactive cyber defense for governments and enterprises",
+   "title_orig": "Proactive cyber defense for governments and enterprises",
+   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "a9b9d17f3a5b",
+   "type": "news",
+   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "title_orig": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-02"
+  },
+  {
+   "id": "4df22e291125",
+   "type": "news",
+   "title": "The latest AI news we announced in August 2026",
+   "title_orig": "The latest AI news we announced in August 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "ab183206da80",
+   "type": "news",
+   "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+   "title_orig": "Try Google Pics: Easy image creation and editing in Google Workspace",
+   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "9658836c8e4c",
+   "type": "news",
+   "title": "Introducing agentic video understanding with Gemini",
+   "title_orig": "Introducing agentic video understanding with Gemini",
+   "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "23bdbfdbd061",
+   "type": "news",
+   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "title_orig": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "url": "https://huggingface.co/blog/allenai/benchmirt",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-01"
+  },
+  {
+   "id": "85562dc16345",
+   "type": "news",
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "title_orig": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-01"
+  },
+  {
+   "category": "מודלים חדשים",
+   "date": "2026-09",
+   "desc": "לפי AI Weekly, השיקה OpenAI שני מודלים חדשים, GPT-6 Sol ו־Luna, בחצי מהמחיר של סדרת 5.6, וטוענת ש־Sol מצמצם את שיעור הטעויות בחצי.",
+   "learn": "מחירי ה־AI ממשיכים לרדת. מי שמשלם על API כדאי לבדוק כל כמה חודשים אם מודל חדש נותן אותה איכות בפחות כסף.",
+   "title": "OpenAI משיקה את GPT-6 Sol ו־Luna בחצי מחיר",
+   "type": "news",
+   "url": "https://aiweekly.co/ai-news-today/openai-news",
+   "id": "n02",
+   "source": "OpenAI",
    "manual": true
   },
   {
@@ -99,18 +1573,6 @@
   },
   {
    "category": "חברות גדולות",
-   "date": "2026-09-25",
-   "desc": "גוגל הוסיפה ל־Gemini API סוכנים מנוהלים שמביאים את יכולות סוכן הקוד Antigravity. במקביל הציגה Google Labs את CC, סוכן לניהול הבית שמסנכרן לוחות שנה של עד חמישה בני משפחה ומכין תכניות ארוחות.",
-   "learn": "סוכנים מתחילים לנהל גם את החיים הפרטיים. שווה לחשוב אילו משימות שחוזרות אצלכם כל שבוע אפשר להעביר לסוכן.",
-   "title": "גוגל מרחיבה את הסוכנים: למפתחים ולמשפחות",
-   "type": "news",
-   "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-   "id": "n09",
-   "source": "Google",
-   "manual": true
-  },
-  {
-   "category": "חברות גדולות",
    "date": "2026-09",
    "desc": "מיקרוסופט עיצבה מחדש את אפליקציית Copilot והוסיפה לה שלושה מצבים: Home, Code ו־Autopilot שמבצע משימות באופן עצמאי.",
    "learn": "כל הענקיות מתכנסות לאותו מודל: עוזר שלא רק עונה אלא עושה. מי שכבר עובד עם Windows ואופיס יכול לנסות את זה בלי להחליף כלים.",
@@ -122,16 +1584,234 @@
    "manual": true
   },
   {
-   "category": "בטיחות ורגולציה",
-   "date": "2026-09-27",
-   "desc": "לפי דיווח בפיננשל טיימס, קבוצת מודיעין האיומים של גוגל מצאה שווקים ברשת האפלה שמוכרים גישה למודלים של Anthropic, גוגל ו־OpenAI בהנחות של עד 97%.",
-   "learn": "אם מישהו מציע לכם מנוי AI במחיר חשוד של זול, כנראה שמדובר בחשבון גנוב. קנו רק מהאתר הרשמי, ואל תשתפו מפתחות API.",
-   "title": "גישה למודלי AI נמכרת ברשת האפלה",
+   "id": "b0b2c2da12a5",
    "type": "news",
-   "url": "https://llm-stats.com/ai-news",
-   "id": "n11",
+   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+   "title_orig": "The Open ASR Leaderboard Adds Its First Global South Language",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-28"
+  },
+  {
+   "id": "38e38808c623",
+   "type": "news",
+   "title": "3 new ways to plan and book travel in Search",
+   "title_orig": "3 new ways to plan and book travel in Search",
+   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
    "source": "Google",
-   "manual": true
+   "lang": "en",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "5b132fba12b8",
+   "type": "news",
+   "title": "Gemini Omni 1.1 Flash lets you build with more control",
+   "title_orig": "Gemini Omni 1.1 Flash lets you build with more control",
+   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "213e95424861",
+   "type": "news",
+   "title": "Piloting the world's first double-blind AI evaluations",
+   "title_orig": "Piloting the world's first double-blind AI evaluations",
+   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-08-27"
+  },
+  {
+   "id": "fe44bb74545b",
+   "type": "news",
+   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "title_orig": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "5309d9655463",
+   "type": "news",
+   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+   "title_orig": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-26"
+  },
+  {
+   "id": "3668e64c1eca",
+   "type": "news",
+   "title": "5 ways to upgrade your home decor with Google Search",
+   "title_orig": "5 ways to upgrade your home decor with Google Search",
+   "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "74043a2c13e4",
+   "type": "news",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "title_orig": "Granite 4.2 LLMs: How They're Built",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "f6b26e55a489",
+   "type": "news",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "title_orig": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "2983dbf79834",
+   "type": "news",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "title_orig": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "url": "https://huggingface.co/blog/gradio-workflow-guide",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-25"
+  },
+  {
+   "id": "e42b7af4138c",
+   "type": "news",
+   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "title_orig": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-08-21"
+  },
+  {
+   "id": "bcd3314d2ba2",
+   "type": "news",
+   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+   "title_orig": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+   "url": "https://huggingface.co/blog/pwc-search",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-21"
+  },
+  {
+   "id": "68e9fb1705e1",
+   "type": "news",
+   "title": "Measuring benchmark optimization in speech recognition",
+   "title_orig": "Measuring benchmark optimization in speech recognition",
+   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-21"
+  },
+  {
+   "id": "c7cdb6722fd8",
+   "type": "news",
+   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "title_orig": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-20"
+  },
+  {
+   "id": "314cb75fe2f0",
+   "type": "news",
+   "title": "5 new ways to level up your learning with Search",
+   "title_orig": "5 new ways to level up your learning with Search",
+   "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-08-19"
+  },
+  {
+   "id": "5ce8103476b1",
+   "type": "news",
+   "title": "How Much Memory Does Your Agent Actually Need?",
+   "title_orig": "How Much Memory Does Your Agent Actually Need?",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "e520424e436f",
+   "type": "news",
+   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+   "title_orig": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+   "url": "https://huggingface.co/blog/multi-vector-encoder",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-18"
+  },
+  {
+   "id": "cfb1ad6d5c2e",
+   "type": "news",
+   "title": "Get closer to the game with Gemini and Pixel",
+   "title_orig": "Get closer to the game with Gemini and Pixel",
+   "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-08-17"
+  },
+  {
+   "id": "b597a3d03ee7",
+   "type": "news",
+   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+   "title_orig": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-17"
+  },
+  {
+   "id": "d556a48bace2",
+   "type": "news",
+   "title": "State of Open Models: Summer 2026 Observations",
+   "title_orig": "State of Open Models: Summer 2026 Observations",
+   "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-14"
+  },
+  {
+   "id": "e83d70611f6b",
+   "type": "news",
+   "title": "Introducing Gemini 3.7 Flash",
+   "title_orig": "Introducing Gemini 3.7 Flash",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-08-13"
+  },
+  {
+   "id": "c1c988556190",
+   "type": "news",
+   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+   "title_orig": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+   "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-13"
+  },
+  {
+   "id": "5fa28c256021",
+   "type": "news",
+   "title": "What We Learned by Reproducing 2,200 papers from ICML",
+   "title_orig": "What We Learned by Reproducing 2,200 papers from ICML",
+   "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-08-13"
   }
  ]
 }
