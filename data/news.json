@@ -1,6 +1,26 @@
 {
- "updated": "2026-09-28T01:33:22+00:00",
+ "updated": "2026-09-28T08:37:07+00:00",
  "items": [
+  {
+   "id": "7361429108c2",
+   "type": "news",
+   "title": "Who’s liable when AI agents go rogue?",
+   "title_orig": "Who’s liable when AI agents go rogue?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "681ed969bf8d",
+   "type": "news",
+   "title": "ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם",
+   "title_orig": "ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם",
+   "url": "https://www.geektime.co.il/google-gemini-can-now-make-business-calls/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-28"
+  },
   {
    "id": "63f85032962d",
    "type": "news",
