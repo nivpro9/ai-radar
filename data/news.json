@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T22:57:26+00:00",
+ "updated": "2026-09-28T01:33:22+00:00",
  "items": [
   {
    "id": "63f85032962d",
@@ -1812,36 +1812,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-08-14"
-  },
-  {
-   "id": "e83d70611f6b",
-   "type": "news",
-   "title": "Introducing Gemini 3.7 Flash",
-   "title_orig": "Introducing Gemini 3.7 Flash",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-08-13"
-  },
-  {
-   "id": "c1c988556190",
-   "type": "news",
-   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-   "title_orig": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-   "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-13"
-  },
-  {
-   "id": "5fa28c256021",
-   "type": "news",
-   "title": "What We Learned by Reproducing 2,200 papers from ICML",
-   "title_orig": "What We Learned by Reproducing 2,200 papers from ICML",
-   "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-13"
   }
  ]
 }
