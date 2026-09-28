@@ -1,6 +1,196 @@
 {
- "updated": "2026-09-28T08:37:07+00:00",
+ "updated": "2026-09-28T17:36:09+00:00",
  "items": [
+  {
+   "id": "32712da4bf89",
+   "type": "news",
+   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "title_orig": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "4d987bc13622",
+   "type": "news",
+   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+   "title_orig": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "5c1ef6c81386",
+   "type": "news",
+   "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "title_orig": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "daef1e4c7c82",
+   "type": "news",
+   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "title_orig": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "e2b386d85c6d",
+   "type": "news",
+   "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+   "title_orig": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+   "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "167459110ffb",
+   "type": "news",
+   "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+   "title_orig": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "443df734f7b9",
+   "type": "news",
+   "title": "Modulate raises $25M for its voice models and analysis suite",
+   "title_orig": "Modulate raises $25M for its voice models and analysis suite",
+   "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "4133fd226b22",
+   "type": "news",
+   "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+   "title_orig": "Insurtech Outmarket raises $34.5M just months after prior round",
+   "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "679e89ed0f11",
+   "type": "news",
+   "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+   "title_orig": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+   "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "7139170b174f",
+   "type": "news",
+   "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "title_orig": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "523d5e9de5b0",
+   "type": "news",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
+   "title_orig": "Florida seeks a ban on ChatGPT acting like a person",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "c5ed54694a4a",
+   "type": "news",
+   "title": "OpenAI keeps bulldozing mathematicians",
+   "title_orig": "OpenAI keeps bulldozing mathematicians",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "907cbfcfae98",
+   "type": "news",
+   "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+   "title_orig": "Walmart won’t hike prices based on your shopping history, CEO says",
+   "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "0ed30c8df6bf",
+   "type": "news",
+   "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
+   "title_orig": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
+   "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "fa45a29570c3",
+   "type": "news",
+   "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "title_orig": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "7238f9bc8ffa",
+   "type": "news",
+   "title": "When can we say AI made a scientific discovery?",
+   "title_orig": "When can we say AI made a scientific discovery?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "dcd4b5a345a6",
+   "type": "news",
+   "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+   "title_orig": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+   "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "ca6d89c27fc0",
+   "type": "news",
+   "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+   "title_orig": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+   "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "9552195c964d",
+   "type": "news",
+   "title": "Holo4: powering generalist computer-use agents",
+   "title_orig": "Holo4: powering generalist computer-use agents",
+   "url": "https://huggingface.co/blog/Hcompany/holo4",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
   {
    "id": "7361429108c2",
    "type": "news",
