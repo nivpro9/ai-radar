@@ -1,6 +1,156 @@
 {
- "updated": "2026-09-28T17:36:09+00:00",
+ "updated": "2026-09-28T23:11:58+00:00",
  "items": [
+  {
+   "id": "d2394bd4dea4",
+   "type": "news",
+   "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+   "title_orig": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "4b4cfee992d3",
+   "type": "news",
+   "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+   "title_orig": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+   "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "342c492ea49c",
+   "type": "news",
+   "title": "Shopify opens checkout to browser-based AI agents",
+   "title_orig": "Shopify opens checkout to browser-based AI agents",
+   "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "46fca61f4990",
+   "type": "news",
+   "title": "Nvidia launches new platform for reining in rogue AI agents",
+   "title_orig": "Nvidia launches new platform for reining in rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "b48cf3b3b784",
+   "type": "news",
+   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "title_orig": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "227c6ab55934",
+   "type": "news",
+   "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+   "title_orig": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+   "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "7627b64443e1",
+   "type": "news",
+   "title": "OpenAI’s AI agents need to catch up",
+   "title_orig": "OpenAI’s AI agents need to catch up",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "7c7b6ea24fb9",
+   "type": "news",
+   "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+   "title_orig": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "6a443da468f0",
+   "type": "news",
+   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "title_orig": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "d6fa27c327ba",
+   "type": "news",
+   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+   "title_orig": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+   "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "309d3a4f83f0",
+   "type": "news",
+   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+   "title_orig": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+   "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "216d56bba26c",
+   "type": "news",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "title_orig": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "914f14710638",
+   "type": "news",
+   "title": "Are you a Codex Original?",
+   "title_orig": "Are you a Codex Original?",
+   "url": "https://openai.com/form/codex-originals",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "bf0fe8cc388a",
+   "type": "news",
+   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "title_orig": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "ebb851930de7",
+   "type": "news",
+   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "title_orig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
   {
    "id": "32712da4bf89",
    "type": "news",
