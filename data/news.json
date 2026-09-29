@@ -1,6 +1,86 @@
 {
- "updated": "2026-09-29T18:34:45+00:00",
+ "updated": "2026-09-29T22:55:58+00:00",
  "items": [
+  {
+   "id": "8000c8f00f46",
+   "type": "news",
+   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "title_orig": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "d219cdb2cc72",
+   "type": "news",
+   "title": "OpenAI’s latest features take direct aim at the app store model",
+   "title_orig": "OpenAI’s latest features take direct aim at the app store model",
+   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "e859ba036e35",
+   "type": "news",
+   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+   "title_orig": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+   "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "dd9b71cbd384",
+   "type": "news",
+   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "title_orig": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "719d3195b24b",
+   "type": "news",
+   "title": "Trump orders US government to call AI ‘Super Intelligence’",
+   "title_orig": "Trump orders US government to call AI ‘Super Intelligence’",
+   "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "c01a20c9c38e",
+   "type": "news",
+   "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+   "title_orig": "Elon Musk’s AI-powered Grokipedia is updating again",
+   "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "389473c42080",
+   "type": "news",
+   "title": "Protests against OpenAI get increasingly creative",
+   "title_orig": "Protests against OpenAI get increasingly creative",
+   "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "6da0f8a585ce",
+   "type": "news",
+   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "title_orig": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
   {
    "id": "925a5e11fe99",
    "type": "news",
