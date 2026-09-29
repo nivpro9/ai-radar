@@ -1,6 +1,36 @@
 {
- "updated": "2026-09-29T05:34:39+00:00",
+ "updated": "2026-09-29T12:40:38+00:00",
  "items": [
+  {
+   "id": "3704d533c81d",
+   "type": "news",
+   "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+   "title_orig": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+   "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "4673f7cac181",
+   "type": "news",
+   "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+   "title_orig": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "93ea3aafd35e",
+   "type": "news",
+   "title": "Making AI an asset, not an expense",
+   "title_orig": "Making AI an asset, not an expense",
+   "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
   {
    "id": "a2410a708c1f",
    "type": "news",
@@ -20,6 +50,16 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-29"
+  },
+  {
+   "id": "cf468ec39dd6",
+   "type": "news",
+   "title": "Towards safety cases for frontier AI training",
+   "title_orig": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-28"
   },
   {
    "id": "39067a424f03",
