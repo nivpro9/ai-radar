@@ -1,6 +1,56 @@
 {
- "updated": "2026-09-28T23:11:58+00:00",
+ "updated": "2026-09-29T05:34:39+00:00",
  "items": [
+  {
+   "id": "a2410a708c1f",
+   "type": "news",
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "title_orig": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "597975da4940",
+   "type": "news",
+   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+   "title_orig": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "39067a424f03",
+   "type": "news",
+   "title": "OpenAI reportedly ditches model over safety concerns",
+   "title_orig": "OpenAI reportedly ditches model over safety concerns",
+   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "281960bc5639",
+   "type": "news",
+   "title": "The AI boom took over Climate Week and not everyone is happy about it",
+   "title_orig": "The AI boom took over Climate Week and not everyone is happy about it",
+   "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "cfe8e900401f",
+   "type": "news",
+   "title": "How we will do better for Australia",
+   "title_orig": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
   {
    "id": "d2394bd4dea4",
    "type": "news",
@@ -2162,16 +2212,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-08-17"
-  },
-  {
-   "id": "d556a48bace2",
-   "type": "news",
-   "title": "State of Open Models: Summer 2026 Observations",
-   "title_orig": "State of Open Models: Summer 2026 Observations",
-   "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-14"
   }
  ]
 }
