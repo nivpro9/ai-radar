@@ -1,6 +1,156 @@
 {
- "updated": "2026-09-30T08:21:43+00:00",
+ "updated": "2026-09-30T15:51:40+00:00",
  "items": [
+  {
+   "id": "3ea2f4486554",
+   "type": "news",
+   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+   "title_orig": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "3b382bc8ae7f",
+   "type": "news",
+   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+   "title_orig": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+   "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "998c2e1e6c85",
+   "type": "news",
+   "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+   "title_orig": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "fde712815d5c",
+   "type": "news",
+   "title": "Airbnb adds AI search, more social features",
+   "title_orig": "Airbnb adds AI search, more social features",
+   "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "1c9685f8d86d",
+   "type": "news",
+   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "title_orig": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "445d1099f679",
+   "type": "news",
+   "title": "Google reportedly tests paying publishers for AI search results",
+   "title_orig": "Google reportedly tests paying publishers for AI search results",
+   "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "0f203ce721db",
+   "type": "news",
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "title_orig": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "2104d195eeaa",
+   "type": "news",
+   "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+   "title_orig": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "970e7da4b04b",
+   "type": "news",
+   "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+   "title_orig": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "4896f88e92a8",
+   "type": "news",
+   "title": "OpenAI delays IPO over AI safety concerns",
+   "title_orig": "OpenAI delays IPO over AI safety concerns",
+   "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "b5e5e43443d2",
+   "type": "news",
+   "title": "Helping small businesses put AI to work",
+   "title_orig": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "396b95f3429c",
+   "type": "news",
+   "title": "Introducing SynthID Bio",
+   "title_orig": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "581ab3112c30",
+   "type": "news",
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "title_orig": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "3e0fda9ab2ad",
+   "type": "news",
+   "title": "נחשף האיש שיעמוד בראש הפעילות הישראלית של OpenAI",
+   "title_orig": "נחשף האיש שיעמוד בראש הפעילות הישראלית של OpenAI",
+   "url": "https://www.geektime.co.il/openai-israel-moti-hadas-gtm-manager/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "39a5b00183d6",
+   "type": "news",
+   "title": "מהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכם",
+   "title_orig": "מהאירוע הזה תצאו עם סוכן AI עובד שכבר מוטמע בחברה שלכם",
+   "url": "https://www.geektime.co.il/ai-agents-in-action-meetup-21102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-30"
+  },
   {
    "id": "0a7fb3ead529",
    "type": "news",
