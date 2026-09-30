@@ -1,6 +1,36 @@
 {
- "updated": "2026-09-29T22:55:58+00:00",
+ "updated": "2026-09-30T02:00:56+00:00",
  "items": [
+  {
+   "id": "1eb6183d721b",
+   "type": "news",
+   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+   "title_orig": "Sam Altman says OpenAI won’t go public until its models are safe",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "91a3f4f5da3a",
+   "type": "news",
+   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "title_orig": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "9ce258e5a60b",
+   "type": "news",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "title_orig": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
   {
    "id": "8000c8f00f46",
    "type": "news",
