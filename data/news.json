@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-30T02:00:56+00:00",
+ "updated": "2026-09-30T08:21:43+00:00",
  "items": [
+  {
+   "id": "0a7fb3ead529",
+   "type": "news",
+   "title": "ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI",
+   "title_orig": "ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI",
+   "url": "https://www.geektime.co.il/openai-devday-sol-codex-chatgpt-space/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-09-30"
+  },
   {
    "id": "1eb6183d721b",
    "type": "news",
