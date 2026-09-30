@@ -1,6 +1,196 @@
 {
- "updated": "2026-09-30T15:51:40+00:00",
+ "updated": "2026-09-30T20:45:09+00:00",
  "items": [
+  {
+   "id": "d4c4ffc0ae75",
+   "type": "news",
+   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "title_orig": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "b93ab270a51b",
+   "type": "news",
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "title_orig": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "6860a783c564",
+   "type": "news",
+   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "title_orig": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "4c63e3899121",
+   "type": "news",
+   "title": "The ugly economics of consumer AI",
+   "title_orig": "The ugly economics of consumer AI",
+   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "81eaed43ffdd",
+   "type": "news",
+   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "title_orig": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "a993d027af6a",
+   "type": "news",
+   "title": "DoorDash launches an AI agent you can text to order food",
+   "title_orig": "DoorDash launches an AI agent you can text to order food",
+   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "0412d9fdec7a",
+   "type": "news",
+   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+   "title_orig": "Destro AI’s secret sauce is getting robots and humans on the same page",
+   "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "c85f3b834805",
+   "type": "news",
+   "title": "Instinct’s new product recommendations are giving some users the ick",
+   "title_orig": "Instinct’s new product recommendations are giving some users the ick",
+   "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "97fa5252aa29",
+   "type": "news",
+   "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+   "title_orig": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+   "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "940c49f7ad52",
+   "type": "news",
+   "title": "The AI Tamagotchis are coming",
+   "title_orig": "The AI Tamagotchis are coming",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "b3707029996a",
+   "type": "news",
+   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+   "title_orig": "Here’s what AI leaders are saying about Trump’s new safety plan",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "94349d4a2730",
+   "type": "news",
+   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+   "title_orig": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+   "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "e93aea6b3aca",
+   "type": "news",
+   "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+   "title_orig": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+   "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "beee353d4f9f",
+   "type": "news",
+   "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+   "title_orig": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+   "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "bc19c566808a",
+   "type": "news",
+   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+   "title_orig": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "10fc10377664",
+   "type": "news",
+   "title": "Google's early attempt to pay websites for AI answers is struggling",
+   "title_orig": "Google's early attempt to pay websites for AI answers is struggling",
+   "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "7abd4d2d77e4",
+   "type": "news",
+   "title": "Google figures out how to watermark AI-designed proteins",
+   "title_orig": "Google figures out how to watermark AI-designed proteins",
+   "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "6a91381a4292",
+   "type": "news",
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "title_orig": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "311e095023e6",
+   "type": "news",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "title_orig": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
   {
    "id": "3ea2f4486554",
    "type": "news",
