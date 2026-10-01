@@ -1,6 +1,36 @@
 {
- "updated": "2026-09-30T20:45:09+00:00",
+ "updated": "2026-10-01T00:29:56+00:00",
  "items": [
+  {
+   "id": "5afad699a57c",
+   "type": "news",
+   "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+   "title_orig": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+   "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "5c1f615d64d2",
+   "type": "news",
+   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "title_orig": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "b4341699df22",
+   "type": "news",
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "title_orig": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
   {
    "id": "d4c4ffc0ae75",
    "type": "news",
