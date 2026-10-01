@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-01T07:08:10+00:00",
+ "updated": "2026-10-01T15:22:53+00:00",
  "items": [
+  {
+   "id": "0d142c0352b5",
+   "type": "news",
+   "title": "Brian Chesky interview: AI agents need their own operating system",
+   "title_orig": "Brian Chesky interview: AI agents need their own operating system",
+   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "2781adb3b156",
+   "type": "news",
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "title_orig": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "8823ad0e46f1",
+   "type": "news",
+   "title": "Hearing tech startup Legato launches its AI hearing glasses",
+   "title_orig": "Hearing tech startup Legato launches its AI hearing glasses",
+   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "29fe7c1feed5",
+   "type": "news",
+   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "title_orig": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "9c6f1560c622",
+   "type": "news",
+   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+   "title_orig": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "adb45e048c1d",
+   "type": "news",
+   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+   "title_orig": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+   "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "0bf00b70dbd7",
+   "type": "news",
+   "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+   "title_orig": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+   "url": "https://huggingface.co/blog/allenai/olmocore3",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "b1eea1fa3a5d",
+   "type": "news",
+   "title": "סטארטאפ ישראלי כבש את דירוג ההאקרים, אבל ההישג חושף מגמה מדאיגה",
+   "title_orig": "סטארטאפ ישראלי כבש את דירוג ההאקרים, אבל ההישג חושף מגמה מדאיגה",
+   "url": "https://www.geektime.co.il/tenzai-hackerone-first-place-open-weight-ai/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "ce13e54f9a46",
+   "type": "news",
+   "title": "סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר",
+   "title_orig": "סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר",
+   "url": "https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "c79da3e225bc",
+   "type": "news",
+   "title": "גוגל חושפת את Gemini 4 Argon, אבל אם אתם לא עובדים ב-Wiz לא תוכלו להשתמש בו עדיין",
+   "title_orig": "גוגל חושפת את Gemini 4 Argon, אבל אם אתם לא עובדים ב-Wiz לא תוכלו להשתמש בו עדיין",
+   "url": "https://www.geektime.co.il/google-gemini-4-argon-launch/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-01"
+  },
   {
    "id": "61d2c05f9ab7",
    "type": "news",
