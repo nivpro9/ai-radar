@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-02T00:40:53+00:00",
+ "updated": "2026-10-02T06:56:50+00:00",
  "items": [
+  {
+   "id": "a885ed61f54a",
+   "type": "news",
+   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "title_orig": "AutoSynthData: Generating Training Data for Enterprise Agents",
+   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
   {
    "id": "578143be7e8f",
    "type": "news",
