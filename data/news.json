@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-01T20:59:14+00:00",
+ "updated": "2026-10-02T00:40:53+00:00",
  "items": [
+  {
+   "id": "578143be7e8f",
+   "type": "news",
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "title_orig": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "3bba52758573",
+   "type": "news",
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "title_orig": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "url": "https://openai.com/index/the-den-family-social",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
   {
    "id": "9b59a27765f5",
    "type": "news",
@@ -3232,26 +3252,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-08-18"
-  },
-  {
-   "id": "cfb1ad6d5c2e",
-   "type": "news",
-   "title": "Get closer to the game with Gemini and Pixel",
-   "title_orig": "Get closer to the game with Gemini and Pixel",
-   "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-08-17"
-  },
-  {
-   "id": "b597a3d03ee7",
-   "type": "news",
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "title_orig": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-17"
   }
  ]
 }
