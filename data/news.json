@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-02T06:56:50+00:00",
+ "updated": "2026-10-02T13:47:36+00:00",
  "items": [
+  {
+   "id": "b3a9a516e91b",
+   "type": "news",
+   "title": "AI hallucinations are making entitled customers even worse",
+   "title_orig": "AI hallucinations are making entitled customers even worse",
+   "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "f829ccaecea0",
+   "type": "news",
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "title_orig": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "78ffcfd0a288",
+   "type": "news",
+   "title": "Amazon writes scary blog warning communities not to block data centers",
+   "title_orig": "Amazon writes scary blog warning communities not to block data centers",
+   "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "b7dd82503263",
+   "type": "news",
+   "title": "AI music maker Suno now generates spoken words",
+   "title_orig": "AI music maker Suno now generates spoken words",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "5a3c2fdeffa2",
+   "type": "news",
+   "title": "Don’t be fooled—LLMs don’t reason",
+   "title_orig": "Don’t be fooled—LLMs don’t reason",
+   "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "ff6c60441d1f",
+   "type": "news",
+   "title": "סוכני ה-AI של enso גייסו 15 מיליון דולר כי כל מה שידענו על חיפושים בגוגל כבר לא תופס",
+   "title_orig": "סוכני ה-AI של enso גייסו 15 מיליון דולר כי כל מה שידענו על חיפושים בגוגל כבר לא תופס",
+   "url": "https://www.geektime.co.il/enso-ai-agents-growth-hacking-funding/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-02"
+  },
   {
    "id": "a885ed61f54a",
    "type": "news",
