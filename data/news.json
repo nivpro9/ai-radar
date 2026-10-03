@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-03T11:33:11+00:00",
+ "updated": "2026-10-03T16:09:17+00:00",
  "items": [
+  {
+   "id": "9a415d111d44",
+   "type": "news",
+   "title": "All the AI agents that can live in your text messages",
+   "title_orig": "All the AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "91c2390ce603",
+   "type": "news",
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "title_orig": "An OpenAI safety employee has quit and is sounding the alarm",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "87bbbde9358d",
+   "type": "news",
+   "title": "ממתנה תמימה לשגריר ועד תוכנות ריגול מבוססות AI: מרוץ החימוש של עולם הריגול",
+   "title_orig": "ממתנה תמימה לשגריר ועד תוכנות ריגול מבוססות AI: מרוץ החימוש של עולם הריגול",
+   "url": "https://www.geektime.co.il/evolution-of-tech-and-ai-in-espionage/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-03"
+  },
   {
    "id": "42fe426e5a70",
    "type": "news",
