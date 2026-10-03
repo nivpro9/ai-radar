@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-03T16:09:17+00:00",
+ "updated": "2026-10-03T19:46:59+00:00",
  "items": [
+  {
+   "id": "d442265d4558",
+   "type": "news",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "title_orig": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "f143fce070e1",
+   "type": "news",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "title_orig": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "f1c80105d2f2",
+   "type": "news",
+   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "title_orig": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "2b2053e0bc6b",
+   "type": "news",
+   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "title_orig": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "750016d3234f",
+   "type": "news",
+   "title": "רובוטים וסוכן מתנה: 3 אירועי טכנולוגיה חינמיים שלוקחים AI לשלב הבא",
+   "title_orig": "רובוטים וסוכן מתנה: 3 אירועי טכנולוגיה חינמיים שלוקחים AI לשלב הבא",
+   "url": "https://www.geektime.co.il/geek-events-4102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-03"
+  },
   {
    "id": "9a415d111d44",
    "type": "news",
