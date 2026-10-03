@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-02T23:42:55+00:00",
+ "updated": "2026-10-03T05:07:41+00:00",
  "items": [
+  {
+   "id": "2d915e86c260",
+   "type": "news",
+   "title": "Meta wants your next gadget to be Muse-infused",
+   "title_orig": "Meta wants your next gadget to be Muse-infused",
+   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-03"
+  },
   {
    "id": "5113cb653680",
    "type": "news",
@@ -3532,26 +3542,6 @@
    "source": "Google",
    "lang": "en",
    "date": "2026-08-19"
-  },
-  {
-   "id": "5ce8103476b1",
-   "type": "news",
-   "title": "How Much Memory Does Your Agent Actually Need?",
-   "title_orig": "How Much Memory Does Your Agent Actually Need?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-18"
-  },
-  {
-   "id": "e520424e436f",
-   "type": "news",
-   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-   "title_orig": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-   "url": "https://huggingface.co/blog/multi-vector-encoder",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-18"
   }
  ]
 }
