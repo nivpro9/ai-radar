@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-03T05:07:41+00:00",
+ "updated": "2026-10-03T11:33:11+00:00",
  "items": [
+  {
+   "id": "42fe426e5a70",
+   "type": "news",
+   "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+   "title_orig": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+   "url": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-03"
+  },
+  {
+   "id": "e93907cf1c31",
+   "type": "news",
+   "title": "מגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהם",
+   "title_orig": "מגייסת טוענת: מועמדים לא מתקבלים לעבודה בגלל האייס קפה שלהם",
+   "url": "https://www.geektime.co.il/ice-coffee-job-interview-debate/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-03"
+  },
   {
    "id": "2d915e86c260",
    "type": "news",
