@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-04T15:17:12+00:00",
+ "updated": "2026-10-04T19:31:51+00:00",
  "items": [
+  {
+   "id": "cb4cee0e9eb9",
+   "type": "news",
+   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+   "title_orig": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-04"
+  },
+  {
+   "id": "d5a8ffd2dd50",
+   "type": "news",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "title_orig": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-04"
+  },
+  {
+   "id": "a06b6a94fdbc",
+   "type": "news",
+   "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
+   "title_orig": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
+   "url": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-04"
+  },
   {
    "id": "062c049b478a",
    "type": "news",
