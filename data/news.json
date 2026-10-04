@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-04T02:31:48+00:00",
+ "updated": "2026-10-04T09:37:26+00:00",
  "items": [
+  {
+   "id": "d91599b48440",
+   "type": "news",
+   "title": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
+   "title_orig": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
+   "url": "https://www.geektime.co.il/former-openai-researcher-says-company-culture-is-broken/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-04"
+  },
+  {
+   "id": "2137b1aae351",
+   "type": "news",
+   "title": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
+   "title_orig": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
+   "url": "https://www.geektime.co.il/google-will-charge-you-more-for-gemini-pro-models/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-04"
+  },
   {
    "id": "89764eae0099",
    "type": "news",
