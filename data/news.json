@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T23:00:23+00:00",
+ "updated": "2026-10-05T01:50:09+00:00",
  "items": [
   {
    "id": "71b92d7d1248",
@@ -3712,16 +3712,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-08-21"
-  },
-  {
-   "id": "c7cdb6722fd8",
-   "type": "news",
-   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "title_orig": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-20"
   }
  ]
 }
