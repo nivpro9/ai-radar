@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-05T01:50:09+00:00",
+ "updated": "2026-10-05T08:51:08+00:00",
  "items": [
+  {
+   "id": "18a9d02de7c9",
+   "type": "news",
+   "title": "People really hate AI, so why can’t they get enough?",
+   "title_orig": "People really hate AI, so why can’t they get enough?",
+   "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-05"
+  },
+  {
+   "id": "fcff08776c3c",
+   "type": "news",
+   "title": "טראמפ נתן ל-AI שם חדש, וגרם להתנפלות על דומיינים סלובניים",
+   "title_orig": "טראמפ נתן ל-AI שם חדש, וגרם להתנפלות על דומיינים סלובניים",
+   "url": "https://www.geektime.co.il/trumps-ai-rebrand-leads-to-domain-buying-frenzy/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-05"
+  },
   {
    "id": "71b92d7d1248",
    "type": "news",
