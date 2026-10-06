@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-06T00:44:46+00:00",
+ "updated": "2026-10-06T07:28:25+00:00",
  "items": [
+  {
+   "id": "085f7195b66f",
+   "type": "news",
+   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "title_orig": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "e3b420eb4e57",
+   "type": "news",
+   "title": "גם OpenAI תלשין שכתבתם את הטקסט עם AI והיא מסבירה איך",
+   "title_orig": "גם OpenAI תלשין שכתבתם את הטקסט עם AI והיא מסבירה איך",
+   "url": "https://www.geektime.co.il/openai-explains-ai-text-watermark/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-06"
+  },
   {
    "id": "8dc6e37ab123",
    "type": "news",
@@ -4002,26 +4022,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-08-26"
-  },
-  {
-   "id": "3668e64c1eca",
-   "type": "news",
-   "title": "5 ways to upgrade your home decor with Google Search",
-   "title_orig": "5 ways to upgrade your home decor with Google Search",
-   "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-08-25"
-  },
-  {
-   "id": "74043a2c13e4",
-   "type": "news",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "title_orig": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-25"
   }
  ]
 }
