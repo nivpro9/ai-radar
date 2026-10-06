@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-06T15:01:55+00:00",
+ "updated": "2026-10-06T20:10:02+00:00",
  "items": [
+  {
+   "id": "43f8aab03973",
+   "type": "news",
+   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "title_orig": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "fe89f2d659e0",
+   "type": "news",
+   "title": "The next hurdle for AI agents: getting websites to let them in",
+   "title_orig": "The next hurdle for AI agents: getting websites to let them in",
+   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "cd24bf90e045",
+   "type": "news",
+   "title": "Hark releases an AI personal assistant with a focus on privacy",
+   "title_orig": "Hark releases an AI personal assistant with a focus on privacy",
+   "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "7a12fe93b8a7",
+   "type": "news",
+   "title": "Mirror Particle is building a ‘world model’ of human behavior",
+   "title_orig": "Mirror Particle is building a ‘world model’ of human behavior",
+   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "5ca9c0ebb6f5",
+   "type": "news",
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "title_orig": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "f2c9898c912c",
+   "type": "news",
+   "title": "LibreOffice says ‘no AI’ is now a software feature",
+   "title_orig": "LibreOffice says ‘no AI’ is now a software feature",
+   "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "688a40cc7a92",
+   "type": "news",
+   "title": "We can’t just change the definition of ‘recording’",
+   "title_orig": "We can’t just change the definition of ‘recording’",
+   "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "9964af802e9c",
+   "type": "news",
+   "title": "Advancing computer use with Ironclad",
+   "title_orig": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "60ef2af305e7",
+   "type": "news",
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "title_orig": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
   {
    "id": "350565f92a32",
    "type": "news",
@@ -3924,98 +4014,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-09-03"
-  },
-  {
-   "id": "7f0cad5ff04b",
-   "type": "news",
-   "title": "Proactive cyber defense for governments and enterprises",
-   "title_orig": "Proactive cyber defense for governments and enterprises",
-   "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-02"
-  },
-  {
-   "id": "15c2cbe250fe",
-   "type": "news",
-   "title": "Proactive cyber defense for governments and enterprises",
-   "title_orig": "Proactive cyber defense for governments and enterprises",
-   "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-02"
-  },
-  {
-   "id": "a9b9d17f3a5b",
-   "type": "news",
-   "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "title_orig": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-02"
-  },
-  {
-   "id": "4df22e291125",
-   "type": "news",
-   "title": "The latest AI news we announced in August 2026",
-   "title_orig": "The latest AI news we announced in August 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-01"
-  },
-  {
-   "id": "ab183206da80",
-   "type": "news",
-   "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-   "title_orig": "Try Google Pics: Easy image creation and editing in Google Workspace",
-   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-01"
-  },
-  {
-   "id": "9658836c8e4c",
-   "type": "news",
-   "title": "Introducing agentic video understanding with Gemini",
-   "title_orig": "Introducing agentic video understanding with Gemini",
-   "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-01"
-  },
-  {
-   "id": "23bdbfdbd061",
-   "type": "news",
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "title_orig": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "url": "https://huggingface.co/blog/allenai/benchmirt",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-01"
-  },
-  {
-   "id": "85562dc16345",
-   "type": "news",
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "title_orig": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "url": "https://huggingface.co/blog/webgpu-kernels",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-01"
-  },
-  {
-   "category": "מודלים חדשים",
-   "date": "2026-09",
-   "desc": "לפי AI Weekly, השיקה OpenAI שני מודלים חדשים, GPT-6 Sol ו־Luna, בחצי מהמחיר של סדרת 5.6, וטוענת ש־Sol מצמצם את שיעור הטעויות בחצי.",
-   "learn": "מחירי ה־AI ממשיכים לרדת. מי שמשלם על API כדאי לבדוק כל כמה חודשים אם מודל חדש נותן אותה איכות בפחות כסף.",
-   "title": "OpenAI משיקה את GPT-6 Sol ו־Luna בחצי מחיר",
-   "type": "news",
-   "url": "https://aiweekly.co/ai-news-today/openai-news",
-   "id": "n02",
-   "source": "OpenAI",
-   "manual": true
   }
  ]
 }
