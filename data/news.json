@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-06T07:28:25+00:00",
+ "updated": "2026-10-06T15:01:55+00:00",
  "items": [
+  {
+   "id": "350565f92a32",
+   "type": "news",
+   "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+   "title_orig": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+   "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "3727440d9a21",
+   "type": "news",
+   "title": "Pinterest’s AI now turns beauty Pins into action plans",
+   "title_orig": "Pinterest’s AI now turns beauty Pins into action plans",
+   "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "1a4fa7afdfab",
+   "type": "news",
+   "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+   "title_orig": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+   "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "c481fc93e0dd",
+   "type": "news",
+   "title": "Google is about to remove free access to Gemini Flash and Pro",
+   "title_orig": "Google is about to remove free access to Gemini Flash and Pro",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "9f54e4bc2e92",
+   "type": "news",
+   "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+   "title_orig": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+   "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "f1decbf03cff",
+   "type": "news",
+   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "title_orig": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "4987ce7d4f50",
+   "type": "news",
+   "title": "רק בכנס הפיתוח של גיקטיים: איך משחררים את צוואר הבקבוק החדש של ה-AI?",
+   "title_orig": "רק בכנס הפיתוח של גיקטיים: איך משחררים את צוואר הבקבוק החדש של ה-AI?",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-removing-the-bottleneck/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "d5a295fbbf52",
+   "type": "news",
+   "title": "מיטאפ חדש של MongoDB, מיקרוסופט וגיקטיים יראה לכם איך מביאים סוכני AI לפרודקשן",
+   "title_orig": "מיטאפ חדש של MongoDB, מיקרוסופט וגיקטיים יראה לכם איך מביאים סוכני AI לפרודקשן",
+   "url": "https://www.geektime.co.il/from-agents-to-software-factories-meetup-18102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "cca5b9f002b0",
+   "type": "news",
+   "title": "תשובה למודלים הסיניים הפתוחים? נחשף מודל ה-AI החדש Beam",
+   "title_orig": "תשובה למודלים הסיניים הפתוחים? נחשף מודל ה-AI החדש Beam",
+   "url": "https://www.geektime.co.il/reflection-seeks-to-be-american-deepseek-and-launches-beam-model/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-06"
+  },
   {
    "id": "085f7195b66f",
    "type": "news",
@@ -3926,102 +4016,6 @@
    "id": "n02",
    "source": "OpenAI",
    "manual": true
-  },
-  {
-   "category": "מוצרים ששוברים את השוק",
-   "date": "2026-09",
-   "desc": "בדירוג החודשי של LogRocket עלה Claude Code למקום הראשון אחרי שקיבל גישה ל־Fable 5.1, והעקיף את OpenCode ו־Cursor. בבדיקות עיוורות מפתחים העדיפו את התוצר שלו ברוב גדול על פני Codex.",
-   "learn": "כלי התכנות משתנים מחודש לחודש. אם אתם מתכנתים, שווה לנסות כמה סוכנים על אותו פרויקט ולהחליט לפי התוצאה, לא לפי הפרסום.",
-   "title": "Claude Code עולה למקום הראשון בדירוג כלי הפיתוח",
-   "type": "news",
-   "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
-   "id": "n07",
-   "source": "Anthropic",
-   "manual": true
-  },
-  {
-   "category": "מוצרים ששוברים את השוק",
-   "date": "2026-09",
-   "desc": "בכנס Apsara הציגה עליבאבא מחשב בשם Qwen Book עם מערכת הפעלה שבנויה סביב סוכני AI, ולצדו משקפיים חכמים, אוזניות AI שפותחו יחד עם Bose ומכשיר קטן שמתמלל שיחות.",
-   "learn": "ה־AI יוצא מהמסך ונכנס למכשירים שעלינו. השאלה שכדאי לשאול לפני קנייה של מכשיר כזה: מה הוא מקליט ולאן המידע הולך.",
-   "title": "עליבאבא נכנסת לחומרה: מחשב, משקפיים ואוזניות עם Qwen",
-   "type": "news",
-   "url": "https://futuretools.io/news",
-   "id": "n08",
-   "source": "Alibaba",
-   "manual": true
-  },
-  {
-   "category": "חברות גדולות",
-   "date": "2026-09",
-   "desc": "מיקרוסופט עיצבה מחדש את אפליקציית Copilot והוסיפה לה שלושה מצבים: Home, Code ו־Autopilot שמבצע משימות באופן עצמאי.",
-   "learn": "כל הענקיות מתכנסות לאותו מודל: עוזר שלא רק עונה אלא עושה. מי שכבר עובד עם Windows ואופיס יכול לנסות את זה בלי להחליף כלים.",
-   "title": "Copilot החדש של מיקרוסופט כולל מצב טייס אוטומטי",
-   "type": "news",
-   "url": "https://futuretools.io/news",
-   "id": "n10",
-   "source": "Microsoft",
-   "manual": true
-  },
-  {
-   "id": "b0b2c2da12a5",
-   "type": "news",
-   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-   "title_orig": "The Open ASR Leaderboard Adds Its First Global South Language",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-28"
-  },
-  {
-   "id": "38e38808c623",
-   "type": "news",
-   "title": "3 new ways to plan and book travel in Search",
-   "title_orig": "3 new ways to plan and book travel in Search",
-   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-08-27"
-  },
-  {
-   "id": "5b132fba12b8",
-   "type": "news",
-   "title": "Gemini Omni 1.1 Flash lets you build with more control",
-   "title_orig": "Gemini Omni 1.1 Flash lets you build with more control",
-   "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-08-27"
-  },
-  {
-   "id": "213e95424861",
-   "type": "news",
-   "title": "Piloting the world's first double-blind AI evaluations",
-   "title_orig": "Piloting the world's first double-blind AI evaluations",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-08-27"
-  },
-  {
-   "id": "fe44bb74545b",
-   "type": "news",
-   "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "title_orig": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-08-26"
-  },
-  {
-   "id": "5309d9655463",
-   "type": "news",
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "title_orig": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-08-26"
   }
  ]
 }
