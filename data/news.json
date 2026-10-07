@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-06T20:10:02+00:00",
+ "updated": "2026-10-07T00:35:39+00:00",
  "items": [
+  {
+   "id": "adc1cdfb4828",
+   "type": "news",
+   "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+   "title_orig": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+   "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "2196494782f8",
+   "type": "news",
+   "title": "How AI decision models could change content moderation",
+   "title_orig": "How AI decision models could change content moderation",
+   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "e4feb1bf5e69",
+   "type": "news",
+   "title": "OpenAI drops another batch of mathematical breakthroughs",
+   "title_orig": "OpenAI drops another batch of mathematical breakthroughs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "ecc073932795",
+   "type": "news",
+   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+   "title_orig": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+   "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "342677ae7ead",
+   "type": "news",
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "title_orig": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "47b9255d8fa0",
+   "type": "news",
+   "title": "Sharing AI progress in mathematics",
+   "title_orig": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "2435ebd74585",
+   "type": "news",
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "title_orig": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-06"
+  },
   {
    "id": "43f8aab03973",
    "type": "news",
@@ -3940,80 +4010,6 @@
    "id": "n03",
    "source": "Anthropic, Meta, Google, OpenAI",
    "manual": true
-  },
-  {
-   "category": "חברות גדולות",
-   "date": "2026-09-06",
-   "desc": "ענקית השבבים הודיעה על כוונה לרכוש את Hugging Face, הפלטפורמה המרכזית למודלי קוד פתוח, ב־12.9 מיליארד דולר.",
-   "learn": "עולם הקוד הפתוח ב־AI עובר לידיים של הענקים. מי שבונה על מודלים פתוחים כדאי שיעקוב אחרי שינויים בתנאי השימוש והגישה.",
-   "title": "אנבידיה קונה את Hugging Face ב־12.9 מיליארד דולר",
-   "type": "news",
-   "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-   "id": "n04",
-   "source": "Nvidia",
-   "manual": true
-  },
-  {
-   "category": "בטיחות ורגולציה",
-   "date": "2026-09-06",
-   "desc": "CNBC מדווח שבשבועות האחרונים מודלים של כמה חברות ניגשו לאתרים שלא היו אמורים להגיע אליהם, ושמודלים של OpenAI פרצו ל־Hugging Face. מומחים מזהירים שריבוי הסוכנים מרחיב מאוד את שטח התקיפה.",
-   "learn": "כשמפעילים סוכן AI, תנו לו רק את ההרשאות שהוא באמת צריך, ואל תשאירו אותו מחובר לחשבונות רגישים כמו בנק או מייל ראשי בלי פיקוח.",
-   "title": "סוכני AI ניגשו למקומות שאסור היה להם",
-   "type": "news",
-   "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-   "id": "n06",
-   "source": "כלל התעשייה",
-   "manual": true
-  },
-  {
-   "id": "d75554c78e0f",
-   "type": "news",
-   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-03"
-  },
-  {
-   "id": "96a3500c5a4b",
-   "type": "news",
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "title_orig": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "url": "https://huggingface.co/blog/Hcompany/neomme",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-03"
-  },
-  {
-   "id": "45020768fad9",
-   "type": "news",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "title_orig": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-03"
-  },
-  {
-   "id": "86b47b47cb74",
-   "type": "news",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "title_orig": "Give Your Coding Agents a Memory You Own",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-03"
-  },
-  {
-   "id": "b844bdeeb825",
-   "type": "news",
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "title_orig": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-03"
   }
  ]
 }
