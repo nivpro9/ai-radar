@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-07T07:07:49+00:00",
+ "updated": "2026-10-07T15:29:12+00:00",
  "items": [
+  {
+   "id": "e8947d3adf72",
+   "type": "news",
+   "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+   "title_orig": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "7e2cb564d4a4",
+   "type": "news",
+   "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+   "title_orig": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+   "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "a7cd3ac1dead",
+   "type": "news",
+   "title": "Google experiments with an AI-powered gaming platform",
+   "title_orig": "Google experiments with an AI-powered gaming platform",
+   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "72452dba288e",
+   "type": "news",
+   "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "title_orig": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "31faaa09aae5",
+   "type": "news",
+   "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+   "title_orig": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "952e69e18b6d",
+   "type": "news",
+   "title": "Google’s new SynthID website can identify AI-generated media",
+   "title_orig": "Google’s new SynthID website can identify AI-generated media",
+   "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "d78e8cbe49a0",
+   "type": "news",
+   "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+   "title_orig": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+   "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "4c9b009d21f8",
+   "type": "news",
+   "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+   "title_orig": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+   "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "8b63f191edc0",
+   "type": "news",
+   "title": "AI could upend food delivery",
+   "title_orig": "AI could upend food delivery",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "f81ac359aaf4",
+   "type": "news",
+   "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+   "title_orig": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "083b4a0cd473",
+   "type": "news",
+   "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+   "title_orig": "Mistral says \"Le Chonk\" can challenge the best AI models",
+   "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "1c9558d38162",
+   "type": "news",
+   "title": "Google rolls out improved SynthID AI content detector, now available globally",
+   "title_orig": "Google rolls out improved SynthID AI content detector, now available globally",
+   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "ea4f899dc8df",
+   "type": "news",
+   "title": "Introducing Playground: Create and play custom games",
+   "title_orig": "Introducing Playground: Create and play custom games",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "5bdd694c6290",
+   "type": "news",
+   "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+   "title_orig": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "e14dc0416368",
+   "type": "news",
+   "title": "מיזם \"Next October\" מסייע לסטארטאפים לצמוח ולהנציח את קורבנות 7 באוקטובר",
+   "title_orig": "מיזם \"Next October\" מסייע לסטארטאפים לצמוח ולהנציח את קורבנות 7 באוקטובר",
+   "url": "https://www.geektime.co.il/how-to-join-next-october/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-07"
+  },
   {
    "id": "0ff68e5bf2bc",
    "type": "news",
@@ -3856,158 +4006,6 @@
    "source": "Google",
    "lang": "en",
    "date": "2026-09-15"
-  },
-  {
-   "id": "2db68954a435",
-   "type": "news",
-   "title": "Building AI to accelerate science and improve lives",
-   "title_orig": "Building AI to accelerate science and improve lives",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-15"
-  },
-  {
-   "id": "98c36a850624",
-   "type": "news",
-   "title": "AI for everyone in every language",
-   "title_orig": "AI for everyone in every language",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-15"
-  },
-  {
-   "id": "63b04c12395d",
-   "type": "news",
-   "title": "New insights from Google’s AI & Economy ATLAS",
-   "title_orig": "New insights from Google’s AI & Economy ATLAS",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-15"
-  },
-  {
-   "id": "2f92a8ca47fb",
-   "type": "news",
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "title_orig": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-15"
-  },
-  {
-   "id": "16a7b27ed0ae",
-   "type": "news",
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "title_orig": "Your Agent Aced the Task. Will It Do It Again?",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-15"
-  },
-  {
-   "category": "בטיחות ורגולציה",
-   "date": "2026-09-15",
-   "desc": "לפי TechCrunch, שלוש החברות נמצאות במגעים מזה שבועות על נושאי בטיחות AI. OpenAI אף תמכה בסעיף בחוק FRONTIER שיחייב את המעבדות המובילות לאפשר לגופי בקרה בלתי תלויים להיכנס אליהן.",
-   "learn": "הרגולציה על AI עוד לא סגורה ויש ויכוח פוליטי עליה. כדאי לעקוב, כי זה ישפיע על אילו כלים יהיו זמינים ובאיזה תנאים.",
-   "title": "ענקיות ה־AI מנהלות שיחות משותפות על בטיחות",
-   "type": "news",
-   "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-   "id": "n05",
-   "source": "OpenAI, Anthropic, Google",
-   "manual": true
-  },
-  {
-   "id": "296d33defd03",
-   "type": "news",
-   "title": "How Fyxer built an AI executive assistant people trust",
-   "title_orig": "How Fyxer built an AI executive assistant people trust",
-   "url": "https://openai.com/index/fyxer",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-14"
-  },
-  {
-   "id": "6860ae25bff9",
-   "type": "news",
-   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-   "title_orig": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-14"
-  },
-  {
-   "id": "2267286cfd5c",
-   "type": "news",
-   "title": "DevFest is back",
-   "title_orig": "DevFest is back",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-14"
-  },
-  {
-   "id": "94ad36d7ed05",
-   "type": "news",
-   "title": "3 ways to prep for your next big race with Search",
-   "title_orig": "3 ways to prep for your next big race with Search",
-   "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-10"
-  },
-  {
-   "id": "d4e55a9164f4",
-   "type": "news",
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "title_orig": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-10"
-  },
-  {
-   "id": "cb50b0c3c856",
-   "type": "news",
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "title_orig": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-10"
-  },
-  {
-   "id": "91d5074fb05a",
-   "type": "news",
-   "title": "Get ready for the game with new football features in Search",
-   "title_orig": "Get ready for the game with new football features in Search",
-   "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-09"
-  },
-  {
-   "id": "ada2f6461358",
-   "type": "news",
-   "title": "Recreating a 70-year love story frame by frame",
-   "title_orig": "Recreating a 70-year love story frame by frame",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-09"
-  },
-  {
-   "id": "f7dd334d631a",
-   "type": "news",
-   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "title_orig": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-08"
   }
  ]
 }
