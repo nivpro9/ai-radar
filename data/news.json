@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-07T15:29:12+00:00",
+ "updated": "2026-10-07T21:13:05+00:00",
  "items": [
+  {
+   "id": "92be971aec51",
+   "type": "news",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "title_orig": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "54da693e6cb2",
+   "type": "news",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "title_orig": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "36bf85cb5432",
+   "type": "news",
+   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "title_orig": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "610b12eb5069",
+   "type": "news",
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "title_orig": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "4a32ff51ed08",
+   "type": "news",
+   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "title_orig": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "b68f72604da4",
+   "type": "news",
+   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "title_orig": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "876648c3358f",
+   "type": "news",
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "title_orig": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "a5b44d5e4c84",
+   "type": "news",
+   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+   "title_orig": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+   "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "9c7dd462aa5a",
+   "type": "news",
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "title_orig": "Microsoft is giving Copilot more control over Windows and your files",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "2c81a4fbc76b",
+   "type": "news",
+   "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+   "title_orig": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+   "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "ee6859a51c49",
+   "type": "news",
+   "title": "ChatGPT is getting college planning tools",
+   "title_orig": "ChatGPT is getting college planning tools",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "b8b3b1c51400",
+   "type": "news",
+   "title": "Muse launches on the iPad",
+   "title_orig": "Muse launches on the iPad",
+   "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "d8f516d6f374",
+   "type": "news",
+   "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+   "title_orig": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+   "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "ad4e14640e35",
+   "type": "news",
+   "title": "Helping teens learn, plan, and shape the future of AI",
+   "title_orig": "Helping teens learn, plan, and shape the future of AI",
+   "url": "https://openai.com/index/teens-learn-and-plan",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "04e9dc3828b5",
+   "type": "news",
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "title_orig": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "0ca1450969b5",
+   "type": "news",
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "title_orig": "GPT-6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "0825a4897dea",
+   "type": "news",
+   "title": "Multimodal open d1 decision models for the edge",
+   "title_orig": "Multimodal open d1 decision models for the edge",
+   "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
   {
    "id": "e8947d3adf72",
    "type": "news",
@@ -3836,176 +4006,6 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-09-21"
-  },
-  {
-   "id": "c701b57089c5",
-   "type": "news",
-   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "title_orig": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "eb792e0fc342",
-   "type": "news",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "title_orig": "tokenizers v1: encode, decode and scaling, measured",
-   "url": "https://huggingface.co/blog/tokenizers-v1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "84145fbe5ff7",
-   "type": "news",
-   "title": "Could AI really kill us all? Your questions, answered.",
-   "title_orig": "Could AI really kill us all? Your questions, answered.",
-   "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-18"
-  },
-  {
-   "id": "559b0cf11197",
-   "type": "news",
-   "title": "Introducing the Australian Youth Safety Blueprint",
-   "title_orig": "Introducing the Australian Youth Safety Blueprint",
-   "url": "https://openai.com/index/australian-youth-safety-blueprint",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-18"
-  },
-  {
-   "id": "c72f60fcf6ad",
-   "type": "news",
-   "title": "New experts join Google’s AI & Economy team",
-   "title_orig": "New experts join Google’s AI & Economy team",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-18"
-  },
-  {
-   "id": "94ad9f737cb6",
-   "type": "news",
-   "title": "Co-creating the future of fashion with Google",
-   "title_orig": "Co-creating the future of fashion with Google",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-18"
-  },
-  {
-   "id": "964ae1dd0fac",
-   "type": "news",
-   "title": "How Cooley is accelerating IPO work with ChatGPT",
-   "title_orig": "How Cooley is accelerating IPO work with ChatGPT",
-   "url": "https://openai.com/index/cooley-gopublic",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-17"
-  },
-  {
-   "id": "363bbead77de",
-   "type": "news",
-   "title": "Introducing Astra for Law",
-   "title_orig": "Introducing Astra for Law",
-   "url": "https://openai.com/index/astra-for-law",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-17"
-  },
-  {
-   "id": "df4ade904b04",
-   "type": "news",
-   "title": "Making global data easier to explore",
-   "title_orig": "Making global data easier to explore",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-17"
-  },
-  {
-   "id": "82986f89daa5",
-   "type": "news",
-   "title": "Building the materials foundation for AI",
-   "title_orig": "Building the materials foundation for AI",
-   "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "027811ca1632",
-   "type": "news",
-   "title": "Helping older adults use AI in everyday life",
-   "title_orig": "Helping older adults use AI in everyday life",
-   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "52752974efc0",
-   "type": "news",
-   "title": "Reimagining advertising with AI",
-   "title_orig": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "973a91148c50",
-   "type": "news",
-   "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-   "title_orig": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-   "url": "https://openai.com/index/hex-gpt-6-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "5f7e182a53f2",
-   "type": "news",
-   "title": "How to connect AI usage to business value",
-   "title_orig": "How to connect AI usage to business value",
-   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "bbe6c30a33c9",
-   "type": "news",
-   "title": "Our framework for reporting model misalignment",
-   "title_orig": "Our framework for reporting model misalignment",
-   "url": "https://openai.com/index/model-misalignment-reporting-framework",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "71646fffd914",
-   "type": "news",
-   "title": "How workers are unlocking new ways of working",
-   "title_orig": "How workers are unlocking new ways of working",
-   "url": "https://openai.com/index/unlocking-new-ways-of-working",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-16"
-  },
-  {
-   "id": "149a852934bd",
-   "type": "news",
-   "title": "AI for Societal Impact",
-   "title_orig": "AI for Societal Impact",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-15"
   }
  ]
 }
