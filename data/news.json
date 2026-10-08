@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-08T01:48:17+00:00",
+ "updated": "2026-10-08T08:49:19+00:00",
  "items": [
+  {
+   "id": "8a6d8ab89e40",
+   "type": "news",
+   "title": "Building a safer path to autonomous industrial AI",
+   "title_orig": "Building a safer path to autonomous industrial AI",
+   "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "87bad9b17b48",
+   "type": "news",
+   "title": "נתנו ל-AI משימה שבני אדם לא מסוגלים לבצע, ואז זה נהיה מעניין באמת",
+   "title_orig": "נתנו ל-AI משימה שבני אדם לא מסוגלים לבצע, ואז זה נהיה מעניין באמת",
+   "url": "https://www.geektime.co.il/how-we-built-ai-pension-analysis/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "e062c9c6af03",
+   "type": "news",
+   "title": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
+   "title_orig": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
+   "url": "https://www.geektime.co.il/microsoft-surface-laptop-ultra-rtx-spark/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-08"
+  },
   {
    "id": "b7d1e3ccac45",
    "type": "news",
@@ -3974,36 +4004,6 @@
    "title_orig": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
    "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "69455969e5fd",
-   "type": "news",
-   "title": "Google confirms Gemini models hacked three companies in May 2026",
-   "title_orig": "Google confirms Gemini models hacked three companies in May 2026",
-   "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "d37f5b2c5927",
-   "type": "news",
-   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "title_orig": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "a7ca59844a94",
-   "type": "news",
-   "title": "Advisory Group on Mathematics and Artificial Intelligence",
-   "title_orig": "Advisory Group on Mathematics and Artificial Intelligence",
-   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-09-21"
   }
