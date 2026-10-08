@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-08T08:49:19+00:00",
+ "updated": "2026-10-08T16:22:46+00:00",
  "items": [
+  {
+   "id": "d12d77aa7dd5",
+   "type": "news",
+   "title": "Natura’s $99 smart ring puts AI agents on your finger",
+   "title_orig": "Natura’s $99 smart ring puts AI agents on your finger",
+   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "8f83cc80b2fd",
+   "type": "news",
+   "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+   "title_orig": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "86cf93ed4e70",
+   "type": "news",
+   "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+   "title_orig": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "b5df5b287127",
+   "type": "news",
+   "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+   "title_orig": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+   "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "724f7ef3ebe4",
+   "type": "news",
+   "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "title_orig": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "19e26c83b268",
+   "type": "news",
+   "title": "Google releases a new local-first Granola competitor",
+   "title_orig": "Google releases a new local-first Granola competitor",
+   "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "53ae0ec869c6",
+   "type": "news",
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "title_orig": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "472b20c3e805",
+   "type": "news",
+   "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+   "title_orig": "Google’s AI note-taking app transcribes your meetings completely offline",
+   "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "01ea6a099b26",
+   "type": "news",
+   "title": "Google is launching a one-stop Gemini agent for your work tasks",
+   "title_orig": "Google is launching a one-stop Gemini agent for your work tasks",
+   "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "d883472ab406",
+   "type": "news",
+   "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+   "title_orig": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+   "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "c0dbfb6ce766",
+   "type": "news",
+   "title": "Artificial is a wicked satire that also sticks to the facts",
+   "title_orig": "Artificial is a wicked satire that also sticks to the facts",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "dcd9f5d91c11",
+   "type": "news",
+   "title": "AI breakthroughs in robotics won’t change your life any time soon",
+   "title_orig": "AI breakthroughs in robotics won’t change your life any time soon",
+   "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "95abd2184698",
+   "type": "news",
+   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "title_orig": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "077dea1e8a7a",
+   "type": "news",
+   "title": "Disrupting AI-enabled “false front” operations",
+   "title_orig": "Disrupting AI-enabled “false front” operations",
+   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
   {
    "id": "8a6d8ab89e40",
    "type": "news",
@@ -40,6 +180,26 @@
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-08"
+  },
+  {
+   "id": "4b28fadcbc65",
+   "type": "news",
+   "title": "It appears .agent and .agi are about to be the hot new domains",
+   "title_orig": "It appears .agent and .agi are about to be the hot new domains",
+   "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
+   "id": "91ed3eb235f3",
+   "type": "news",
+   "title": "Introducing Falcon ASR",
+   "title_orig": "Introducing Falcon ASR",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-07"
   },
   {
    "id": "a843173a5365",
@@ -3846,166 +4006,6 @@
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-09-22"
-  },
-  {
-   "id": "b6b1e4118cdb",
-   "type": "news",
-   "title": "Better prompt caching for GPT-6",
-   "title_orig": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "3d48e529ad7a",
-   "type": "news",
-   "title": "Introducing GPT-6 Sol and Luna",
-   "title_orig": "Introducing GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "ce45d8dc0f6c",
-   "type": "news",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "title_orig": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "b4fb82cc1313",
-   "type": "news",
-   "title": "Priorities and principles for effective third party assessments",
-   "title_orig": "Priorities and principles for effective third party assessments",
-   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "2960c64a019e",
-   "type": "news",
-   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "title_orig": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-   "url": "https://huggingface.co/blog/evaleval-aisi",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "98acfe91fd30",
-   "type": "news",
-   "title": "Transformers now runs llama.cpp quants",
-   "title_orig": "Transformers now runs llama.cpp quants",
-   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "fb8ad85c459c",
-   "type": "news",
-   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "title_orig": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-   "url": "https://huggingface.co/blog/omlx",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "fd6eeedefd5c",
-   "type": "news",
-   "title": "המנכ\"ל דחף לשימוש ב-AI, ועכשיו הוא חושף את הבלאגן שזה יצר",
-   "title_orig": "המנכ\"ל דחף לשימוש ב-AI, ועכשיו הוא חושף את הבלאגן שזה יצר",
-   "url": "https://www.geektime.co.il/shopify-ceo-has-an-ai-slop-problem/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "22b0ccc1a8a9",
-   "type": "news",
-   "title": "הסוכן Muse עוקף את ChatGPT, ונחסם על ידי אמזון",
-   "title_orig": "הסוכן Muse עוקף את ChatGPT, ונחסם על ידי אמזון",
-   "url": "https://www.geektime.co.il/muse-surpasses-chatgpt-and-gets-banned-by-amazon/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "b3e2275cab66",
-   "type": "news",
-   "title": "מיטאפ חדש יראה לכם איך אפשר לתת לאייג'נטים חופש פעולה מבלי לאבד שליטה",
-   "title_orig": "מיטאפ חדש יראה לכם איך אפשר לתת לאייג'נטים חופש פעולה מבלי לאבד שליטה",
-   "url": "https://www.geektime.co.il/agentic-ai-meetup-12102026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "eb792e0fc342",
-   "type": "news",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "title_orig": "tokenizers v1: encode, decode and scaling, measured",
-   "url": "https://huggingface.co/blog/tokenizers-v1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "333806803f07",
-   "type": "news",
-   "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-   "title_orig": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-   "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "f19c641f8d57",
-   "type": "news",
-   "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-   "title_orig": "4 ways to address the failures we found along the US border’s “virtual wall”",
-   "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "c66c5cd73f99",
-   "type": "news",
-   "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-   "title_orig": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-   "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "bb99e4e8a621",
-   "type": "news",
-   "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-   "title_orig": "She died at the San Diego border. A surveillance camera was in plain sight",
-   "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-21"
-  },
-  {
-   "id": "5dc131998993",
-   "type": "news",
-   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-   "title_orig": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-21"
   }
  ]
 }
