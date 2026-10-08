@@ -1,6 +1,166 @@
 {
- "updated": "2026-10-08T16:22:46+00:00",
+ "updated": "2026-10-08T21:59:33+00:00",
  "items": [
+  {
+   "id": "da3ca48318e6",
+   "type": "news",
+   "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+   "title_orig": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+   "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "301544ff1a07",
+   "type": "news",
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "title_orig": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "70543e9cd2f2",
+   "type": "news",
+   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+   "title_orig": "Ben Affleck is an AI nerd, and the internet is impressed",
+   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "ee0909605c2b",
+   "type": "news",
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "title_orig": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "3bf143dd453c",
+   "type": "news",
+   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "title_orig": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "c4b9450255a9",
+   "type": "news",
+   "title": "Google brings agentic AI to Gemini, starting with businesses",
+   "title_orig": "Google brings agentic AI to Gemini, starting with businesses",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "54a283d7c732",
+   "type": "news",
+   "title": "Anthropic changes usage policy to ban model abuse and election interference",
+   "title_orig": "Anthropic changes usage policy to ban model abuse and election interference",
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "7cc2fc2bcac3",
+   "type": "news",
+   "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+   "title_orig": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+   "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "df7e5433800b",
+   "type": "news",
+   "title": "Anthropic launches free AI security scans for open-source projects",
+   "title_orig": "Anthropic launches free AI security scans for open-source projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "4079389ad67f",
+   "type": "news",
+   "title": "California is trying to shut down robot vs. human cage matches",
+   "title_orig": "California is trying to shut down robot vs. human cage matches",
+   "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "a08ca06c8554",
+   "type": "news",
+   "title": "USA Today becomes the latest publisher to sue OpenAI",
+   "title_orig": "USA Today becomes the latest publisher to sue OpenAI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "0de6ad968814",
+   "type": "news",
+   "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+   "title_orig": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+   "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "ba390530e9c6",
+   "type": "news",
+   "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+   "title_orig": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "112b5f00879d",
+   "type": "news",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "title_orig": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "url": "https://openai.com/index/oracle",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "ca1ec6c6a1a1",
+   "type": "news",
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "title_orig": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "url": "https://openai.com/index/pollo-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "116eab1f8aad",
+   "type": "news",
+   "title": "\"כולם הסתכלו על קלוד קוד ו-Cursor, ופתאום צץ תחום חדש\": הסטארטאפ שמגייס שוב תוך פחות משנה",
+   "title_orig": "\"כולם הסתכלו על קלוד קוד ו-Cursor, ופתאום צץ תחום חדש\": הסטארטאפ שמגייס שוב תוך פחות משנה",
+   "url": "https://www.geektime.co.il/rein-security-nabs-series-a/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-08"
+  },
   {
    "id": "d12d77aa7dd5",
    "type": "news",
@@ -3846,166 +4006,6 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-09-23"
-  },
-  {
-   "id": "09a0c6dbf1c6",
-   "type": "news",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "title_orig": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "e896566878a9",
-   "type": "news",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "title_orig": "Google Beam expands with new regions, partners, and customers",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "cd8117c6d35f",
-   "type": "news",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "title_orig": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "914ed32ad555",
-   "type": "news",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "title_orig": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "a70f8ac64edf",
-   "type": "news",
-   "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "title_orig": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "a7b7255ee95a",
-   "type": "news",
-   "title": "המספרים מאחורי השבוע המטורף של Muse נחשפים",
-   "title_orig": "המספרים מאחורי השבוע המטורף של Muse נחשפים",
-   "url": "https://www.geektime.co.il/muse-launch-week-numbers/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "792cc8405e6a",
-   "type": "news",
-   "title": "בואו לבנות מערכת Multi-Agent במעבדה של Google Cloud",
-   "title_orig": "בואו לבנות מערכת Multi-Agent במעבדה של Google Cloud",
-   "url": "https://www.geektime.co.il/deploy-multi-agent-systems-workshop-14102026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "f53598f23403",
-   "type": "news",
-   "title": "שפכתם מיליונים על דשבורדים? כך ה-GenBI וסוכני ה-AI משנים הכל",
-   "title_orig": "שפכתם מיליונים על דשבורדים? כך ה-GenBI וסוכני ה-AI משנים הכל",
-   "url": "https://www.geektime.co.il/genbi-vs-traditional-dashboards/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "9546abe0945d",
-   "type": "news",
-   "title": "אנת'רופיק חשפה את Opus 5.5: טוב יותר וזול יותר גם מ-GPT-6 Astra",
-   "title_orig": "אנת'רופיק חשפה את Opus 5.5: טוב יותר וזול יותר גם מ-GPT-6 Astra",
-   "url": "https://www.geektime.co.il/claude-opus-5-5-is-out/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "3178ac7a6d69",
-   "type": "news",
-   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "title_orig": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "4c16a55043f0",
-   "type": "news",
-   "title": "Don’t be fooled by this summer of AI hype",
-   "title_orig": "Don’t be fooled by this summer of AI hype",
-   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "f7a9a3b0af71",
-   "type": "news",
-   "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-   "title_orig": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-   "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "df5d53f03b14",
-   "type": "news",
-   "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-   "title_orig": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-   "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "9071faa99f0c",
-   "type": "news",
-   "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-   "title_orig": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "266382207085",
-   "type": "news",
-   "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-   "title_orig": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-   "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-22"
-  },
-  {
-   "id": "05852de4da7d",
-   "type": "news",
-   "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-   "title_orig": "Dyson’s most overengineered gadget may have a waterproofing problem",
-   "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-22"
   }
  ]
 }
