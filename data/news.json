@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-09T08:53:07+00:00",
+ "updated": "2026-10-09T16:06:12+00:00",
  "items": [
+  {
+   "id": "c600ade0c9b5",
+   "type": "news",
+   "title": "A16z’s Olivia Moore on the state of consumer AI",
+   "title_orig": "A16z’s Olivia Moore on the state of consumer AI",
+   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "f4ed427af63f",
+   "type": "news",
+   "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+   "title_orig": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+   "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "e0e388931715",
+   "type": "news",
+   "title": "Trump’s attempt to rename AI is looking awfully artificial",
+   "title_orig": "Trump’s attempt to rename AI is looking awfully artificial",
+   "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "3e04105beca7",
+   "type": "news",
+   "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+   "title_orig": "Instinct was the buzziest AI agent around — can it survive Muse?",
+   "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "15717a6b7c9a",
+   "type": "news",
+   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "title_orig": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "7771bfdab537",
+   "type": "news",
+   "title": "We’re putting too much faith in AI’s ability to say no",
+   "title_orig": "We’re putting too much faith in AI’s ability to say no",
+   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "edd58468d564",
+   "type": "news",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "title_orig": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "43ef54e74d27",
+   "type": "news",
+   "title": "Impactful scheduling for GPU clusters",
+   "title_orig": "Impactful scheduling for GPU clusters",
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "ba19fcb25a5f",
+   "type": "news",
+   "title": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
+   "title_orig": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
+   "url": "https://www.geektime.co.il/jabra-evolve3-85-review/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "76c19cff5b8d",
+   "type": "news",
+   "title": "גוגל השיקה כלי תמלול חינמי שרץ אופליין על המחשב",
+   "title_orig": "גוגל השיקה כלי תמלול חינמי שרץ אופליין על המחשב",
+   "url": "https://www.geektime.co.il/google-ai-edge-foresight/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-09"
+  },
   {
    "id": "ca5fcc9baf2e",
    "type": "news",
@@ -3904,106 +4004,6 @@
    "title_orig": "Google Beam expands with new regions, partners, and customers",
    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
    "source": "Google",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "cd8117c6d35f",
-   "type": "news",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "title_orig": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "914ed32ad555",
-   "type": "news",
-   "title": "Gemini 3.8 text-to-speech says hello",
-   "title_orig": "Gemini 3.8 text-to-speech says hello",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "fda44b10a27a",
-   "type": "news",
-   "title": "The AI Hype Index: AI loves cheating",
-   "title_orig": "The AI Hype Index: AI loves cheating",
-   "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "229b3c7f852c",
-   "type": "news",
-   "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-   "title_orig": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-   "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "ee7ea9cc3ba7",
-   "type": "news",
-   "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-   "title_orig": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-   "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "b7941cc8a21f",
-   "type": "news",
-   "title": "YouTube promises custom feeds and a lot more AI later this year",
-   "title_orig": "YouTube promises custom feeds and a lot more AI later this year",
-   "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "2792cb9bc49e",
-   "type": "news",
-   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-   "title_orig": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-   "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "9d02eeb8cef1",
-   "type": "news",
-   "title": "Two years of OpenAI Academy",
-   "title_orig": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "1d77064cbebb",
-   "type": "news",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "title_orig": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "01d4e543c941",
-   "type": "news",
-   "title": "Sam Altman’s remarks at the United Nations Security Council",
-   "title_orig": "Sam Altman’s remarks at the United Nations Security Council",
-   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-09-23"
   }
