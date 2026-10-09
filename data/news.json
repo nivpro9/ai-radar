@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-09T16:06:12+00:00",
+ "updated": "2026-10-09T20:50:03+00:00",
  "items": [
+  {
+   "id": "2a1c784f84b9",
+   "type": "news",
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "title_orig": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "e053ae3b334d",
+   "type": "news",
+   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "title_orig": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "1b62d45c1a2a",
+   "type": "news",
+   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+   "title_orig": "Amazon drops data center NDAs, and AI agents want your credit card",
+   "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "fc5d99061639",
+   "type": "news",
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "title_orig": "Danu Robotics’ fight to build a better recycling robot",
+   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "ec93bee08bf3",
+   "type": "news",
+   "title": "We can’t help treating AI like it’s human. But should we?",
+   "title_orig": "We can’t help treating AI like it’s human. But should we?",
+   "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "d07dddd55da2",
+   "type": "news",
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "title_orig": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "f11f2c288c2c",
+   "type": "news",
+   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+   "title_orig": "Nikon microscopic video competition winner disqualified for using generative AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "048fcb30e5f3",
+   "type": "news",
+   "title": "AI coding agents generate more code, but not more software",
+   "title_orig": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "266dbefb97b2",
+   "type": "news",
+   "title": "AI disqualification yields new Nikon Small World in Motion winner",
+   "title_orig": "AI disqualification yields new Nikon Small World in Motion winner",
+   "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "90995f7dbc9c",
+   "type": "news",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "title_orig": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
   {
    "id": "c600ade0c9b5",
    "type": "news",
@@ -3906,106 +4006,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-09-24"
-  },
-  {
-   "id": "204ef99e7e64",
-   "type": "news",
-   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-   "title_orig": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-   "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "57771181a897",
-   "type": "news",
-   "title": "Google's first Suncatcher orbital data center test launches October 1",
-   "title_orig": "Google's first Suncatcher orbital data center test launches October 1",
-   "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "fb199060212f",
-   "type": "news",
-   "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-   "title_orig": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-   "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "11b1f486e03b",
-   "type": "news",
-   "title": "Meta puts its AI assistant on a keychain",
-   "title_orig": "Meta puts its AI assistant on a keychain",
-   "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "91625e27c986",
-   "type": "news",
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "title_orig": "Introducing Gemini 3.8 Live with Live Avatar",
-   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "c2a53f233272",
-   "type": "news",
-   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-   "title_orig": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "b777a1f77614",
-   "type": "news",
-   "title": "גוגל סוף סוף חושפת: Gemini 4… כמעט מוכן…",
-   "title_orig": "גוגל סוף סוף חושפת: Gemini 4… כמעט מוכן…",
-   "url": "https://www.geektime.co.il/gemini-4-is-almost-ready/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "3eff3c758c76",
-   "type": "news",
-   "title": "הסטארטאפ amp מפטר כ-80% מעובדיו, עשרות מהם בישראל",
-   "title_orig": "הסטארטאפ amp מפטר כ-80% מעובדיו, עשרות מהם בישראל",
-   "url": "https://www.geektime.co.il/amp-ai-layoffs/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "eedf55610e80",
-   "type": "news",
-   "title": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
-   "title_orig": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
-   "url": "https://www.geektime.co.il/meta-connect-2026-muse-glasses-announcements/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "e896566878a9",
-   "type": "news",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "title_orig": "Google Beam expands with new regions, partners, and customers",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-23"
   }
  ]
 }
