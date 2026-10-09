@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-08T21:59:33+00:00",
+ "updated": "2026-10-09T02:00:31+00:00",
  "items": [
+  {
+   "id": "ca5fcc9baf2e",
+   "type": "news",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "title_orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "f6d3626eb7c8",
+   "type": "news",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "title_orig": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "0f05fd4155a4",
+   "type": "news",
+   "title": "The model that didn't exist, so you made it yourself",
+   "title_orig": "The model that didn't exist, so you made it yourself",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-08"
+  },
   {
    "id": "da3ca48318e6",
    "type": "news",
@@ -3868,6 +3898,36 @@
    "date": "2026-09-24"
   },
   {
+   "id": "e896566878a9",
+   "type": "news",
+   "title": "Google Beam expands with new regions, partners, and customers",
+   "title_orig": "Google Beam expands with new regions, partners, and customers",
+   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "cd8117c6d35f",
+   "type": "news",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "title_orig": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "914ed32ad555",
+   "type": "news",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "title_orig": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-23"
+  },
+  {
    "id": "fda44b10a27a",
    "type": "news",
    "title": "The AI Hype Index: AI loves cheating",
@@ -3943,66 +4003,6 @@
    "title": "Sam Altman’s remarks at the United Nations Security Council",
    "title_orig": "Sam Altman’s remarks at the United Nations Security Council",
    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "f7558dc5c9de",
-   "type": "news",
-   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "title_orig": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "7357353a1f1d",
-   "type": "news",
-   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "title_orig": "How invideo improves color grading 3x with GPT‑6 Astra",
-   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "7cff1964bf19",
-   "type": "news",
-   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "title_orig": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-   "url": "https://openai.com/index/ringg",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "1d5a9cc2d950",
-   "type": "news",
-   "title": "Introducing MentalHealthBench",
-   "title_orig": "Introducing MentalHealthBench",
-   "url": "https://openai.com/index/introducing-mentalhealthbench",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "1dd9ce125c6e",
-   "type": "news",
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "title_orig": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-23"
-  },
-  {
-   "id": "73fafdf6f45f",
-   "type": "news",
-   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-   "title_orig": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-   "url": "https://openai.com/index/airbnb-gpt-6-astra",
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-09-23"
