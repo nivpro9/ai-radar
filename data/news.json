@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-10T06:57:16+00:00",
+ "updated": "2026-10-10T13:33:16+00:00",
  "items": [
+  {
+   "id": "0ea9d786e45e",
+   "type": "news",
+   "title": "AI agent makers are promising privacy — will they deliver?",
+   "title_orig": "AI agent makers are promising privacy — will they deliver?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "7a1627c425a8",
+   "type": "news",
+   "title": "כלי חדש יפנה לכם תוך זמן קצר יותר מ-12GB במקבוק",
+   "title_orig": "כלי חדש יפנה לכם תוך זמן קצר יותר מ-12GB במקבוק",
+   "url": "https://www.geektime.co.il/new-tool-will-free-up-12gb-on-your-mac-macbook/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-10"
+  },
   {
    "id": "6cd6f5cc677d",
    "type": "news",
@@ -3981,26 +4001,6 @@
    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
    "title_orig": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "9366ee5bcbcd",
-   "type": "news",
-   "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-   "title_orig": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-   "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "6fe8ff823f55",
-   "type": "news",
-   "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-   "title_orig": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-   "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-09-25"
