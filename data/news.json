@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-10T13:33:16+00:00",
+ "updated": "2026-10-10T18:27:52+00:00",
  "items": [
+  {
+   "id": "7ff5bfb82852",
+   "type": "news",
+   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+   "title_orig": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+   "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "92e4233ce3ff",
+   "type": "news",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "title_orig": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "0decde66c5ee",
+   "type": "news",
+   "title": "Anthropic is cutting off its internal evaluations from the internet",
+   "title_orig": "Anthropic is cutting off its internal evaluations from the internet",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "963bf8878e82",
+   "type": "news",
+   "title": "האירועים המומלצים: איך מקימים Software Factory שבו ה-AI באמת מתכנן, בונה ובודק?",
+   "title_orig": "האירועים המומלצים: איך מקימים Software Factory שבו ה-AI באמת מתכנן, בונה ובודק?",
+   "url": "https://www.geektime.co.il/geek-events-11102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-10"
+  },
   {
    "id": "0ea9d786e45e",
    "type": "news",
@@ -3962,46 +4002,6 @@
    "title_orig": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "391cdb68232b",
-   "type": "news",
-   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-   "title_orig": "The Pentagon wants $30 million to build an AI-powered lie detector",
-   "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "26c3af843986",
-   "type": "news",
-   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-   "title_orig": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "be11f7d1d629",
-   "type": "news",
-   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-   "title_orig": "Tesla workers balk at training Optimus humanoid robots as replacements",
-   "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "8479eb8c7ebf",
-   "type": "news",
-   "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-   "title_orig": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-   "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-   "source": "Ars Technica",
    "lang": "en",
    "date": "2026-09-25"
   }
