@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-10T18:27:52+00:00",
+ "updated": "2026-10-10T22:25:13+00:00",
  "items": [
+  {
+   "id": "2c9728d3318b",
+   "type": "news",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "title_orig": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "ac1984a6a99c",
+   "type": "news",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "title_orig": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "35dc91695d5d",
+   "type": "news",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "title_orig": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "e77e9ae83492",
+   "type": "news",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "title_orig": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
   {
    "id": "7ff5bfb82852",
    "type": "news",
@@ -3961,46 +4001,6 @@
    "title": "Meta makes the Muse filesystem even more accessible",
    "title_orig": "Meta makes the Muse filesystem even more accessible",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "706759721ffd",
-   "type": "news",
-   "title": "Sony and UMG are suing Suno again",
-   "title_orig": "Sony and UMG are suing Suno again",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "637d4699a545",
-   "type": "news",
-   "title": "One company is at the center of a wave of rogue AI attacks",
-   "title_orig": "One company is at the center of a wave of rogue AI attacks",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "f5e0462c8aed",
-   "type": "news",
-   "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-   "title_orig": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-   "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "c9b6dd7b22a4",
-   "type": "news",
-   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-   "title_orig": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-09-25"
