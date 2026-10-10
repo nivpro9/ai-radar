@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-09T20:50:03+00:00",
+ "updated": "2026-10-10T00:42:24+00:00",
  "items": [
+  {
+   "id": "6cd6f5cc677d",
+   "type": "news",
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "title_orig": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-10"
+  },
+  {
+   "id": "b0e83be7355c",
+   "type": "news",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "title_orig": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "0ad44f3ce5c4",
+   "type": "news",
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "title_orig": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "d587fa318b28",
+   "type": "news",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "title_orig": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-09"
+  },
   {
    "id": "2a1c784f84b9",
    "type": "news",
@@ -3964,48 +4004,6 @@
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-09-25"
-  },
-  {
-   "id": "d2d497e5eee4",
-   "type": "news",
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "title_orig": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "url": "https://openai.com/index/proaction",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "category": "חברות גדולות",
-   "date": "2026-09-25",
-   "desc": "גוגל הוסיפה ל־Gemini API סוכנים מנוהלים שמביאים את יכולות סוכן הקוד Antigravity. במקביל הציגה Google Labs את CC, סוכן לניהול הבית שמסנכרן לוחות שנה של עד חמישה בני משפחה ומכין תכניות ארוחות.",
-   "learn": "סוכנים מתחילים לנהל גם את החיים הפרטיים. שווה לחשוב אילו משימות שחוזרות אצלכם כל שבוע אפשר להעביר לסוכן.",
-   "title": "גוגל מרחיבה את הסוכנים: למפתחים ולמשפחות",
-   "type": "news",
-   "url": "https://aiagentstore.ai/ai-agent-news/this-week",
-   "id": "n09",
-   "source": "Google",
-   "manual": true
-  },
-  {
-   "id": "ee9698a7fdb9",
-   "type": "news",
-   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-   "title_orig": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-24"
-  },
-  {
-   "id": "3ab9cbba8c0d",
-   "type": "news",
-   "title": "Jensen Huang talks about AI and climate change like a supervillain",
-   "title_orig": "Jensen Huang talks about AI and climate change like a supervillain",
-   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-24"
   }
  ]
 }
