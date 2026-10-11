@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-11T01:47:43+00:00",
+ "updated": "2026-10-11T08:41:02+00:00",
  "items": [
+  {
+   "id": "cbec5ad8d967",
+   "type": "news",
+   "title": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
+   "title_orig": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
+   "url": "https://www.geektime.co.il/oktane-il-3112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-11"
+  },
   {
    "id": "2c9728d3318b",
    "type": "news",
@@ -3992,16 +4002,6 @@
    "title_orig": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "e84d98e81ae7",
-   "type": "news",
-   "title": "Meta makes the Muse filesystem even more accessible",
-   "title_orig": "Meta makes the Muse filesystem even more accessible",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-09-25"
   }
