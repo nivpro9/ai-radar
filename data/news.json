@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-11T08:41:02+00:00",
+ "updated": "2026-10-11T15:34:17+00:00",
  "items": [
+  {
+   "id": "778ab122b6ef",
+   "type": "news",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "title_orig": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-11"
+  },
+  {
+   "id": "ea95eacbd85b",
+   "type": "news",
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "title_orig": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-11"
+  },
+  {
+   "id": "09fe6685ae58",
+   "type": "news",
+   "title": "4 תשובות אמיתיות לשאלה: איך AI באמת משנה את תפקיד המפתחים?",
+   "title_orig": "4 תשובות אמיתיות לשאלה: איך AI באמת משנה את תפקיד המפתחים?",
+   "url": "https://www.geektime.co.il/how-ai-is-changing-software-engineering-4-insights/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-11"
+  },
+  {
+   "id": "7925d50d82cb",
+   "type": "news",
+   "title": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
+   "title_orig": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
+   "url": "https://www.geektime.co.il/one-zero-layoffs-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-11"
+  },
   {
    "id": "cbec5ad8d967",
    "type": "news",
@@ -3961,46 +4001,6 @@
    "title": "Meta’s AI Tamagotchi bet is…working?",
    "title_orig": "Meta’s AI Tamagotchi bet is…working?",
    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "1f14fef7c28f",
-   "type": "news",
-   "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-   "title_orig": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-   "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "6adb903e8228",
-   "type": "news",
-   "title": "Anthropic’s founders seek voting control ahead of IPO",
-   "title_orig": "Anthropic’s founders seek voting control ahead of IPO",
-   "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "4fb7b8b01cde",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-   "title_orig": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-   "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "c6b6939f433a",
-   "type": "news",
-   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-   "title_orig": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-   "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-25"
