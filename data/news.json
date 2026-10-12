@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-12T07:15:43+00:00",
+ "updated": "2026-10-12T17:45:30+00:00",
  "items": [
+  {
+   "id": "83b9a2e31e6e",
+   "type": "news",
+   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "title_orig": "WindBorne wins a hefty US Air Force contract for its balloon data",
+   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "5974203bb3c7",
+   "type": "news",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "title_orig": "Microsoft president says UK is best placed to drive AI regulation",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "1b3594718c48",
+   "type": "news",
+   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "title_orig": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "50db4f58bcdc",
+   "type": "news",
+   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+   "title_orig": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+   "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "36347ea06c8c",
+   "type": "news",
+   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "title_orig": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "5b0bbc20b589",
+   "type": "news",
+   "title": "Meta has some Wonder Full new AI models",
+   "title_orig": "Meta has some Wonder Full new AI models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "f35a07389044",
+   "type": "news",
+   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "title_orig": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "db958e2353fb",
+   "type": "news",
+   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+   "title_orig": "Amazon has over 1 million robot workers. What’s next for human employees?",
+   "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "1b3a86a14c46",
+   "type": "news",
+   "title": "מיקרוסופט מפטרת עשרות עובדים במרכז הפיתוח שלה בישראל",
+   "title_orig": "מיקרוסופט מפטרת עשרות עובדים במרכז הפיתוח שלה בישראל",
+   "url": "https://www.geektime.co.il/microsoft-layoffs-israel/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "549028c70397",
+   "type": "news",
+   "title": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
+   "title_orig": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
+   "url": "https://www.geektime.co.il/microsoft-maia-300-ai-chip-nvidia/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "4781f3549289",
+   "type": "news",
+   "title": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
+   "title_orig": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-is-coming-to-tlv/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "cf050b0e2662",
+   "type": "news",
+   "title": "חברות וקרנות אירופאיות נוחתות בתל אביב עם הצעות לסטארטאפים ישראלים",
+   "title_orig": "חברות וקרנות אירופאיות נוחתות בתל אביב עם הצעות לסטארטאפים ישראלים",
+   "url": "https://www.geektime.co.il/europe-days-2026-meetings-registration/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
   {
    "id": "b0202c9706cc",
    "type": "news",
@@ -3882,128 +4002,6 @@
    "id": "n11",
    "source": "Google",
    "manual": true
-  },
-  {
-   "id": "71b88d6b7195",
-   "type": "news",
-   "title": "Insurers claim AI is already increasing healthcare costs",
-   "title_orig": "Insurers claim AI is already increasing healthcare costs",
-   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-26"
-  },
-  {
-   "id": "dc5183e86bb5",
-   "type": "news",
-   "title": "I created an interactive digital avatar of myself — and you can talk to it",
-   "title_orig": "I created an interactive digital avatar of myself — and you can talk to it",
-   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-26"
-  },
-  {
-   "id": "fe937b84825f",
-   "type": "news",
-   "title": "At Meta Connect, the company’s smart glasses were everywhere",
-   "title_orig": "At Meta Connect, the company’s smart glasses were everywhere",
-   "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-26"
-  },
-  {
-   "id": "819e92326da0",
-   "type": "news",
-   "title": "OpenAI pauses training of its ‘most capable models’",
-   "title_orig": "OpenAI pauses training of its ‘most capable models’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-26"
-  },
-  {
-   "id": "344d41dcb1d6",
-   "type": "news",
-   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-   "title_orig": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-   "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-26"
-  },
-  {
-   "id": "2309e3dcaf88",
-   "type": "news",
-   "title": "כולם מדברים על AI Slop, אבל כולם צריכים לדבר על Workslop",
-   "title_orig": "כולם מדברים על AI Slop, אבל כולם צריכים לדבר על Workslop",
-   "url": "https://www.geektime.co.il/workslop-is-a-problem/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-26"
-  },
-  {
-   "category": "מחקר ופריצות דרך",
-   "date": "2026-09-26",
-   "desc": "פיזיקאים ב־Anthropic דיווחו ש־Claude חישב באופן עצמאי חישוב פיזיקלי מורכב מאוד של פיזור חלקיקים, והגיע רמה אחת מעבר לשיא שקבעו חוקרים אנושיים ב־2023.",
-   "learn": "מודלי AI כבר לא רק מסכמים ידע קיים אלא מסוגלים לתרום למחקר מדעי חדש. מי שלומד מדעים או עובד במחקר ירוויח מלהכיר את הכלים האלה לעומק.",
-   "title": "Claude שבר שיא עולמי בחישוב פיזיקלי",
-   "type": "news",
-   "url": "https://aiweekly.co/ai-news-today",
-   "id": "n01",
-   "source": "Anthropic",
-   "manual": true
-  },
-  {
-   "id": "69f2b5ec7d18",
-   "type": "news",
-   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-   "title_orig": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-   "url": "https://openai.com/index/wayfair",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "eb24f91b4396",
-   "type": "news",
-   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-   "title_orig": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-   "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "a7fc94a8f10d",
-   "type": "news",
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "title_orig": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "1ccbcef18549",
-   "type": "news",
-   "title": "Meta opens early access program for new Muse features",
-   "title_orig": "Meta opens early access program for new Muse features",
-   "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "16601d8d6797",
-   "type": "news",
-   "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-   "title_orig": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-   "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
   }
  ]
 }
