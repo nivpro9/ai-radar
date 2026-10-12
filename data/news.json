@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-12T00:26:38+00:00",
+ "updated": "2026-10-12T07:15:43+00:00",
  "items": [
+  {
+   "id": "b0202c9706cc",
+   "type": "news",
+   "title": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
+   "title_orig": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
+   "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-coming-to-israel/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "3b10b89c351f",
+   "type": "news",
+   "title": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
+   "title_orig": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
+   "url": "https://www.geektime.co.il/amazon-to-acquire-decart-israeli-ai-startup-for-7-billion-report/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-12"
+  },
   {
    "id": "7d4e278f0b74",
    "type": "news",
@@ -3981,26 +4001,6 @@
    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
    "title_orig": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "fe235f269aa2",
-   "type": "news",
-   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-   "title_orig": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-   "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "43fec3bf6a06",
-   "type": "news",
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "title_orig": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-25"
