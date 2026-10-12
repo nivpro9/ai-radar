@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-11T20:10:40+00:00",
+ "updated": "2026-10-12T00:26:38+00:00",
  "items": [
+  {
+   "id": "7d4e278f0b74",
+   "type": "news",
+   "title": "Will the HomeView be Apple’s first smart home success?",
+   "title_orig": "Will the HomeView be Apple’s first smart home success?",
+   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-11"
+  },
   {
    "id": "8d1b5970f0e4",
    "type": "news",
@@ -3991,16 +4001,6 @@
    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
    "title_orig": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-25"
-  },
-  {
-   "id": "fdba889df7cc",
-   "type": "news",
-   "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-   "title_orig": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-   "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-25"
