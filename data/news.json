@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-13T00:32:27+00:00",
+ "updated": "2026-10-13T07:37:51+00:00",
  "items": [
+  {
+   "id": "1e9e06dc6382",
+   "type": "news",
+   "title": "אופיס ו-Word בחינם: המפתח ששכפל בעזרת AI את אדובי עושה את זה למיקרוסופט",
+   "title_orig": "אופיס ו-Word בחינם: המפתח ששכפל בעזרת AI את אדובי עושה את זה למיקרוסופט",
+   "url": "https://www.geektime.co.il/artcraft-releases-microsoft-office-clones-with-claude/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "f57402d1faf4",
+   "type": "news",
+   "title": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
+   "title_orig": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
+   "url": "https://www.geektime.co.il/meta-announces-muse-wonder-and-muse-wonder-fulll/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-13"
+  },
   {
    "id": "9726aa3a5f66",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Engram is a sampler that turns broken AI hallucinations into music",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-27"
-  },
-  {
-   "id": "39e6d83733f3",
-   "type": "news",
-   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-   "title_orig": "Anthropic’s Dario Amodei gets the SNL treatment",
-   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-27"
-  },
-  {
-   "id": "7777e4571374",
-   "type": "news",
-   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-   "title_orig": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-27"
   }
