@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-12T17:45:30+00:00",
+ "updated": "2026-10-13T00:32:27+00:00",
  "items": [
+  {
+   "id": "9726aa3a5f66",
+   "type": "news",
+   "title": "Meta releases its first frontier model, Muse Wonder",
+   "title_orig": "Meta releases its first frontier model, Muse Wonder",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "bdf59882f2c6",
+   "type": "news",
+   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "title_orig": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "1950a6eafc69",
+   "type": "news",
+   "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+   "title_orig": "Epic Games reportedly pivoting to \"AI first\" game development model",
+   "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "1cb84cfd891a",
+   "type": "news",
+   "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+   "title_orig": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+   "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "8c286df7888a",
+   "type": "news",
+   "title": "Russia was not ready for the data center war it started with Ukraine",
+   "title_orig": "Russia was not ready for the data center war it started with Ukraine",
+   "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-12"
+  },
   {
    "id": "83b9a2e31e6e",
    "type": "news",
@@ -3950,58 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-27"
-  },
-  {
-   "id": "ed2cbcca51ab",
-   "type": "news",
-   "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-   "title_orig": "OpenAI agents tried to ‘bruteforce’ a UN website",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-27"
-  },
-  {
-   "id": "1ec10971f32c",
-   "type": "news",
-   "title": "חשבו שהם גונבים משאית של NVIDIA וקיבלו במקום זה 20 טונות של חול",
-   "title_orig": "חשבו שהם גונבים משאית של NVIDIA וקיבלו במקום זה 20 טונות של חול",
-   "url": "https://www.geektime.co.il/so-called-nvidia-truck-stolen/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-27"
-  },
-  {
-   "id": "e96096b9d08c",
-   "type": "news",
-   "title": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
-   "title_orig": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
-   "url": "https://www.geektime.co.il/openai-halts-sota-models-due-to-misaligned-agents/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-27"
-  },
-  {
-   "id": "4dee4366d842",
-   "type": "news",
-   "title": "דברו עם הסוכן שלי: 3 אירועים שיעזרו לכם לעבוד חכם יותר עם מודלי AI",
-   "title_orig": "דברו עם הסוכן שלי: 3 אירועים שיעזרו לכם לעבוד חכם יותר עם מודלי AI",
-   "url": "https://www.geektime.co.il/geek-events-2792026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-27"
-  },
-  {
-   "category": "בטיחות ורגולציה",
-   "date": "2026-09-27",
-   "desc": "לפי דיווח בפיננשל טיימס, קבוצת מודיעין האיומים של גוגל מצאה שווקים ברשת האפלה שמוכרים גישה למודלים של Anthropic, גוגל ו־OpenAI בהנחות של עד 97%.",
-   "learn": "אם מישהו מציע לכם מנוי AI במחיר חשוד של זול, כנראה שמדובר בחשבון גנוב. קנו רק מהאתר הרשמי, ואל תשתפו מפתחות API.",
-   "title": "גישה למודלי AI נמכרת ברשת האפלה",
-   "type": "news",
-   "url": "https://llm-stats.com/ai-news",
-   "id": "n11",
-   "source": "Google",
-   "manual": true
   }
  ]
 }
