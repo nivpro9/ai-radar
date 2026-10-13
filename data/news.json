@@ -1,6 +1,266 @@
 {
- "updated": "2026-10-13T15:52:41+00:00",
+ "updated": "2026-10-13T21:10:44+00:00",
  "items": [
+  {
+   "id": "70093601d146",
+   "type": "news",
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "title_orig": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "d3f06c5cb28b",
+   "type": "news",
+   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "title_orig": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "c06a934276cf",
+   "type": "news",
+   "title": "Facebook is giving users more control over their algorithm",
+   "title_orig": "Facebook is giving users more control over their algorithm",
+   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "fa1a37fdc416",
+   "type": "news",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "title_orig": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "d59d959ca724",
+   "type": "news",
+   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "title_orig": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "5b75b71a6459",
+   "type": "news",
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "title_orig": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "950fd49d85d3",
+   "type": "news",
+   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+   "title_orig": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+   "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "082a179fcd58",
+   "type": "news",
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "title_orig": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "c839b9474fae",
+   "type": "news",
+   "title": "Shopify opens its catalog up to more AI agents",
+   "title_orig": "Shopify opens its catalog up to more AI agents",
+   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "ffb4af635c9e",
+   "type": "news",
+   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+   "title_orig": "Xbox is officially embracing the chaos of AI-powered game ports",
+   "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "64be3d764257",
+   "type": "news",
+   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+   "title_orig": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+   "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "c9abe9b08cd3",
+   "type": "news",
+   "title": "Facebook will let you customize your feed algorithm using AI",
+   "title_orig": "Facebook will let you customize your feed algorithm using AI",
+   "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "a3312401eb55",
+   "type": "news",
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "title_orig": "Google makes it easier to launch your vibe-coded apps",
+   "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "e8881f4e9b5e",
+   "type": "news",
+   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "title_orig": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "24ef7cf40bd2",
+   "type": "news",
+   "title": "Google finally releases Gemini 4 Argon",
+   "title_orig": "Google finally releases Gemini 4 Argon",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "c11b8b011c28",
+   "type": "news",
+   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "title_orig": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "f17adc20acb8",
+   "type": "news",
+   "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+   "title_orig": "Google wants to host your personal vibe-coded apps in the Play Store",
+   "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "2bad0427cfe4",
+   "type": "news",
+   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "title_orig": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "ffc748cb8d88",
+   "type": "news",
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "title_orig": "Higgsfield takes AI video from 1 minute to over 10",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "66cb1e68848f",
+   "type": "news",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "25432b6b093a",
+   "type": "news",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "title_orig": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "8b0463614a7b",
+   "type": "news",
+   "title": "Gemini 4 Argon for Robotics",
+   "title_orig": "Gemini 4 Argon for Robotics",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "316153953adf",
+   "type": "news",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "550c4c02e9ff",
+   "type": "news",
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "title_orig": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "601963fcff07",
+   "type": "news",
+   "title": "הסטארטאפ Pluto נחשף עכשיו עם גיוסים של 42 מיליון דולר",
+   "title_orig": "הסטארטאפ Pluto נחשף עכשיו עם גיוסים של 42 מיליון דולר",
+   "url": "https://www.geektime.co.il/pluto-security-raises-42m-seed-and-a-round/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "7158b15b98e9",
+   "type": "news",
+   "title": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
+   "title_orig": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
+   "url": "https://www.geektime.co.il/google-releases-gemini-4-argon/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-13"
+  },
   {
    "id": "82ec47719a83",
    "type": "news",
@@ -3682,6 +3942,16 @@
    "date": "2026-09-29"
   },
   {
+   "id": "9552195c964d",
+   "type": "news",
+   "title": "Holo4: powering generalist computer-use agents",
+   "title_orig": "Holo4: powering generalist computer-use agents",
+   "url": "https://huggingface.co/blog/Hcompany/holo4",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-28"
+  },
+  {
    "id": "a30a6af008de",
    "type": "news",
    "title": "Welcome RL Environments to the hub",
@@ -3728,276 +3998,6 @@
    "title_orig": "How we will do better for Australia",
    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "d2394bd4dea4",
-   "type": "news",
-   "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-   "title_orig": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "4b4cfee992d3",
-   "type": "news",
-   "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-   "title_orig": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-   "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "342c492ea49c",
-   "type": "news",
-   "title": "Shopify opens checkout to browser-based AI agents",
-   "title_orig": "Shopify opens checkout to browser-based AI agents",
-   "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "46fca61f4990",
-   "type": "news",
-   "title": "Nvidia launches new platform for reining in rogue AI agents",
-   "title_orig": "Nvidia launches new platform for reining in rogue AI agents",
-   "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "b48cf3b3b784",
-   "type": "news",
-   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-   "title_orig": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "227c6ab55934",
-   "type": "news",
-   "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-   "title_orig": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-   "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "7627b64443e1",
-   "type": "news",
-   "title": "OpenAI’s AI agents need to catch up",
-   "title_orig": "OpenAI’s AI agents need to catch up",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "7c7b6ea24fb9",
-   "type": "news",
-   "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-   "title_orig": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "6a443da468f0",
-   "type": "news",
-   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "title_orig": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "d6fa27c327ba",
-   "type": "news",
-   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-   "title_orig": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-   "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "309d3a4f83f0",
-   "type": "news",
-   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-   "title_orig": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-   "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "216d56bba26c",
-   "type": "news",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "title_orig": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "914f14710638",
-   "type": "news",
-   "title": "Are you a Codex Original?",
-   "title_orig": "Are you a Codex Original?",
-   "url": "https://openai.com/form/codex-originals",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "bf0fe8cc388a",
-   "type": "news",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "title_orig": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "ebb851930de7",
-   "type": "news",
-   "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "title_orig": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "32712da4bf89",
-   "type": "news",
-   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-   "title_orig": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "4d987bc13622",
-   "type": "news",
-   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-   "title_orig": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "5c1ef6c81386",
-   "type": "news",
-   "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-   "title_orig": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "daef1e4c7c82",
-   "type": "news",
-   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-   "title_orig": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "e2b386d85c6d",
-   "type": "news",
-   "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-   "title_orig": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-   "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "167459110ffb",
-   "type": "news",
-   "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-   "title_orig": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "443df734f7b9",
-   "type": "news",
-   "title": "Modulate raises $25M for its voice models and analysis suite",
-   "title_orig": "Modulate raises $25M for its voice models and analysis suite",
-   "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "4133fd226b22",
-   "type": "news",
-   "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-   "title_orig": "Insurtech Outmarket raises $34.5M just months after prior round",
-   "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "679e89ed0f11",
-   "type": "news",
-   "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-   "title_orig": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-   "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "7139170b174f",
-   "type": "news",
-   "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-   "title_orig": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "523d5e9de5b0",
-   "type": "news",
-   "title": "Florida seeks a ban on ChatGPT acting like a person",
-   "title_orig": "Florida seeks a ban on ChatGPT acting like a person",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "c5ed54694a4a",
-   "type": "news",
-   "title": "OpenAI keeps bulldozing mathematicians",
-   "title_orig": "OpenAI keeps bulldozing mathematicians",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-09-28"
   }
