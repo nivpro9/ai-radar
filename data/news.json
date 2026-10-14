@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-14T01:07:30+00:00",
+ "updated": "2026-10-14T07:28:36+00:00",
  "items": [
+  {
+   "id": "5cb1618c1db5",
+   "type": "news",
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "title_orig": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "22f2733659af",
+   "type": "news",
+   "title": "רק בכנס הפיתוח של גיקטיים: הישראלי הראשון ב-Cognition מספר מה למד מלבנות את Devin",
+   "title_orig": "רק בכנס הפיתוח של גיקטיים: הישראלי הראשון ב-Cognition מספר מה למד מלבנות את Devin",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-cognition/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "803ad31e51eb",
+   "type": "news",
+   "title": "עובד OpenAI נעצר ע\"י ה-FBI לאחר שהשתיל מכשיר הקלטה במשרדים",
+   "title_orig": "עובד OpenAI נעצר ע\"י ה-FBI לאחר שהשתיל מכשיר הקלטה במשרדים",
+   "url": "https://www.geektime.co.il/fbi-arrests-openai-employee/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "39a825d31958",
+   "type": "news",
+   "title": "סקר שכר ההייטק: כמה אתם מרוויחים, כמה לבקש וכמה שווה להיות יוצא 8200?",
+   "title_orig": "סקר שכר ההייטק: כמה אתם מרוויחים, כמה לבקש וכמה שווה להיות יוצא 8200?",
+   "url": "https://www.geektime.co.il/high-tech-salary-survey-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
   {
    "id": "2ce212c19db2",
    "type": "news",
@@ -3960,46 +4000,6 @@
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-09-29"
-  },
-  {
-   "id": "a2410a708c1f",
-   "type": "news",
-   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-   "title_orig": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "597975da4940",
-   "type": "news",
-   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-   "title_orig": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "216d56bba26c",
-   "type": "news",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "title_orig": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
-  },
-  {
-   "id": "914f14710638",
-   "type": "news",
-   "title": "Are you a Codex Original?",
-   "title_orig": "Are you a Codex Original?",
-   "url": "https://openai.com/form/codex-originals",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-28"
   }
  ]
 }
