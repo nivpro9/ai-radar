@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-14T07:28:36+00:00",
+ "updated": "2026-10-14T13:37:07+00:00",
  "items": [
+  {
+   "id": "9931ca009c40",
+   "type": "news",
+   "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+   "title_orig": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+   "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "339da82e2ea9",
+   "type": "news",
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "title_orig": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "64950daaf518",
+   "type": "news",
+   "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+   "title_orig": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+   "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "2f3282e48314",
+   "type": "news",
+   "title": "The EU’s next chapter in AI is agentic",
+   "title_orig": "The EU’s next chapter in AI is agentic",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "056c4a1ee68e",
+   "type": "news",
+   "title": "בואו ללמוד איך ניהול סיכונים נכון של קוד פתוח יכול להציל לכם את הגיוס הבא",
+   "title_orig": "בואו ללמוד איך ניהול סיכונים נכון של קוד פתוח יכול להציל לכם את הגיוס הבא",
+   "url": "https://www.geektime.co.il/open-source-ai-risk-management-webinar-21102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "548d43ccf975",
+   "type": "news",
+   "title": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
+   "title_orig": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
+   "url": "https://www.geektime.co.il/openai-math-proofs-ai-academia-crisis/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
   {
    "id": "5cb1618c1db5",
    "type": "news",
@@ -3938,66 +3998,6 @@
    "title_orig": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "984223f109f3",
-   "type": "news",
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "title_orig": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "2e451c5437d6",
-   "type": "news",
-   "title": "תכירו: Dots, האייג'נטים החדשים של OpenAI, שיתחרו ב-Muse ו-Instinct",
-   "title_orig": "תכירו: Dots, האייג'נטים החדשים של OpenAI, שיתחרו ב-Muse ו-Instinct",
-   "url": "https://www.geektime.co.il/openai-devday-2026-keynote/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "066f30222fdb",
-   "type": "news",
-   "title": "גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג'נט המופרע שלכם",
-   "title_orig": "גייסו עכשיו 50 מיליון דולר כדי לחסל את האייג'נט המופרע שלכם",
-   "url": "https://www.geektime.co.il/reco-ai-security-funding-50m/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "3704d533c81d",
-   "type": "news",
-   "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-   "title_orig": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-   "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "4673f7cac181",
-   "type": "news",
-   "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-   "title_orig": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "93ea3aafd35e",
-   "type": "news",
-   "title": "Making AI an asset, not an expense",
-   "title_orig": "Making AI an asset, not an expense",
-   "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-09-29"
   }
