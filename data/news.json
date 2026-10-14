@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-14T18:30:19+00:00",
+ "updated": "2026-10-14T22:12:48+00:00",
  "items": [
+  {
+   "id": "ceac0f96bc6e",
+   "type": "news",
+   "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+   "title_orig": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+   "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "88ac6d1c3f06",
+   "type": "news",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "title_orig": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "2fac9b600466",
+   "type": "news",
+   "title": "The AI race is back on",
+   "title_orig": "The AI race is back on",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "738aed8dcc6e",
+   "type": "news",
+   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+   "title_orig": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "e1e9d7f8b0f1",
+   "type": "news",
+   "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+   "title_orig": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+   "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
   {
    "id": "877cbcbdbb3b",
    "type": "news",
@@ -3872,6 +3922,36 @@
    "date": "2026-09-30"
   },
   {
+   "id": "19db7cc5ca5c",
+   "type": "news",
+   "title": "DevDay 2026 Recap",
+   "title_orig": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "dd66acaed2a0",
+   "type": "news",
+   "title": "Introducing GPT-6.1 Sol",
+   "title_orig": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "884977ecb800",
+   "type": "news",
+   "title": "Introducing dots",
+   "title_orig": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
    "id": "984223f109f3",
    "type": "news",
    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -3917,86 +3997,6 @@
    "title": "OpenAI’s latest features take direct aim at the app store model",
    "title_orig": "OpenAI’s latest features take direct aim at the app store model",
    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "e859ba036e35",
-   "type": "news",
-   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-   "title_orig": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-   "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "dd9b71cbd384",
-   "type": "news",
-   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "title_orig": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "719d3195b24b",
-   "type": "news",
-   "title": "Trump orders US government to call AI ‘Super Intelligence’",
-   "title_orig": "Trump orders US government to call AI ‘Super Intelligence’",
-   "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "c01a20c9c38e",
-   "type": "news",
-   "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-   "title_orig": "Elon Musk’s AI-powered Grokipedia is updating again",
-   "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "389473c42080",
-   "type": "news",
-   "title": "Protests against OpenAI get increasingly creative",
-   "title_orig": "Protests against OpenAI get increasingly creative",
-   "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "6da0f8a585ce",
-   "type": "news",
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "title_orig": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "925a5e11fe99",
-   "type": "news",
-   "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-   "title_orig": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-   "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "8fc460604cb9",
-   "type": "news",
-   "title": "AI-powered app maker Wabi pivots to a messaging experience",
-   "title_orig": "AI-powered app maker Wabi pivots to a messaging experience",
-   "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-29"
