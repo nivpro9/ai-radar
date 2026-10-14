@@ -1,6 +1,226 @@
 {
- "updated": "2026-10-14T13:37:07+00:00",
+ "updated": "2026-10-14T18:30:19+00:00",
  "items": [
+  {
+   "id": "877cbcbdbb3b",
+   "type": "news",
+   "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+   "title_orig": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "d7ad5c7f5c98",
+   "type": "news",
+   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+   "title_orig": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+   "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "f1c8e20f7598",
+   "type": "news",
+   "title": "Deezer will soon let you filter out AI-generated music",
+   "title_orig": "Deezer will soon let you filter out AI-generated music",
+   "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "2e447a71d8fc",
+   "type": "news",
+   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+   "title_orig": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+   "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "88518a254bc6",
+   "type": "news",
+   "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+   "title_orig": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "cef3a61011ee",
+   "type": "news",
+   "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+   "title_orig": "Floqer’s AI agents research sales prospects so teams don’t have to",
+   "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "613feca97589",
+   "type": "news",
+   "title": "TechCrunch Disrupt 2026: Day 2",
+   "title_orig": "TechCrunch Disrupt 2026: Day 2",
+   "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "939ecdfa5040",
+   "type": "news",
+   "title": "YouTube sticks new labels on AI-generated songs",
+   "title_orig": "YouTube sticks new labels on AI-generated songs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "bba11107a8fb",
+   "type": "news",
+   "title": "My AI doppelganger tells me what to eat",
+   "title_orig": "My AI doppelganger tells me what to eat",
+   "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "524e699ebac3",
+   "type": "news",
+   "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+   "title_orig": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "0784a13f079d",
+   "type": "news",
+   "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+   "title_orig": "Microsoft has a new machine learning tool to improve weather forecasts",
+   "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "d4118e30020d",
+   "type": "news",
+   "title": "Square’s new kiosk lets you talk to AI for help with your order",
+   "title_orig": "Square’s new kiosk lets you talk to AI for help with your order",
+   "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "c034144452ef",
+   "type": "news",
+   "title": "Android is using AI to suss out scammers in Google Messages",
+   "title_orig": "Android is using AI to suss out scammers in Google Messages",
+   "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "7627a3f49095",
+   "type": "news",
+   "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+   "title_orig": "Anthropic’s self-replicating AI warning is alarming deja vu",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "08495a955cc8",
+   "type": "news",
+   "title": "Epic’s new games launcher is ‘vibe coded’",
+   "title_orig": "Epic’s new games launcher is ‘vibe coded’",
+   "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "972ce96df38a",
+   "type": "news",
+   "title": "Researchers use AI to design proteins that cut up other proteins",
+   "title_orig": "Researchers use AI to design proteins that cut up other proteins",
+   "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "02ae3f5fc0dc",
+   "type": "news",
+   "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+   "title_orig": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+   "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "a0e0fec2c2b5",
+   "type": "news",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "title_orig": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "24cc989c02db",
+   "type": "news",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "title_orig": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "e181547094b0",
+   "type": "news",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "title_orig": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "672ebf75c430",
+   "type": "news",
+   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "title_orig": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-14"
+  },
+  {
+   "id": "3fa3a500d610",
+   "type": "news",
+   "title": "90 שניות ויש לכם אייג'נט: הסטארטאפ הישראלי Zenzap גייס 44 מיליון דולר",
+   "title_orig": "90 שניות ויש לכם אייג'נט: הסטארטאפ הישראלי Zenzap גייס 44 מיליון דולר",
+   "url": "https://www.geektime.co.il/zenzap-comes-out-of-stealth/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-14"
+  },
   {
    "id": "9931ca009c40",
    "type": "news",
@@ -3652,6 +3872,16 @@
    "date": "2026-09-30"
   },
   {
+   "id": "984223f109f3",
+   "type": "news",
+   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+   "title_orig": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-29"
+  },
+  {
    "id": "91a3f4f5da3a",
    "type": "news",
    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -3768,236 +3998,6 @@
    "title_orig": "AI-powered app maker Wabi pivots to a messaging experience",
    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "4989aec5d028",
-   "type": "news",
-   "title": "OpenAI launches Dots, its bubbly agentic avatar",
-   "title_orig": "OpenAI launches Dots, its bubbly agentic avatar",
-   "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "0399f6c76448",
-   "type": "news",
-   "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-   "title_orig": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-   "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "9f65297e5870",
-   "type": "news",
-   "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-   "title_orig": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "eb24b52c29e5",
-   "type": "news",
-   "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-   "title_orig": "OpenAI gives Codex reusable cloud environments that work across devices",
-   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "4e6047898df7",
-   "type": "news",
-   "title": "Can a chatbot fix the government maze? The White House is about to find out",
-   "title_orig": "Can a chatbot fix the government maze? The White House is about to find out",
-   "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "571a8a73ce58",
-   "type": "news",
-   "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-   "title_orig": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-   "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "4b370ca941c6",
-   "type": "news",
-   "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-   "title_orig": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "f617697ebfec",
-   "type": "news",
-   "title": "Meta is expanding its AI agent Muse to small businesses",
-   "title_orig": "Meta is expanding its AI agent Muse to small businesses",
-   "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "bbb4343f6492",
-   "type": "news",
-   "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-   "title_orig": "OpenAI apologizes to Australia after its AI agents breached government sites",
-   "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "7111554b655f",
-   "type": "news",
-   "title": "Reco raises $55M as AI agent security startups crowd the market",
-   "title_orig": "Reco raises $55M as AI agent security startups crowd the market",
-   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "5726e15c5cb8",
-   "type": "news",
-   "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-   "title_orig": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "7562a8743449",
-   "type": "news",
-   "title": "OpenAI launches Dots, its Muse competitor",
-   "title_orig": "OpenAI launches Dots, its Muse competitor",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "13cfd55ec784",
-   "type": "news",
-   "title": "Protesters gather at OpenAI’s DevDay",
-   "title_orig": "Protesters gather at OpenAI’s DevDay",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "0d5fc586f591",
-   "type": "news",
-   "title": "OpenAI DevDay 2026: The biggest news and announcements",
-   "title_orig": "OpenAI DevDay 2026: The biggest news and announcements",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "7cd7dfe3ad5e",
-   "type": "news",
-   "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-   "title_orig": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "7aa6b66d3a27",
-   "type": "news",
-   "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-   "title_orig": "Here's what actually happened in OpenAI's Australian gov't server hack",
-   "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "482046899a06",
-   "type": "news",
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "title_orig": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "bd32bd3afe79",
-   "type": "news",
-   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "title_orig": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "7836617c4b59",
-   "type": "news",
-   "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-   "title_orig": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-   "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "dd66acaed2a0",
-   "type": "news",
-   "title": "Introducing GPT-6.1 Sol",
-   "title_orig": "Introducing GPT-6.1 Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "19db7cc5ca5c",
-   "type": "news",
-   "title": "DevDay 2026 Recap",
-   "title_orig": "DevDay 2026 Recap",
-   "url": "https://openai.com/index/devday-2026-recap",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "884977ecb800",
-   "type": "news",
-   "title": "Introducing dots",
-   "title_orig": "Introducing dots",
-   "url": "https://openai.com/index/introducing-dots",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "493cf3fce1b8",
-   "type": "news",
-   "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "title_orig": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-09-29"
   }
