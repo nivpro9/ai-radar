@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-15T01:23:22+00:00",
+ "updated": "2026-10-15T07:18:49+00:00",
  "items": [
+  {
+   "id": "b4c333a1fc01",
+   "type": "news",
+   "title": "Figma announces new features to define how agents work on its platform",
+   "title_orig": "Figma announces new features to define how agents work on its platform",
+   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
   {
    "id": "f0fe7c9aa7b8",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Introducing dots",
    "url": "https://openai.com/index/introducing-dots",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "984223f109f3",
-   "type": "news",
-   "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "title_orig": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-09-29"
   }
