@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-15T07:18:49+00:00",
+ "updated": "2026-10-15T13:19:43+00:00",
  "items": [
+  {
+   "id": "cc07996f6bad",
+   "type": "news",
+   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "title_orig": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "adaf79e50c2e",
+   "type": "news",
+   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+   "title_orig": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+   "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "b6af0c3578bc",
+   "type": "news",
+   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+   "title_orig": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+   "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "faf4d5dfcd6c",
+   "type": "news",
+   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+   "title_orig": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+   "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
   {
    "id": "b4c333a1fc01",
    "type": "news",
@@ -3960,46 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-09-30"
-  },
-  {
-   "id": "1eb6183d721b",
-   "type": "news",
-   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-   "title_orig": "Sam Altman says OpenAI won’t go public until its models are safe",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "19db7cc5ca5c",
-   "type": "news",
-   "title": "DevDay 2026 Recap",
-   "title_orig": "DevDay 2026 Recap",
-   "url": "https://openai.com/index/devday-2026-recap",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "dd66acaed2a0",
-   "type": "news",
-   "title": "Introducing GPT-6.1 Sol",
-   "title_orig": "Introducing GPT-6.1 Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
-  },
-  {
-   "id": "884977ecb800",
-   "type": "news",
-   "title": "Introducing dots",
-   "title_orig": "Introducing dots",
-   "url": "https://openai.com/index/introducing-dots",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-29"
   }
  ]
 }
