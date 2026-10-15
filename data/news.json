@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-15T18:12:07+00:00",
+ "updated": "2026-10-15T22:08:44+00:00",
  "items": [
+  {
+   "id": "d5bac5a69bce",
+   "type": "news",
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "title_orig": "Meta launches an open-weight AI model that runs on Macs",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "a983409c8d0b",
+   "type": "news",
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "title_orig": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "e925c3137a8a",
+   "type": "news",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "title_orig": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "35f04bc99ba5",
+   "type": "news",
+   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "title_orig": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "66efd2f87608",
+   "type": "news",
+   "title": "The tech backlash is now in theaters",
+   "title_orig": "The tech backlash is now in theaters",
+   "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "54d7a618ecd3",
+   "type": "news",
+   "title": "Trump posts AI-edited photo to brag about White House restoration work",
+   "title_orig": "Trump posts AI-edited photo to brag about White House restoration work",
+   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "2c7772f8550a",
+   "type": "news",
+   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+   "title_orig": "Bluesky’s AI tool now lets you make games and apps to share on social",
+   "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "c7cea461bd6d",
+   "type": "news",
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "title_orig": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "a72d1e4da6b0",
+   "type": "news",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "title_orig": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "a01e02239da0",
+   "type": "news",
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "title_orig": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
   {
    "id": "d9d8114df721",
    "type": "news",
@@ -3792,6 +3892,36 @@
    "date": "2026-10-01"
   },
   {
+   "id": "b5e5e43443d2",
+   "type": "news",
+   "title": "Helping small businesses put AI to work",
+   "title_orig": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "396b95f3429c",
+   "type": "news",
+   "title": "Introducing SynthID Bio",
+   "title_orig": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "581ab3112c30",
+   "type": "news",
+   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "title_orig": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
    "id": "5c1f615d64d2",
    "type": "news",
    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -3868,136 +3998,6 @@
    "title_orig": "DoorDash launches an AI agent you can text to order food",
    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "0412d9fdec7a",
-   "type": "news",
-   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-   "title_orig": "Destro AI’s secret sauce is getting robots and humans on the same page",
-   "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "c85f3b834805",
-   "type": "news",
-   "title": "Instinct’s new product recommendations are giving some users the ick",
-   "title_orig": "Instinct’s new product recommendations are giving some users the ick",
-   "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "97fa5252aa29",
-   "type": "news",
-   "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-   "title_orig": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-   "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "940c49f7ad52",
-   "type": "news",
-   "title": "The AI Tamagotchis are coming",
-   "title_orig": "The AI Tamagotchis are coming",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "b3707029996a",
-   "type": "news",
-   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-   "title_orig": "Here’s what AI leaders are saying about Trump’s new safety plan",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "94349d4a2730",
-   "type": "news",
-   "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-   "title_orig": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-   "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "e93aea6b3aca",
-   "type": "news",
-   "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-   "title_orig": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-   "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "beee353d4f9f",
-   "type": "news",
-   "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-   "title_orig": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-   "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "bc19c566808a",
-   "type": "news",
-   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-   "title_orig": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "10fc10377664",
-   "type": "news",
-   "title": "Google's early attempt to pay websites for AI answers is struggling",
-   "title_orig": "Google's early attempt to pay websites for AI answers is struggling",
-   "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "7abd4d2d77e4",
-   "type": "news",
-   "title": "Google figures out how to watermark AI-designed proteins",
-   "title_orig": "Google figures out how to watermark AI-designed proteins",
-   "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "6a91381a4292",
-   "type": "news",
-   "title": "Disrupting a coordinated model-distillation campaign",
-   "title_orig": "Disrupting a coordinated model-distillation campaign",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "311e095023e6",
-   "type": "news",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "title_orig": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "source": "Google DeepMind",
    "lang": "en",
    "date": "2026-09-30"
   }
