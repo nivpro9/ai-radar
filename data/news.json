@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-16T07:02:35+00:00",
+ "updated": "2026-10-16T12:17:06+00:00",
  "items": [
+  {
+   "id": "3a7c6df7b818",
+   "type": "news",
+   "title": "ה-PC הראשון עם מעבד של אנבידיה נוחת בישראל עם מפרט מטורף ומחיר תואם",
+   "title_orig": "ה-PC הראשון עם מעבד של אנבידיה נוחת בישראל עם מפרט מטורף ומחיר תואם",
+   "url": "https://www.geektime.co.il/asus-proart-16-nvidia-rtx/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-16"
+  },
   {
    "id": "ba4e7337aba2",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Introducing SynthID Bio",
    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
    "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "581ab3112c30",
-   "type": "news",
-   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-   "title_orig": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-   "url": "https://huggingface.co/blog/open-tts-leaderboard",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-09-30"
   }
