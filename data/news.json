@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-16T01:11:47+00:00",
+ "updated": "2026-10-16T07:02:35+00:00",
  "items": [
+  {
+   "id": "ba4e7337aba2",
+   "type": "news",
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "title_orig": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "93c17b0f1846",
+   "type": "news",
+   "title": "\"מכוניות מעופפות זה דבר אמיתי\": טסלה חושפת את Tesla Roadster שיכולה לרחף באוויר ולנסוע הפוך",
+   "title_orig": "\"מכוניות מעופפות זה דבר אמיתי\": טסלה חושפת את Tesla Roadster שיכולה לרחף באוויר ולנסוע הפוך",
+   "url": "https://www.geektime.co.il/tesla-roadster-flying-reveal/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-16"
+  },
   {
    "id": "aae90d6b2dab",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
    "url": "https://huggingface.co/blog/open-tts-leaderboard",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "5c1f615d64d2",
-   "type": "news",
-   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-   "title_orig": "Google releases Gemini 4 Argon, called its most powerful model yet",
-   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "b4341699df22",
-   "type": "news",
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "title_orig": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-30"
   }
