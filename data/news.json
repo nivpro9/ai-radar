@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-16T12:17:06+00:00",
+ "updated": "2026-10-16T17:19:59+00:00",
  "items": [
+  {
+   "id": "1db14d807722",
+   "type": "news",
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "title_orig": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "84c2c565c396",
+   "type": "news",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "title_orig": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "1aa8b1ac1c09",
+   "type": "news",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "title_orig": "Elorian’s first AI model wants to reason with images, not just about them",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "351478776159",
+   "type": "news",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "title_orig": "Jev is Vercel’s fastest-adopted AI model ever",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "de3d82224bc1",
+   "type": "news",
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "title_orig": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "311fa86942b3",
+   "type": "news",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "title_orig": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "e6b0c9baa366",
+   "type": "news",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "title_orig": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "3d6f16cf09a8",
+   "type": "news",
+   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "title_orig": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "ad3a47861a30",
+   "type": "news",
+   "title": "Meta’s new terms may allow it to train AI on news sites for free",
+   "title_orig": "Meta’s new terms may allow it to train AI on news sites for free",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "3c203c9854b8",
+   "type": "news",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "title_orig": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "82d931a544c9",
+   "type": "news",
+   "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+   "title_orig": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+   "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "849b423196d1",
+   "type": "news",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "title_orig": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "e58a7932778f",
+   "type": "news",
+   "title": "הכלי הישראלי הזה יוודא שה-AI לא יתמלל אתכם בחשאי",
+   "title_orig": "הכלי הישראלי הזה יוודא שה-AI לא יתמלל אתכם בחשאי",
+   "url": "https://www.geektime.co.il/off-the-record-will-block-ai-from-transcribing-your-convos/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-16"
+  },
   {
    "id": "3a7c6df7b818",
    "type": "news",
@@ -3870,136 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
-  },
-  {
-   "id": "29fe7c1feed5",
-   "type": "news",
-   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-   "title_orig": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-   "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "9c6f1560c622",
-   "type": "news",
-   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-   "title_orig": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "adb45e048c1d",
-   "type": "news",
-   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "title_orig": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "0bf00b70dbd7",
-   "type": "news",
-   "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-   "title_orig": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-   "url": "https://huggingface.co/blog/allenai/olmocore3",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "b1eea1fa3a5d",
-   "type": "news",
-   "title": "סטארטאפ ישראלי כבש את דירוג ההאקרים, אבל ההישג חושף מגמה מדאיגה",
-   "title_orig": "סטארטאפ ישראלי כבש את דירוג ההאקרים, אבל ההישג חושף מגמה מדאיגה",
-   "url": "https://www.geektime.co.il/tenzai-hackerone-first-place-open-weight-ai/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "ce13e54f9a46",
-   "type": "news",
-   "title": "סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר",
-   "title_orig": "סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר",
-   "url": "https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "c79da3e225bc",
-   "type": "news",
-   "title": "גוגל חושפת את Gemini 4 Argon, אבל אם אתם לא עובדים ב-Wiz לא תוכלו להשתמש בו עדיין",
-   "title_orig": "גוגל חושפת את Gemini 4 Argon, אבל אם אתם לא עובדים ב-Wiz לא תוכלו להשתמש בו עדיין",
-   "url": "https://www.geektime.co.il/google-gemini-4-argon-launch/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "61d2c05f9ab7",
-   "type": "news",
-   "title": "האשמות בריגול, איומים ב\"נשק גרעיני\" וקרב בתוך קרן ההון: זה כנראה הקרב הכי מלוכלך עכשיו בעולם ה-AI",
-   "title_orig": "האשמות בריגול, איומים ב\"נשק גרעיני\" וקרב בתוך קרן ההון: זה כנראה הקרב הכי מלוכלך עכשיו בעולם ה-AI",
-   "url": "https://www.geektime.co.il/cognition-factory-ai-feud-khosla/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "5afad699a57c",
-   "type": "news",
-   "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-   "title_orig": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-   "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "6a91381a4292",
-   "type": "news",
-   "title": "Disrupting a coordinated model-distillation campaign",
-   "title_orig": "Disrupting a coordinated model-distillation campaign",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "311e095023e6",
-   "type": "news",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "title_orig": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "b5e5e43443d2",
-   "type": "news",
-   "title": "Helping small businesses put AI to work",
-   "title_orig": "Helping small businesses put AI to work",
-   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "396b95f3429c",
-   "type": "news",
-   "title": "Introducing SynthID Bio",
-   "title_orig": "Introducing SynthID Bio",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-09-30"
   }
  ]
 }
