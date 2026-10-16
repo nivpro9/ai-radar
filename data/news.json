@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-16T17:19:59+00:00",
+ "updated": "2026-10-16T20:56:55+00:00",
  "items": [
+  {
+   "id": "c74e5a79a0e1",
+   "type": "news",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "title_orig": "India becomes the latest country to report rogue AI agent activity",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "8069354151ed",
+   "type": "news",
+   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "title_orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "2727d1daacce",
+   "type": "news",
+   "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+   "title_orig": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+   "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "9db4940a53f8",
+   "type": "news",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "title_orig": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
   {
    "id": "1db14d807722",
    "type": "news",
@@ -3958,46 +3998,6 @@
    "title_orig": "The eternal complement",
    "url": "https://openai.com/index/the-eternal-complement",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "a80484c2d584",
-   "type": "news",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "title_orig": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "0d142c0352b5",
-   "type": "news",
-   "title": "Brian Chesky interview: AI agents need their own operating system",
-   "title_orig": "Brian Chesky interview: AI agents need their own operating system",
-   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "2781adb3b156",
-   "type": "news",
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "title_orig": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "8823ad0e46f1",
-   "type": "news",
-   "title": "Hearing tech startup Legato launches its AI hearing glasses",
-   "title_orig": "Hearing tech startup Legato launches its AI hearing glasses",
-   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
   }
