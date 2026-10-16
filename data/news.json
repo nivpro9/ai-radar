@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-15T22:08:44+00:00",
+ "updated": "2026-10-16T01:11:47+00:00",
  "items": [
+  {
+   "id": "aae90d6b2dab",
+   "type": "news",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "title_orig": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "924ca13842a3",
+   "type": "news",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "title_orig": "ChatGPT can peek at your Chrome tabs now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "b78fa0f3af3a",
+   "type": "news",
+   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+   "title_orig": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+   "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "dd00c04c9b95",
+   "type": "news",
+   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "title_orig": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "url": "https://openai.com/index/sullivan-cromwell",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
   {
    "id": "d5bac5a69bce",
    "type": "news",
@@ -3892,6 +3932,26 @@
    "date": "2026-10-01"
   },
   {
+   "id": "6a91381a4292",
+   "type": "news",
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "title_orig": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
+   "id": "311e095023e6",
+   "type": "news",
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "title_orig": "Gemini 4 Argon: our next era of frontier intelligence",
+   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-09-30"
+  },
+  {
    "id": "b5e5e43443d2",
    "type": "news",
    "title": "Helping small businesses put AI to work",
@@ -3937,66 +3997,6 @@
    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
    "title_orig": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "d4c4ffc0ae75",
-   "type": "news",
-   "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-   "title_orig": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "b93ab270a51b",
-   "type": "news",
-   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "title_orig": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "6860a783c564",
-   "type": "news",
-   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-   "title_orig": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "4c63e3899121",
-   "type": "news",
-   "title": "The ugly economics of consumer AI",
-   "title_orig": "The ugly economics of consumer AI",
-   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "81eaed43ffdd",
-   "type": "news",
-   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-   "title_orig": "Meta disputes claim that Muse read a user’s private messages without permission",
-   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-09-30"
-  },
-  {
-   "id": "a993d027af6a",
-   "type": "news",
-   "title": "DoorDash launches an AI agent you can text to order food",
-   "title_orig": "DoorDash launches an AI agent you can text to order food",
-   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-09-30"
