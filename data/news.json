@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-16T20:56:55+00:00",
+ "updated": "2026-10-16T23:28:06+00:00",
  "items": [
+  {
+   "id": "18f9fd010555",
+   "type": "news",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "title_orig": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "e86f92efb265",
+   "type": "news",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "title_orig": "OpenAI models hacked a crypto wallet and breached more websites",
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
+   "id": "65442e708214",
+   "type": "news",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "title_orig": "How Itaú is building generative AI for its entire customer base",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
   {
    "id": "c74e5a79a0e1",
    "type": "news",
@@ -3872,6 +3902,16 @@
    "date": "2026-10-02"
   },
   {
+   "id": "a80484c2d584",
+   "type": "news",
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "title_orig": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-01"
+  },
+  {
    "id": "578143be7e8f",
    "type": "news",
    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -3958,46 +3998,6 @@
    "title_orig": "Google’s new Guided Vision feature can help you read the fine print",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "e7f973146b85",
-   "type": "news",
-   "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-   "title_orig": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-   "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "de0a1dfa7625",
-   "type": "news",
-   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-   "title_orig": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-   "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "f52e74133e2d",
-   "type": "news",
-   "title": "With most information hidden, the game Stratego had stumped AI—until now",
-   "title_orig": "With most information hidden, the game Stratego had stumped AI—until now",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "7e67b43cf9d0",
-   "type": "news",
-   "title": "The eternal complement",
-   "title_orig": "The eternal complement",
-   "url": "https://openai.com/index/the-eternal-complement",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-01"
   }
