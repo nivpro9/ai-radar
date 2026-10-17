@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-17T19:14:14+00:00",
+ "updated": "2026-10-17T22:11:46+00:00",
  "items": [
+  {
+   "id": "d4d8a21bd997",
+   "type": "news",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "title_orig": "Meta removes language that raised scraping and AI training concerns",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-17"
+  },
+  {
+   "id": "0dabc6c10b97",
+   "type": "news",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "title_orig": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-17"
+  },
   {
    "id": "6435f671229b",
    "type": "news",
@@ -3977,26 +3997,6 @@
    "title": "How Albertsons Companies is reimagining retail from the inside out",
    "title_orig": "How Albertsons Companies is reimagining retail from the inside out",
    "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "578143be7e8f",
-   "type": "news",
-   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-   "title_orig": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "3bba52758573",
-   "type": "news",
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "title_orig": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "url": "https://openai.com/index/the-den-family-social",
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-01"
