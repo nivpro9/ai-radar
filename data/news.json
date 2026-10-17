@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-17T04:12:11+00:00",
+ "updated": "2026-10-17T09:11:45+00:00",
  "items": [
+  {
+   "id": "8f7bb065ac8b",
+   "type": "news",
+   "title": "פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר החוק?)",
+   "title_orig": "פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר החוק?)",
+   "url": "https://www.geektime.co.il/the-saaspocalypse-might-be-here/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-17"
+  },
+  {
+   "id": "4a2f3ca18eb9",
+   "type": "news",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "title_orig": "Benefit Street Partners answers questions faster with Codex",
+   "url": "https://openai.com/index/benefit-street-partners",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
   {
    "id": "18f9fd010555",
    "type": "news",
@@ -3977,26 +3997,6 @@
    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
    "title_orig": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "0fbb393ce28b",
-   "type": "news",
-   "title": "Amazon releases its own Jev clone as decision models flood the web",
-   "title_orig": "Amazon releases its own Jev clone as decision models flood the web",
-   "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "d94262263987",
-   "type": "news",
-   "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-   "title_orig": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-   "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
