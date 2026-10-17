@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-17T17:00:43+00:00",
+ "updated": "2026-10-17T19:14:14+00:00",
  "items": [
+  {
+   "id": "6435f671229b",
+   "type": "news",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "title_orig": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-17"
+  },
   {
    "id": "ac0eba5f3991",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
    "url": "https://openai.com/index/the-den-family-social",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "9b59a27765f5",
-   "type": "news",
-   "title": "ChatGPT can now virtually try on clothes for you",
-   "title_orig": "ChatGPT can now virtually try on clothes for you",
-   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
   }
