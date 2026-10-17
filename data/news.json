@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-17T09:11:45+00:00",
+ "updated": "2026-10-17T13:37:40+00:00",
  "items": [
+  {
+   "id": "79619743255e",
+   "type": "news",
+   "title": "Websites are closing their doors to AI agents",
+   "title_orig": "Websites are closing their doors to AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-17"
+  },
   {
    "id": "8f7bb065ac8b",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
    "title_orig": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "eddd6741471d",
-   "type": "news",
-   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "title_orig": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
