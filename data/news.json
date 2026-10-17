@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-17T13:37:40+00:00",
+ "updated": "2026-10-17T17:00:43+00:00",
  "items": [
+  {
+   "id": "ac0eba5f3991",
+   "type": "news",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "title_orig": "Meta removes language that may have allowed it to scrape news sites",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-17"
+  },
+  {
+   "id": "690671acd0c3",
+   "type": "news",
+   "title": "3 אירועי טכנולוגיה שיהפכו את סוכני ה-AI שלכם להרבה יותר חזקים",
+   "title_orig": "3 אירועי טכנולוגיה שיהפכו את סוכני ה-AI שלכם להרבה יותר חזקים",
+   "url": "https://www.geektime.co.il/geek-events-18102026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-17"
+  },
   {
    "id": "79619743255e",
    "type": "news",
@@ -3977,26 +3997,6 @@
    "title": "ChatGPT can now virtually try on clothes for you",
    "title_orig": "ChatGPT can now virtually try on clothes for you",
    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "a7b14ae6edab",
-   "type": "news",
-   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "title_orig": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "3f1d1537d7c4",
-   "type": "news",
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "title_orig": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-01"
