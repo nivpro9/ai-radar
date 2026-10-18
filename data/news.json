@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-18T18:00:12+00:00",
+ "updated": "2026-10-18T20:31:47+00:00",
  "items": [
+  {
+   "id": "de6b0c59a9e6",
+   "type": "news",
+   "title": "A woman was arrested in Philly for blocking a delivery robot",
+   "title_orig": "A woman was arrested in Philly for blocking a delivery robot",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-18"
+  },
   {
    "id": "218f77bb959f",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
    "title_orig": "If a data center is camouflaged in the woods, will anyone hate it?",
    "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "78ffcfd0a288",
-   "type": "news",
-   "title": "Amazon writes scary blog warning communities not to block data centers",
-   "title_orig": "Amazon writes scary blog warning communities not to block data centers",
-   "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-02"
