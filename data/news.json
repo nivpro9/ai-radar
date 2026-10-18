@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-18T20:31:47+00:00",
+ "updated": "2026-10-18T23:00:05+00:00",
  "items": [
+  {
+   "id": "efeb3746fdd3",
+   "type": "news",
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "title_orig": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-18"
+  },
   {
    "id": "de6b0c59a9e6",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "AI hallucinations are making entitled customers even worse",
    "title_orig": "AI hallucinations are making entitled customers even worse",
    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "f829ccaecea0",
-   "type": "news",
-   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-   "title_orig": "If a data center is camouflaged in the woods, will anyone hate it?",
-   "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-02"
