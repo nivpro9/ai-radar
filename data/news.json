@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-18T10:53:56+00:00",
+ "updated": "2026-10-18T14:29:36+00:00",
  "items": [
+  {
+   "id": "6f49d2930b06",
+   "type": "news",
+   "title": "לא עוד צ'אטבוט: כך הפכנו את Slack לחמ\"ל של תהליכי ה-GTM שלנו",
+   "title_orig": "לא עוד צ'אטבוט: כך הפכנו את Slack לחמ\"ל של תהליכי ה-GTM שלנו",
+   "url": "https://www.geektime.co.il/building-slack-gtm-ai-orchestrator/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-18"
+  },
   {
    "id": "12636de083da",
    "type": "news",
@@ -3989,16 +3999,6 @@
    "url": "https://www.geektime.co.il/enso-ai-agents-growth-hacking-funding/",
    "source": "Geektime",
    "lang": "he",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "a885ed61f54a",
-   "type": "news",
-   "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-   "title_orig": "AutoSynthData: Generating Training Data for Enterprise Agents",
-   "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-   "source": "Hugging Face",
-   "lang": "en",
    "date": "2026-10-02"
   }
  ]
