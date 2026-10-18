@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-18T05:44:40+00:00",
+ "updated": "2026-10-18T10:53:56+00:00",
  "items": [
+  {
+   "id": "12636de083da",
+   "type": "news",
+   "title": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
+   "title_orig": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
+   "url": "https://www.geektime.co.il/ventris-acquired-by-hex-rays-ai-cybersecurity/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "c02bc31e1b5f",
+   "type": "news",
+   "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
+   "title_orig": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
+   "url": "https://www.geektime.co.il/apple-meta-muse-spark-open-mac-collaboration/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-18"
+  },
   {
    "id": "d4d8a21bd997",
    "type": "news",
@@ -3980,26 +4000,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-10-02"
-  },
-  {
-   "id": "7e67b43cf9d0",
-   "type": "news",
-   "title": "The eternal complement",
-   "title_orig": "The eternal complement",
-   "url": "https://openai.com/index/the-eternal-complement",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
-  },
-  {
-   "id": "a80484c2d584",
-   "type": "news",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "title_orig": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-01"
   }
  ]
 }
