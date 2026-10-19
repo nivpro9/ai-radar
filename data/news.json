@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-19T06:05:08+00:00",
+ "updated": "2026-10-19T12:59:19+00:00",
  "items": [
+  {
+   "id": "9279cf6bb0c3",
+   "type": "news",
+   "title": "Democrats think cracking down on AI could give them an edge",
+   "title_orig": "Democrats think cracking down on AI could give them an edge",
+   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "dce24a8973ca",
+   "type": "news",
+   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "title_orig": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "887ea26336be",
+   "type": "news",
+   "title": "\"תוכנה שמשפרת את עצמה\": הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים",
+   "title_orig": "\"תוכנה שמשפרת את עצמה\": הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים",
+   "url": "https://www.geektime.co.il/doubleai-amnon-shashua-cem-formal-verification-funding/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "399464ec1d55",
+   "type": "news",
+   "title": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
+   "title_orig": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
+   "url": "https://www.geektime.co.il/cloud-ai-day-tel-aviv-2026-save-the-date/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "9e42594910c9",
+   "type": "news",
+   "title": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
+   "title_orig": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
+   "url": "https://www.geektime.co.il/israel-high-tech-ai-advantage/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "e433396c6f76",
+   "type": "news",
+   "title": "בוגרי Y Combinator הישראלים מוכרים את הסטארטאפ ביותר מ-40 מיליון דולר",
+   "title_orig": "בוגרי Y Combinator הישראלים מוכרים את הסטארטאפ ביותר מ-40 מיליון דולר",
+   "url": "https://www.geektime.co.il/y-combinator-alumni-elementry-data-acquired/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "d247a188bb4c",
+   "type": "news",
+   "title": "אנת'רופיק מודה: לא ממש מגייסים ג'וניורים",
+   "title_orig": "אנת'רופיק מודה: לא ממש מגייסים ג'וניורים",
+   "url": "https://www.geektime.co.il/anthropic-junior-hiring-ai-agents/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-19"
+  },
   {
    "id": "efeb3746fdd3",
    "type": "news",
@@ -3928,76 +3998,6 @@
    "title_orig": "Redefining enterprise intelligence with autonomous AI",
    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
    "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "575ad95effd7",
-   "type": "news",
-   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-   "title_orig": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-   "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "fc1c6e27930e",
-   "type": "news",
-   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-   "title_orig": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-   "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "8e206c4d9ed6",
-   "type": "news",
-   "title": "A model guide for the GPT-6 family",
-   "title_orig": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "a97398f76ee5",
-   "type": "news",
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "title_orig": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "d26cbd179582",
-   "type": "news",
-   "title": "The latest AI news we announced in September 2026",
-   "title_orig": "The latest AI news we announced in September 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "d599f0a282be",
-   "type": "news",
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "title_orig": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "url": "https://huggingface.co/blog/allenai/astabrief",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-02"
-  },
-  {
-   "id": "b3a9a516e91b",
-   "type": "news",
-   "title": "AI hallucinations are making entitled customers even worse",
-   "title_orig": "AI hallucinations are making entitled customers even worse",
-   "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-02"
   }
