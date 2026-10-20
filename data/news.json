@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-20T14:57:06+00:00",
+ "updated": "2026-10-20T19:09:27+00:00",
  "items": [
+  {
+   "id": "2e553dc45565",
+   "type": "news",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "b799bf523cce",
+   "type": "news",
+   "title": "ChatGPT now lets you lock your chats",
+   "title_orig": "ChatGPT now lets you lock your chats",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "7fe075e5e5f0",
+   "type": "news",
+   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "title_orig": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "319f79c551ee",
+   "type": "news",
+   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "title_orig": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "87c5cb39af2e",
+   "type": "news",
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "title_orig": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "f52190a49967",
+   "type": "news",
+   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "title_orig": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "ebc7ad18c4ce",
+   "type": "news",
+   "title": "The new economics of enterprise AI",
+   "title_orig": "The new economics of enterprise AI",
+   "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "ecaaea07b740",
+   "type": "news",
+   "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+   "title_orig": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "90e877c10910",
+   "type": "news",
+   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "title_orig": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "b3fcb2e42d32",
+   "type": "news",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "title_orig": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "dbaa90254253",
+   "type": "news",
+   "title": "OpenAI acquires Orchestra Bio",
+   "title_orig": "OpenAI acquires Orchestra Bio",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "4eb9f7080b11",
+   "type": "news",
+   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "title_orig": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "ca293d8533a3",
+   "type": "news",
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "title_orig": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+   "url": "https://huggingface.co/blog/allenai/fairstress",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "94e7f4f5c0e5",
+   "type": "news",
+   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "title_orig": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "84cd8d44e982",
+   "type": "news",
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "title_orig": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "a8f19e12b127",
+   "type": "news",
+   "title": "כנס הפיתוח וה-AI של גיקטיים מציע פתרון אמיתי לבעיית הסוכן הכפול",
+   "title_orig": "כנס הפיתוח וה-AI של גיקטיים מציע פתרון אמיתי לבעיית הסוכן הכפול",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-double-agent/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "aeac09f5d4b4",
+   "type": "news",
+   "title": "החל מהיום: משקפי ה-AI של מטא זמינים רשמית לרכישה בישראל",
+   "title_orig": "החל מהיום: משקפי ה-AI של מטא זמינים רשמית לרכישה בישראל",
+   "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-now-in-israel/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-20"
+  },
   {
    "id": "b3c5441d5c67",
    "type": "news",
@@ -3830,176 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-05"
-  },
-  {
-   "id": "4d92ee383d00",
-   "type": "news",
-   "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
-   "title_orig": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "b48158e5ab87",
-   "type": "news",
-   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-   "title_orig": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "0d7653e5ccb1",
-   "type": "news",
-   "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-   "title_orig": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "ec6a33d8c160",
-   "type": "news",
-   "title": "OpenAI is sticking more ads in ChatGPT",
-   "title_orig": "OpenAI is sticking more ads in ChatGPT",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "a5a880c6829c",
-   "type": "news",
-   "title": "Our minds aren’t equipped to handle AI",
-   "title_orig": "Our minds aren’t equipped to handle AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "6f5e3ca45457",
-   "type": "news",
-   "title": "Connecting AI agents to enterprise knowledge",
-   "title_orig": "Connecting AI agents to enterprise knowledge",
-   "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "4352d77744ab",
-   "type": "news",
-   "title": "Bringing predictive analytics to the agentic AI era",
-   "title_orig": "Bringing predictive analytics to the agentic AI era",
-   "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "49ec317b8404",
-   "type": "news",
-   "title": "EmTech Future 2026: When AI Meets Everything",
-   "title_orig": "EmTech Future 2026: When AI Meets Everything",
-   "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "252dbc47848d",
-   "type": "news",
-   "title": "AI glasses face their first major government crackdown",
-   "title_orig": "AI glasses face their first major government crackdown",
-   "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "78ad53815846",
-   "type": "news",
-   "title": "Our approach to EU text provenance rules",
-   "title_orig": "Our approach to EU text provenance rules",
-   "url": "https://openai.com/index/eu-text-provenance",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "3cbec84de8bf",
-   "type": "news",
-   "title": "Building advertising for the way people use AI",
-   "title_orig": "Building advertising for the way people use AI",
-   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "b79fcf5bea2f",
-   "type": "news",
-   "title": "ביום חמישי הקרוב: בואו לראות מה קורה כשה-AI פוגש את העולם הפיזי",
-   "title_orig": "ביום חמישי הקרוב: בואו לראות מה קורה כשה-AI פוגש את העולם הפיזי",
-   "url": "https://www.geektime.co.il/systematics-next-2026-save-the-date/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "18a9d02de7c9",
-   "type": "news",
-   "title": "People really hate AI, so why can’t they get enough?",
-   "title_orig": "People really hate AI, so why can’t they get enough?",
-   "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "fcff08776c3c",
-   "type": "news",
-   "title": "טראמפ נתן ל-AI שם חדש, וגרם להתנפלות על דומיינים סלובניים",
-   "title_orig": "טראמפ נתן ל-AI שם חדש, וגרם להתנפלות על דומיינים סלובניים",
-   "url": "https://www.geektime.co.il/trumps-ai-rebrand-leads-to-domain-buying-frenzy/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "71b92d7d1248",
-   "type": "news",
-   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "title_orig": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "8a9c48729bde",
-   "type": "news",
-   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "title_orig": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "cb4cee0e9eb9",
-   "type": "news",
-   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-   "title_orig": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-04"
   }
  ]
 }
