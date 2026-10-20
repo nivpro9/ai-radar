@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-20T09:58:47+00:00",
+ "updated": "2026-10-20T14:57:06+00:00",
  "items": [
+  {
+   "id": "b3c5441d5c67",
+   "type": "news",
+   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+   "title_orig": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+   "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "3309b6ce15f4",
+   "type": "news",
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "title_orig": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "15705003f60b",
+   "type": "news",
+   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "title_orig": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "82497db5b87a",
+   "type": "news",
+   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "title_orig": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "b0930e389e92",
+   "type": "news",
+   "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+   "title_orig": "Yelp can now call on your behalf to check wait times at a restaurant",
+   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "e85a4c5da2af",
+   "type": "news",
+   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "title_orig": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "af3e08fe45e1",
+   "type": "news",
+   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "title_orig": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "0a18db4caf21",
+   "type": "news",
+   "title": "AI adoption by industry shows what other sectors can learn",
+   "title_orig": "AI adoption by industry shows what other sectors can learn",
+   "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "add383da2fc0",
+   "type": "news",
+   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+   "title_orig": "Meta Muse exposes users' personal and business secrets when they share conversations",
+   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "2596ff929aee",
+   "type": "news",
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "title_orig": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "3eb18e5ff7f2",
+   "type": "news",
+   "title": "MPS in PyTorch 2.15",
+   "title_orig": "MPS in PyTorch 2.15",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
   {
    "id": "56702cb0c64f",
    "type": "news",
@@ -3890,116 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-04"
-  },
-  {
-   "id": "d5a8ffd2dd50",
-   "type": "news",
-   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "title_orig": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "a06b6a94fdbc",
-   "type": "news",
-   "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
-   "title_orig": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
-   "url": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "062c049b478a",
-   "type": "news",
-   "title": "Trump unveils his new Super Intelligence Force",
-   "title_orig": "Trump unveils his new Super Intelligence Force",
-   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "d91599b48440",
-   "type": "news",
-   "title": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
-   "title_orig": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
-   "url": "https://www.geektime.co.il/former-openai-researcher-says-company-culture-is-broken/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "2137b1aae351",
-   "type": "news",
-   "title": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
-   "title_orig": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
-   "url": "https://www.geektime.co.il/google-will-charge-you-more-for-gemini-pro-models/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-04"
-  },
-  {
-   "id": "89764eae0099",
-   "type": "news",
-   "title": "The Agent Said It Was Done. The Database Disagreed.",
-   "title_orig": "The Agent Said It Was Done. The Database Disagreed.",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-03"
-  },
-  {
-   "id": "d442265d4558",
-   "type": "news",
-   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "title_orig": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-03"
-  },
-  {
-   "id": "f143fce070e1",
-   "type": "news",
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "title_orig": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-03"
-  },
-  {
-   "id": "f1c80105d2f2",
-   "type": "news",
-   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-   "title_orig": "Capcom is preparing for a ‘future where we create games together with AI’",
-   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-03"
-  },
-  {
-   "id": "2b2053e0bc6b",
-   "type": "news",
-   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-   "title_orig": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-03"
-  },
-  {
-   "id": "750016d3234f",
-   "type": "news",
-   "title": "רובוטים וסוכן מתנה: 3 אירועי טכנולוגיה חינמיים שלוקחים AI לשלב הבא",
-   "title_orig": "רובוטים וסוכן מתנה: 3 אירועי טכנולוגיה חינמיים שלוקחים AI לשלב הבא",
-   "url": "https://www.geektime.co.il/geek-events-4102026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-03"
   }
  ]
 }
