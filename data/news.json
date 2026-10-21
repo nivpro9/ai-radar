@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-20T23:07:30+00:00",
+ "updated": "2026-10-21T04:31:13+00:00",
  "items": [
+  {
+   "id": "6bc0a4e087e6",
+   "type": "news",
+   "title": "Southeast Asia’s digital economy to hit $368 billion",
+   "title_orig": "Southeast Asia’s digital economy to hit $368 billion",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "2d379e8ffc91",
+   "type": "news",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "title_orig": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "a84b6a7bee5c",
+   "type": "news",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "title_orig": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
   {
    "id": "b6629abae55b",
    "type": "news",
@@ -3967,36 +3997,6 @@
    "title": "This startup is issuing AI-generated acne prescriptions",
    "title_orig": "This startup is issuing AI-generated acne prescriptions",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "ba6c5da9a880",
-   "type": "news",
-   "title": "All the drama around AI’s takeover of mathematics",
-   "title_orig": "All the drama around AI’s takeover of mathematics",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "e3d6a6e5d9a3",
-   "type": "news",
-   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "title_orig": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "773083672101",
-   "type": "news",
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "title_orig": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-05"
