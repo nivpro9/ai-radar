@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-21T04:31:13+00:00",
+ "updated": "2026-10-21T10:01:15+00:00",
  "items": [
+  {
+   "id": "c4cfa055a1a6",
+   "type": "news",
+   "title": "גוגל משדרגת את ג'מיני AI באנדרואיד אוטו עם יכולות חדשות",
+   "title_orig": "גוגל משדרגת את ג'מיני AI באנדרואיד אוטו עם יכולות חדשות",
+   "url": "https://www.geektime.co.il/google-upgrades-gemini-with-personal-intelligence-on-android-auto/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-21"
+  },
   {
    "id": "6bc0a4e087e6",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "Gemini Call for Me might tell your mom you’re running late",
    "title_orig": "Gemini Call for Me might tell your mom you’re running late",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "5bc9d1f47350",
-   "type": "news",
-   "title": "This startup is issuing AI-generated acne prescriptions",
-   "title_orig": "This startup is issuing AI-generated acne prescriptions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-05"
