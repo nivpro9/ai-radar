@@ -1,6 +1,106 @@
 {
- "updated": "2026-10-21T10:01:15+00:00",
+ "updated": "2026-10-21T15:04:40+00:00",
  "items": [
+  {
+   "id": "6c14b19c5f4c",
+   "type": "news",
+   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+   "title_orig": "AI promises productivity, but for managers, it’s mostly a headache for now",
+   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "1bbb4f6fc3d1",
+   "type": "news",
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "title_orig": "Conversational Gemini navigation comes to Apple CarPlay",
+   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "c55b4c3c8ca2",
+   "type": "news",
+   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+   "title_orig": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "61f4d0141ff3",
+   "type": "news",
+   "title": "OpenAI models are coming to Google Cloud",
+   "title_orig": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "74fcf21eca7a",
+   "type": "news",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "title_orig": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "1de8e62ff715",
+   "type": "news",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "title_orig": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "edef63b51aed",
+   "type": "news",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "title_orig": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "9b35c0bfb2f0",
+   "type": "news",
+   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+   "title_orig": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "38715d90bd30",
+   "type": "news",
+   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "title_orig": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "a5d5ea43e0be",
+   "type": "news",
+   "title": "תסמונת הסטארטרק ו-2 המלכודות של ארגונים בהטמעת סוכני AI",
+   "title_orig": "תסמונת הסטארטרק ו-2 המלכודות של ארגונים בהטמעת סוכני AI",
+   "url": "https://www.geektime.co.il/multi-agent-vs-single-agent-fintech-compliance/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-21"
+  },
   {
    "id": "c4cfa055a1a6",
    "type": "news",
@@ -3900,106 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-06"
-  },
-  {
-   "id": "cca5b9f002b0",
-   "type": "news",
-   "title": "תשובה למודלים הסיניים הפתוחים? נחשף מודל ה-AI החדש Beam",
-   "title_orig": "תשובה למודלים הסיניים הפתוחים? נחשף מודל ה-AI החדש Beam",
-   "url": "https://www.geektime.co.il/reflection-seeks-to-be-american-deepseek-and-launches-beam-model/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-06"
-  },
-  {
-   "id": "085f7195b66f",
-   "type": "news",
-   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-   "title_orig": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-06"
-  },
-  {
-   "id": "e3b420eb4e57",
-   "type": "news",
-   "title": "גם OpenAI תלשין שכתבתם את הטקסט עם AI והיא מסבירה איך",
-   "title_orig": "גם OpenAI תלשין שכתבתם את הטקסט עם AI והיא מסבירה איך",
-   "url": "https://www.geektime.co.il/openai-explains-ai-text-watermark/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-06"
-  },
-  {
-   "id": "78ad53815846",
-   "type": "news",
-   "title": "Our approach to EU text provenance rules",
-   "title_orig": "Our approach to EU text provenance rules",
-   "url": "https://openai.com/index/eu-text-provenance",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "3cbec84de8bf",
-   "type": "news",
-   "title": "Building advertising for the way people use AI",
-   "title_orig": "Building advertising for the way people use AI",
-   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "8dc6e37ab123",
-   "type": "news",
-   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-   "title_orig": "OpenAI will start watermarking ChatGPT’s text in the EU",
-   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "668fcb607712",
-   "type": "news",
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "title_orig": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "68c547b79ee7",
-   "type": "news",
-   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "title_orig": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "db3e6ebef5bb",
-   "type": "news",
-   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "title_orig": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-05"
-  },
-  {
-   "id": "fb1f3dca95af",
-   "type": "news",
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "title_orig": "Gemini Call for Me might tell your mom you’re running late",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-05"
   }
  ]
 }
