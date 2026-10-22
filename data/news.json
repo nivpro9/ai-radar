@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-22T10:01:48+00:00",
+ "updated": "2026-10-22T15:05:07+00:00",
  "items": [
+  {
+   "id": "12d0b1a86546",
+   "type": "news",
+   "title": "Spotify’s current AI bet is about being the music service that agents choose",
+   "title_orig": "Spotify’s current AI bet is about being the music service that agents choose",
+   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "8e16d6a95427",
+   "type": "news",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "title_orig": "Claude Duet app is Anthropic’s bet on agents",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "d2c9aa9349dc",
+   "type": "news",
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "title_orig": "Nirva raises $33M for a pendant that only listens to you",
+   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "2bef5e155399",
+   "type": "news",
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "title_orig": "DeepSeek reportedly raises $15B days after US restrictions",
+   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "12686626013b",
+   "type": "news",
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "title_orig": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "633b64365941",
+   "type": "news",
+   "title": "1Password lets AI agents use your passwords without seeing them",
+   "title_orig": "1Password lets AI agents use your passwords without seeing them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "c24876b37e46",
+   "type": "news",
+   "title": "AI agents are ready to shop. Some retailers are wary.",
+   "title_orig": "AI agents are ready to shop. Some retailers are wary.",
+   "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "ff67e4725a21",
+   "type": "news",
+   "title": "Claude did not invent scorpion antivenom",
+   "title_orig": "Claude did not invent scorpion antivenom",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "e106504eaece",
+   "type": "news",
+   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "title_orig": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "58fe41da7be4",
+   "type": "news",
+   "title": "Making the case for context-aware AI",
+   "title_orig": "Making the case for context-aware AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "63c31ca523f9",
+   "type": "news",
+   "title": "What FDE means at OpenAI",
+   "title_orig": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "655df0fb22ac",
+   "type": "news",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "title_orig": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "ceaa61c362ad",
+   "type": "news",
+   "title": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
+   "title_orig": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
+   "url": "https://www.geektime.co.il/gemini-agent-cxo-breakfast-roundtable-101126/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-22"
+  },
   {
    "id": "1ab6b1fbef69",
    "type": "news",
@@ -3682,6 +3812,16 @@
    "date": "2026-10-08"
   },
   {
+   "id": "ea4f899dc8df",
+   "type": "news",
+   "title": "Introducing Playground: Create and play custom games",
+   "title_orig": "Introducing Playground: Create and play custom games",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-07"
+  },
+  {
    "id": "4b28fadcbc65",
    "type": "news",
    "title": "It appears .agent and .agi are about to be the hot new domains",
@@ -3858,146 +3998,6 @@
    "title_orig": "Radisson Hotel Group brings hotel discovery into ChatGPT",
    "url": "https://openai.com/index/radisson",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "0ca1450969b5",
-   "type": "news",
-   "title": "GPT-6 and Intelligent UI for everyone",
-   "title_orig": "GPT-6 and Intelligent UI for everyone",
-   "url": "https://openai.com/index/gpt-6-for-everyone",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "0825a4897dea",
-   "type": "news",
-   "title": "Multimodal open d1 decision models for the edge",
-   "title_orig": "Multimodal open d1 decision models for the edge",
-   "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "e8947d3adf72",
-   "type": "news",
-   "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-   "title_orig": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "7e2cb564d4a4",
-   "type": "news",
-   "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-   "title_orig": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-   "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "a7cd3ac1dead",
-   "type": "news",
-   "title": "Google experiments with an AI-powered gaming platform",
-   "title_orig": "Google experiments with an AI-powered gaming platform",
-   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "72452dba288e",
-   "type": "news",
-   "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-   "title_orig": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "31faaa09aae5",
-   "type": "news",
-   "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-   "title_orig": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "952e69e18b6d",
-   "type": "news",
-   "title": "Google’s new SynthID website can identify AI-generated media",
-   "title_orig": "Google’s new SynthID website can identify AI-generated media",
-   "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "d78e8cbe49a0",
-   "type": "news",
-   "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-   "title_orig": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-   "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "4c9b009d21f8",
-   "type": "news",
-   "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-   "title_orig": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-   "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "8b63f191edc0",
-   "type": "news",
-   "title": "AI could upend food delivery",
-   "title_orig": "AI could upend food delivery",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "f81ac359aaf4",
-   "type": "news",
-   "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-   "title_orig": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "083b4a0cd473",
-   "type": "news",
-   "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-   "title_orig": "Mistral says \"Le Chonk\" can challenge the best AI models",
-   "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "1c9558d38162",
-   "type": "news",
-   "title": "Google rolls out improved SynthID AI content detector, now available globally",
-   "title_orig": "Google rolls out improved SynthID AI content detector, now available globally",
-   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-   "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-07"
   }
