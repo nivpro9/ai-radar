@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-21T23:11:24+00:00",
+ "updated": "2026-10-22T04:29:24+00:00",
  "items": [
+  {
+   "id": "9201054eeb4c",
+   "type": "news",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "title_orig": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
   {
    "id": "3acc865d1f4f",
    "type": "news",
@@ -3982,22 +3992,12 @@
    "date": "2026-10-07"
   },
   {
-   "id": "adc1cdfb4828",
+   "id": "2435ebd74585",
    "type": "news",
-   "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-   "title_orig": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-   "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-06"
-  },
-  {
-   "id": "2196494782f8",
-   "type": "news",
-   "title": "How AI decision models could change content moderation",
-   "title_orig": "How AI decision models could change content moderation",
-   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-   "source": "TechCrunch",
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "title_orig": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
    "lang": "en",
    "date": "2026-10-06"
   }
