@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-22T19:11:00+00:00",
+ "updated": "2026-10-22T23:14:29+00:00",
  "items": [
+  {
+   "id": "6372ebaa66c8",
+   "type": "news",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "title_orig": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "5d204276414b",
+   "type": "news",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "title_orig": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "1437b0ebe886",
+   "type": "news",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "title_orig": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "29a87826b845",
+   "type": "news",
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "title_orig": "Meta’s AI could still scrape news sites, legal experts say",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "afeec198fbf5",
+   "type": "news",
+   "title": "Meta turns Muse sharing back on",
+   "title_orig": "Meta turns Muse sharing back on",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "3992fc4ed3eb",
+   "type": "news",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "title_orig": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "6dc97b2e6ae2",
+   "type": "news",
+   "title": "Discord now formats Markdown previews right",
+   "title_orig": "Discord now formats Markdown previews right",
+   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "2c1b17b37189",
+   "type": "news",
+   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "title_orig": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "98a7f3683d8f",
+   "type": "news",
+   "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "title_orig": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "6401c720abcc",
+   "type": "news",
+   "title": "Designing an AI serving harness built to last",
+   "title_orig": "Designing an AI serving harness built to last",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "de6d0ccac2bc",
+   "type": "news",
+   "title": "The Foundations of Scalable AI",
+   "title_orig": "The Foundations of Scalable AI",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "27825e300358",
+   "type": "news",
+   "title": "Build more responsive apps with the Decisions API",
+   "title_orig": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "95eb6975ad24",
+   "type": "news",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "title_orig": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
   {
    "id": "fe52d49759b6",
    "type": "news",
@@ -3870,136 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-08"
-  },
-  {
-   "id": "dcd9f5d91c11",
-   "type": "news",
-   "title": "AI breakthroughs in robotics won’t change your life any time soon",
-   "title_orig": "AI breakthroughs in robotics won’t change your life any time soon",
-   "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "95abd2184698",
-   "type": "news",
-   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "title_orig": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "077dea1e8a7a",
-   "type": "news",
-   "title": "Disrupting AI-enabled “false front” operations",
-   "title_orig": "Disrupting AI-enabled “false front” operations",
-   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "8a6d8ab89e40",
-   "type": "news",
-   "title": "Building a safer path to autonomous industrial AI",
-   "title_orig": "Building a safer path to autonomous industrial AI",
-   "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "87bad9b17b48",
-   "type": "news",
-   "title": "נתנו ל-AI משימה שבני אדם לא מסוגלים לבצע, ואז זה נהיה מעניין באמת",
-   "title_orig": "נתנו ל-AI משימה שבני אדם לא מסוגלים לבצע, ואז זה נהיה מעניין באמת",
-   "url": "https://www.geektime.co.il/how-we-built-ai-pension-analysis/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "e062c9c6af03",
-   "type": "news",
-   "title": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
-   "title_orig": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
-   "url": "https://www.geektime.co.il/microsoft-surface-laptop-ultra-rtx-spark/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "b7d1e3ccac45",
-   "type": "news",
-   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-   "title_orig": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "ea4f899dc8df",
-   "type": "news",
-   "title": "Introducing Playground: Create and play custom games",
-   "title_orig": "Introducing Playground: Create and play custom games",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "4b28fadcbc65",
-   "type": "news",
-   "title": "It appears .agent and .agi are about to be the hot new domains",
-   "title_orig": "It appears .agent and .agi are about to be the hot new domains",
-   "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "91ed3eb235f3",
-   "type": "news",
-   "title": "Introducing Falcon ASR",
-   "title_orig": "Introducing Falcon ASR",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "a843173a5365",
-   "type": "news",
-   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-   "title_orig": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-   "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "92be971aec51",
-   "type": "news",
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "title_orig": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "54da693e6cb2",
-   "type": "news",
-   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "title_orig": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
   }
  ]
 }
