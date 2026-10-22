@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-22T15:05:07+00:00",
+ "updated": "2026-10-22T19:11:00+00:00",
  "items": [
+  {
+   "id": "fe52d49759b6",
+   "type": "news",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "title_orig": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "865ffb65f1d5",
+   "type": "news",
+   "title": "Canva releases its first image generation model",
+   "title_orig": "Canva releases its first image generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "d26ae9b2d9ce",
+   "type": "news",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "title_orig": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "d1b19037538a",
+   "type": "news",
+   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "title_orig": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "2e9a4426b964",
+   "type": "news",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "title_orig": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "7b213ad205a3",
+   "type": "news",
+   "title": "Someone hacked the Switch 2 by using an old game and AI",
+   "title_orig": "Someone hacked the Switch 2 by using an old game and AI",
+   "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "2a8e11324f4e",
+   "type": "news",
+   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "title_orig": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+   "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "540e896edf86",
+   "type": "news",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "title_orig": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "7faddebfff09",
+   "type": "news",
+   "title": "PHP: The three little letters wreaking havoc across the web",
+   "title_orig": "PHP: The three little letters wreaking havoc across the web",
+   "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "01440c581752",
+   "type": "news",
+   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "title_orig": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "ba6fa07d677a",
+   "type": "news",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "title_orig": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "eaa0ebff7daf",
+   "type": "news",
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "title_orig": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
   {
    "id": "12d0b1a86546",
    "type": "news",
@@ -180,6 +300,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-22"
+  },
+  {
+   "id": "f7403dc55170",
+   "type": "news",
+   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "title_orig": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-21"
   },
   {
    "id": "9201054eeb4c",
@@ -3868,136 +3998,6 @@
    "title_orig": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "36bf85cb5432",
-   "type": "news",
-   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-   "title_orig": "Meta’s Muse launches on iPad just a month after its mobile debut",
-   "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "610b12eb5069",
-   "type": "news",
-   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-   "title_orig": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "4a32ff51ed08",
-   "type": "news",
-   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-   "title_orig": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "b68f72604da4",
-   "type": "news",
-   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-   "title_orig": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "876648c3358f",
-   "type": "news",
-   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "title_orig": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "a5b44d5e4c84",
-   "type": "news",
-   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-   "title_orig": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-   "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "9c7dd462aa5a",
-   "type": "news",
-   "title": "Microsoft is giving Copilot more control over Windows and your files",
-   "title_orig": "Microsoft is giving Copilot more control over Windows and your files",
-   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "2c81a4fbc76b",
-   "type": "news",
-   "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-   "title_orig": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-   "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "ee6859a51c49",
-   "type": "news",
-   "title": "ChatGPT is getting college planning tools",
-   "title_orig": "ChatGPT is getting college planning tools",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "b8b3b1c51400",
-   "type": "news",
-   "title": "Muse launches on the iPad",
-   "title_orig": "Muse launches on the iPad",
-   "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "d8f516d6f374",
-   "type": "news",
-   "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-   "title_orig": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-   "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "ad4e14640e35",
-   "type": "news",
-   "title": "Helping teens learn, plan, and shape the future of AI",
-   "title_orig": "Helping teens learn, plan, and shape the future of AI",
-   "url": "https://openai.com/index/teens-learn-and-plan",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "04e9dc3828b5",
-   "type": "news",
-   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "title_orig": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "url": "https://openai.com/index/radisson",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-07"
   }
