@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-22T04:29:24+00:00",
+ "updated": "2026-10-22T10:01:48+00:00",
  "items": [
+  {
+   "id": "1ab6b1fbef69",
+   "type": "news",
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "title_orig": "AI’s hidden storage bill: What inference leaves behind",
+   "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "5d118fadbe79",
+   "type": "news",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "title_orig": "Ensemble forecasting with IBM Granite time-series models",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "73903ad2f7f6",
+   "type": "news",
+   "title": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
+   "title_orig": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
+   "url": "https://www.geektime.co.il/gm-ai-autonomous-israel/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "45c7c2bf5f27",
+   "type": "news",
+   "title": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
+   "title_orig": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
+   "url": "https://www.geektime.co.il/mongodb-local-tel-aviv-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "493b726e2bac",
+   "type": "news",
+   "title": "אנת'רופיק חושפת עוזר AI חדש, Claude Duet, שיעבוד במקומכם",
+   "title_orig": "אנת'רופיק חושפת עוזר AI חדש, Claude Duet, שיעבוד במקומכם",
+   "url": "https://www.geektime.co.il/anthropic-launches-claude-duet-ai-agent/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-22"
+  },
   {
    "id": "9201054eeb4c",
    "type": "news",
@@ -3950,56 +4000,6 @@
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-07"
-  },
-  {
-   "id": "ea4f899dc8df",
-   "type": "news",
-   "title": "Introducing Playground: Create and play custom games",
-   "title_orig": "Introducing Playground: Create and play custom games",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "5bdd694c6290",
-   "type": "news",
-   "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-   "title_orig": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "e14dc0416368",
-   "type": "news",
-   "title": "מיזם \"Next October\" מסייע לסטארטאפים לצמוח ולהנציח את קורבנות 7 באוקטובר",
-   "title_orig": "מיזם \"Next October\" מסייע לסטארטאפים לצמוח ולהנציח את קורבנות 7 באוקטובר",
-   "url": "https://www.geektime.co.il/how-to-join-next-october/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "0ff68e5bf2bc",
-   "type": "news",
-   "title": "קרדיטים, ייעוץ וקצת חינמיים: אנת'רופיק משדרגת את תוכנית הסטארטאפים שלה",
-   "title_orig": "קרדיטים, ייעוץ וקצת חינמיים: אנת'רופיק משדרגת את תוכנית הסטארטאפים שלה",
-   "url": "https://www.geektime.co.il/anthropic-claude-startups-api-credits-program/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-07"
-  },
-  {
-   "id": "2435ebd74585",
-   "type": "news",
-   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "title_orig": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-06"
   }
  ]
 }
