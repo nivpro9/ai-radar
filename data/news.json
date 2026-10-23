@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-23T14:55:41+00:00",
+ "updated": "2026-10-23T19:05:02+00:00",
  "items": [
+  {
+   "id": "9ecaeb5e8630",
+   "type": "news",
+   "title": "The iPhone Duo should have been an iPad",
+   "title_orig": "The iPhone Duo should have been an iPad",
+   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "55f38e2b0de9",
+   "type": "news",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "title_orig": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "b2b7ebe6730f",
+   "type": "news",
+   "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+   "title_orig": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+   "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "298c8de07d18",
+   "type": "news",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "d5dfb55b0129",
+   "type": "news",
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "title_orig": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+   "url": "https://huggingface.co/blog/allenai/litpivot",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
   {
    "id": "d34a3f37bdd3",
    "type": "news",
@@ -3948,56 +3998,6 @@
    "title_orig": "Pollo AI turns creative ideas into campaigns with OpenAI",
    "url": "https://openai.com/index/pollo-ai",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "116eab1f8aad",
-   "type": "news",
-   "title": "\"כולם הסתכלו על קלוד קוד ו-Cursor, ופתאום צץ תחום חדש\": הסטארטאפ שמגייס שוב תוך פחות משנה",
-   "title_orig": "\"כולם הסתכלו על קלוד קוד ו-Cursor, ופתאום צץ תחום חדש\": הסטארטאפ שמגייס שוב תוך פחות משנה",
-   "url": "https://www.geektime.co.il/rein-security-nabs-series-a/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "d12d77aa7dd5",
-   "type": "news",
-   "title": "Natura’s $99 smart ring puts AI agents on your finger",
-   "title_orig": "Natura’s $99 smart ring puts AI agents on your finger",
-   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "8f83cc80b2fd",
-   "type": "news",
-   "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-   "title_orig": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "86cf93ed4e70",
-   "type": "news",
-   "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-   "title_orig": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "b5df5b287127",
-   "type": "news",
-   "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-   "title_orig": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-   "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-08"
   }
