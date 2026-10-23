@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-23T19:05:02+00:00",
+ "updated": "2026-10-23T22:02:56+00:00",
  "items": [
+  {
+   "id": "67ab64203109",
+   "type": "news",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "title_orig": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "4f8bba4990b7",
+   "type": "news",
+   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "title_orig": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+   "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "f9113fa394af",
+   "type": "news",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "title_orig": "OpenAI now trains its frontier AI models with no internet access",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "f490e9c8ed30",
+   "type": "news",
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "title_orig": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "6643f32ed82d",
+   "type": "news",
+   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "title_orig": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "48e2274fdf2b",
+   "type": "news",
+   "title": "Securing our frontier model training environment",
+   "title_orig": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
   {
    "id": "9ecaeb5e8630",
    "type": "news",
@@ -3938,66 +3998,6 @@
    "title_orig": "Anthropic launches free AI security scans for open-source projects",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "4079389ad67f",
-   "type": "news",
-   "title": "California is trying to shut down robot vs. human cage matches",
-   "title_orig": "California is trying to shut down robot vs. human cage matches",
-   "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "a08ca06c8554",
-   "type": "news",
-   "title": "USA Today becomes the latest publisher to sue OpenAI",
-   "title_orig": "USA Today becomes the latest publisher to sue OpenAI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "0de6ad968814",
-   "type": "news",
-   "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-   "title_orig": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-   "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "ba390530e9c6",
-   "type": "news",
-   "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-   "title_orig": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "112b5f00879d",
-   "type": "news",
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "title_orig": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "url": "https://openai.com/index/oracle",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "ca1ec6c6a1a1",
-   "type": "news",
-   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "title_orig": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "url": "https://openai.com/index/pollo-ai",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-08"
   }
