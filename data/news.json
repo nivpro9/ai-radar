@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-23T09:56:16+00:00",
+ "updated": "2026-10-23T14:55:41+00:00",
  "items": [
+  {
+   "id": "d34a3f37bdd3",
+   "type": "news",
+   "title": "Meta delays new business terms after publisher pushback on AI scraping",
+   "title_orig": "Meta delays new business terms after publisher pushback on AI scraping",
+   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "fa80f1a6b4b7",
+   "type": "news",
+   "title": "Retro gaming is being overrun with AI",
+   "title_orig": "Retro gaming is being overrun with AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "6430909168b5",
+   "type": "news",
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "title_orig": "Does Your Model Run on AWS Trainium? Look It Up",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
+   "id": "eac45b36fa1a",
+   "type": "news",
+   "title": "הודעות הסלאק והמיילים של סטארטאפים שנסגרו הם היעד החם של חברות ה-AI",
+   "title_orig": "הודעות הסלאק והמיילים של סטארטאפים שנסגרו הם היעד החם של חברות ה-AI",
+   "url": "https://www.geektime.co.il/slack-dms-are-so-hot-right-now/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-23"
+  },
   {
    "id": "15c1f8ef7a58",
    "type": "news",
@@ -3958,46 +3998,6 @@
    "title_orig": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
    "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "724f7ef3ebe4",
-   "type": "news",
-   "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-   "title_orig": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-   "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "19e26c83b268",
-   "type": "news",
-   "title": "Google releases a new local-first Granola competitor",
-   "title_orig": "Google releases a new local-first Granola competitor",
-   "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "53ae0ec869c6",
-   "type": "news",
-   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-   "title_orig": "China’s Manus raises over $500M in first funding round since split with Meta",
-   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "472b20c3e805",
-   "type": "news",
-   "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-   "title_orig": "Google’s AI note-taking app transcribes your meetings completely offline",
-   "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-08"
   }
