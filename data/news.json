@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-24T14:26:08+00:00",
+ "updated": "2026-10-24T18:03:09+00:00",
  "items": [
+  {
+   "id": "688136660c10",
+   "type": "news",
+   "title": "Block’s new voice model sounds eerily human",
+   "title_orig": "Block’s new voice model sounds eerily human",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-24"
+  },
+  {
+   "id": "e4ac1d3f295a",
+   "type": "news",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "title_orig": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-24"
+  },
+  {
+   "id": "4a535eced667",
+   "type": "news",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "title_orig": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-24"
+  },
   {
    "id": "f699a3e5cdaf",
    "type": "news",
@@ -3967,36 +3997,6 @@
    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
    "title_orig": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "c4b9450255a9",
-   "type": "news",
-   "title": "Google brings agentic AI to Gemini, starting with businesses",
-   "title_orig": "Google brings agentic AI to Gemini, starting with businesses",
-   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "54a283d7c732",
-   "type": "news",
-   "title": "Anthropic changes usage policy to ban model abuse and election interference",
-   "title_orig": "Anthropic changes usage policy to ban model abuse and election interference",
-   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "7cc2fc2bcac3",
-   "type": "news",
-   "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-   "title_orig": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-   "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-08"
