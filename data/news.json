@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-25T11:13:47+00:00",
+ "updated": "2026-10-25T16:01:15+00:00",
  "items": [
+  {
+   "id": "611184d5aa6f",
+   "type": "news",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "title_orig": "The hottest AI wearables and gadgets you should know about",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "b366ba776fde",
+   "type": "news",
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "title_orig": "r/opensource just banned AI, non-English speakers, and more",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "99c99157c7fa",
+   "type": "news",
+   "title": "Google’s AI search changes upended online publishing",
+   "title_orig": "Google’s AI search changes upended online publishing",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-25"
+  },
   {
    "id": "9a64206afad2",
    "type": "news",
@@ -3970,36 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-09"
-  },
-  {
-   "id": "ca5fcc9baf2e",
-   "type": "news",
-   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "title_orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "f6d3626eb7c8",
-   "type": "news",
-   "title": "LegalOn halves Codex costs while maintaining development speed",
-   "title_orig": "LegalOn halves Codex costs while maintaining development speed",
-   "url": "https://openai.com/index/legalon-halves-codex-costs",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "0f05fd4155a4",
-   "type": "news",
-   "title": "The model that didn't exist, so you made it yourself",
-   "title_orig": "The model that didn't exist, so you made it yourself",
-   "url": "https://huggingface.co/blog/building-with-ml-intern",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-08"
   }
  ]
 }
