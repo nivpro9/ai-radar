@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T16:01:15+00:00",
+ "updated": "2026-10-25T18:54:52+00:00",
  "items": [
+  {
+   "id": "b23877b88e69",
+   "type": "news",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "title_orig": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-25"
+  },
   {
    "id": "611184d5aa6f",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
    "title_orig": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
    "url": "https://www.geektime.co.il/jabra-evolve3-85-review/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "76c19cff5b8d",
-   "type": "news",
-   "title": "גוגל השיקה כלי תמלול חינמי שרץ אופליין על המחשב",
-   "title_orig": "גוגל השיקה כלי תמלול חינמי שרץ אופליין על המחשב",
-   "url": "https://www.geektime.co.il/google-ai-edge-foresight/",
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-09"
