@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-25T05:58:50+00:00",
+ "updated": "2026-10-25T11:13:47+00:00",
  "items": [
+  {
+   "id": "9a64206afad2",
+   "type": "news",
+   "title": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
+   "title_orig": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
+   "url": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "3262afbd8765",
+   "type": "news",
+   "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
+   "title_orig": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
+   "url": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-25"
+  },
   {
    "id": "0509c80e85fb",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "The model that didn't exist, so you made it yourself",
    "url": "https://huggingface.co/blog/building-with-ml-intern",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "da3ca48318e6",
-   "type": "news",
-   "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-   "title_orig": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-   "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "301544ff1a07",
-   "type": "news",
-   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "title_orig": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-08"
   }
