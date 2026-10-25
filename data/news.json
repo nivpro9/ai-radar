@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T18:54:52+00:00",
+ "updated": "2026-10-25T21:39:38+00:00",
  "items": [
+  {
+   "id": "bf7f18e0418c",
+   "type": "news",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "title_orig": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-25"
+  },
   {
    "id": "b23877b88e69",
    "type": "news",
@@ -3989,16 +3999,6 @@
    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
    "source": "Hugging Face",
    "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "ba19fcb25a5f",
-   "type": "news",
-   "title": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
-   "title_orig": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
-   "url": "https://www.geektime.co.il/jabra-evolve3-85-review/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-09"
   }
  ]
