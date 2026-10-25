@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-24T23:06:02+00:00",
+ "updated": "2026-10-25T01:04:06+00:00",
  "items": [
+  {
+   "id": "0509c80e85fb",
+   "type": "news",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "title_orig": "Blue Planet III is keeping the rough edges in the age of AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-24"
+  },
   {
    "id": "dbe76530e989",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
    "title_orig": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-08"
-  },
-  {
-   "id": "70543e9cd2f2",
-   "type": "news",
-   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-   "title_orig": "Ben Affleck is an AI nerd, and the internet is impressed",
-   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-08"
