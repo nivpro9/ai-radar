@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-26T19:10:23+00:00",
+ "updated": "2026-10-26T23:45:15+00:00",
  "items": [
+  {
+   "id": "bba291662c45",
+   "type": "news",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "title_orig": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "96b9f45bb2e6",
+   "type": "news",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "title_orig": "Anthropic is burning gas to feed the AI boom",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "93eb651fa249",
+   "type": "news",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "title_orig": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "250e5d8f3024",
+   "type": "news",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "title_orig": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "f16aefe89a6e",
+   "type": "news",
+   "title": "Working with academic communities to build scientific understanding",
+   "title_orig": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "1a1d4bf2fc11",
+   "type": "news",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "title_orig": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "8f2f08b6e197",
+   "type": "news",
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "title_orig": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "1758535ac6be",
+   "type": "news",
+   "title": "Introducing GPT-6.1 Terra",
+   "title_orig": "Introducing GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
   {
    "id": "8d6b6f60f40a",
    "type": "news",
@@ -3920,86 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-10"
-  },
-  {
-   "id": "92e4233ce3ff",
-   "type": "news",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "title_orig": "Here are the top AI agents that can live in your text messages",
-   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "0decde66c5ee",
-   "type": "news",
-   "title": "Anthropic is cutting off its internal evaluations from the internet",
-   "title_orig": "Anthropic is cutting off its internal evaluations from the internet",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "963bf8878e82",
-   "type": "news",
-   "title": "האירועים המומלצים: איך מקימים Software Factory שבו ה-AI באמת מתכנן, בונה ובודק?",
-   "title_orig": "האירועים המומלצים: איך מקימים Software Factory שבו ה-AI באמת מתכנן, בונה ובודק?",
-   "url": "https://www.geektime.co.il/geek-events-11102026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "0ea9d786e45e",
-   "type": "news",
-   "title": "AI agent makers are promising privacy — will they deliver?",
-   "title_orig": "AI agent makers are promising privacy — will they deliver?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "7a1627c425a8",
-   "type": "news",
-   "title": "כלי חדש יפנה לכם תוך זמן קצר יותר מ-12GB במקבוק",
-   "title_orig": "כלי חדש יפנה לכם תוך זמן קצר יותר מ-12GB במקבוק",
-   "url": "https://www.geektime.co.il/new-tool-will-free-up-12gb-on-your-mac-macbook/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "6cd6f5cc677d",
-   "type": "news",
-   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-   "title_orig": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "b0e83be7355c",
-   "type": "news",
-   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "title_orig": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "0ad44f3ce5c4",
-   "type": "news",
-   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "title_orig": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
   }
  ]
 }
