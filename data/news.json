@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-26T12:47:28+00:00",
+ "updated": "2026-10-26T19:10:23+00:00",
  "items": [
+  {
+   "id": "8d6b6f60f40a",
+   "type": "news",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "title_orig": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "623265788782",
+   "type": "news",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "title_orig": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "7ca6b100a30f",
+   "type": "news",
+   "title": "Anthropic officially files for its public debut",
+   "title_orig": "Anthropic officially files for its public debut",
+   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "2500a6aad874",
+   "type": "news",
+   "title": "The RealReal won’t let AI agents hog designer clothing",
+   "title_orig": "The RealReal won’t let AI agents hog designer clothing",
+   "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "4a8f41d180d7",
+   "type": "news",
+   "title": "Five weird details from Anthropic’s IPO filing",
+   "title_orig": "Five weird details from Anthropic’s IPO filing",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "b8f740314eab",
+   "type": "news",
+   "title": "Microsoft offers buyouts to 60,000 employees",
+   "title_orig": "Microsoft offers buyouts to 60,000 employees",
+   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "df88ce95d957",
+   "type": "news",
+   "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "title_orig": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "a0064ee100f0",
+   "type": "news",
+   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+   "title_orig": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "9c0a98fa46a8",
+   "type": "news",
+   "title": "Can AI help solve the COBOL code crisis?",
+   "title_orig": "Can AI help solve the COBOL code crisis?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "f7b9bc5b7e40",
+   "type": "news",
+   "title": "Will the real Anthropic please stand up",
+   "title_orig": "Will the real Anthropic please stand up",
+   "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "67160bc1e72b",
+   "type": "news",
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "title_orig": "The focus on AI safety disasters ignores everyday harms",
+   "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "603e1fd3a28b",
+   "type": "news",
+   "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+   "title_orig": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+   "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "e2358621b2db",
+   "type": "news",
+   "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+   "title_orig": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+   "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "400e513e4846",
+   "type": "news",
+   "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+   "title_orig": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+   "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "64d59b55a8fb",
+   "type": "news",
+   "title": "ChatGPT’s expanding world of work",
+   "title_orig": "ChatGPT’s expanding world of work",
+   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "eb7708c5f537",
+   "type": "news",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "title_orig": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "188e9fbc4643",
+   "type": "news",
+   "title": "Our newest AI Quest: Mapping the human brain",
+   "title_orig": "Our newest AI Quest: Mapping the human brain",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
   {
    "id": "6add9717f39f",
    "type": "news",
@@ -80,6 +250,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-25"
+  },
+  {
+   "id": "c95cc9144761",
+   "type": "news",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "title_orig": "Will AI expose the rickety infrastructure of the internet?",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-24"
   },
   {
    "id": "0509c80e85fb",
@@ -3818,186 +3998,6 @@
    "title_orig": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "d587fa318b28",
-   "type": "news",
-   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-   "title_orig": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "2a1c784f84b9",
-   "type": "news",
-   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "title_orig": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "e053ae3b334d",
-   "type": "news",
-   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-   "title_orig": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "1b62d45c1a2a",
-   "type": "news",
-   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-   "title_orig": "Amazon drops data center NDAs, and AI agents want your credit card",
-   "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "fc5d99061639",
-   "type": "news",
-   "title": "Danu Robotics’ fight to build a better recycling robot",
-   "title_orig": "Danu Robotics’ fight to build a better recycling robot",
-   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "ec93bee08bf3",
-   "type": "news",
-   "title": "We can’t help treating AI like it’s human. But should we?",
-   "title_orig": "We can’t help treating AI like it’s human. But should we?",
-   "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "d07dddd55da2",
-   "type": "news",
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "title_orig": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "f11f2c288c2c",
-   "type": "news",
-   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-   "title_orig": "Nikon microscopic video competition winner disqualified for using generative AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "048fcb30e5f3",
-   "type": "news",
-   "title": "AI coding agents generate more code, but not more software",
-   "title_orig": "AI coding agents generate more code, but not more software",
-   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "266dbefb97b2",
-   "type": "news",
-   "title": "AI disqualification yields new Nikon Small World in Motion winner",
-   "title_orig": "AI disqualification yields new Nikon Small World in Motion winner",
-   "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "90995f7dbc9c",
-   "type": "news",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "title_orig": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "c600ade0c9b5",
-   "type": "news",
-   "title": "A16z’s Olivia Moore on the state of consumer AI",
-   "title_orig": "A16z’s Olivia Moore on the state of consumer AI",
-   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "f4ed427af63f",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-   "title_orig": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-   "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "e0e388931715",
-   "type": "news",
-   "title": "Trump’s attempt to rename AI is looking awfully artificial",
-   "title_orig": "Trump’s attempt to rename AI is looking awfully artificial",
-   "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "3e04105beca7",
-   "type": "news",
-   "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-   "title_orig": "Instinct was the buzziest AI agent around — can it survive Muse?",
-   "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "15717a6b7c9a",
-   "type": "news",
-   "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "title_orig": "OpenAI doubles down on decision to fire three AI safety researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "7771bfdab537",
-   "type": "news",
-   "title": "We’re putting too much faith in AI’s ability to say no",
-   "title_orig": "We’re putting too much faith in AI’s ability to say no",
-   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "edd58468d564",
-   "type": "news",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "title_orig": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "url": "https://openai.com/index/sophos",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-09"
   }
