@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-26T06:00:03+00:00",
+ "updated": "2026-10-26T12:47:28+00:00",
  "items": [
+  {
+   "id": "6add9717f39f",
+   "type": "news",
+   "title": "כנס Evolve to AI מסביר: מהי הרעלת קונטקסט ואיך תשמרו על הסוכן שלכם?",
+   "title_orig": "כנס Evolve to AI מסביר: מהי הרעלת קונטקסט ואיך תשמרו על הסוכן שלכם?",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-context-poisoning/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-26"
+  },
   {
    "id": "bf7f18e0418c",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
    "url": "https://openai.com/index/sophos",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-09"
-  },
-  {
-   "id": "43ef54e74d27",
-   "type": "news",
-   "title": "Impactful scheduling for GPU clusters",
-   "title_orig": "Impactful scheduling for GPU clusters",
-   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-10-09"
   }
