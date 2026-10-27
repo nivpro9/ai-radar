@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-27T16:26:30+00:00",
+ "updated": "2026-10-27T21:13:31+00:00",
  "items": [
+  {
+   "id": "195cb6337f5e",
+   "type": "news",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "title_orig": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "8a93bec2dc7c",
+   "type": "news",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "title_orig": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "a30b4228516c",
+   "type": "news",
+   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "title_orig": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "d8c87d0b4457",
+   "type": "news",
+   "title": "VisionQuest is what happens when AI really goes rogue",
+   "title_orig": "VisionQuest is what happens when AI really goes rogue",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "5d9174dd4f1a",
+   "type": "news",
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "title_orig": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "5330f3f99d7d",
+   "type": "news",
+   "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "title_orig": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "a3a879144b29",
+   "type": "news",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "title_orig": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "8cb333260a17",
+   "type": "news",
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "title_orig": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "db98bf59a6c7",
+   "type": "news",
+   "title": "Build specialized multimodal models with LFM3",
+   "title_orig": "Build specialized multimodal models with LFM3",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
   {
    "id": "bb124f9e261c",
    "type": "news",
@@ -3909,96 +3999,6 @@
    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "1b3594718c48",
-   "type": "news",
-   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-   "title_orig": "This AI startup says it can generate permit-ready blueprints in minutes",
-   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "50db4f58bcdc",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-   "title_orig": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-   "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "36347ea06c8c",
-   "type": "news",
-   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "title_orig": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "5b0bbc20b589",
-   "type": "news",
-   "title": "Meta has some Wonder Full new AI models",
-   "title_orig": "Meta has some Wonder Full new AI models",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "f35a07389044",
-   "type": "news",
-   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "title_orig": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "db958e2353fb",
-   "type": "news",
-   "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-   "title_orig": "Amazon has over 1 million robot workers. What’s next for human employees?",
-   "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "1b3a86a14c46",
-   "type": "news",
-   "title": "מיקרוסופט מפטרת עשרות עובדים במרכז הפיתוח שלה בישראל",
-   "title_orig": "מיקרוסופט מפטרת עשרות עובדים במרכז הפיתוח שלה בישראל",
-   "url": "https://www.geektime.co.il/microsoft-layoffs-israel/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "549028c70397",
-   "type": "news",
-   "title": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
-   "title_orig": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
-   "url": "https://www.geektime.co.il/microsoft-maia-300-ai-chip-nvidia/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "4781f3549289",
-   "type": "news",
-   "title": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
-   "title_orig": "כנס Evolve to AI של גיקטיים חוזר עם כל מה שצריך לדעת על Agentic SDLC",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-is-coming-to-tlv/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-12"
   }
  ]
