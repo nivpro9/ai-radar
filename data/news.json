@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-26T23:45:15+00:00",
+ "updated": "2026-10-27T04:50:29+00:00",
  "items": [
+  {
+   "id": "62ecc12b68be",
+   "type": "news",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "title_orig": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "9af0a1a0b387",
+   "type": "news",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "title_orig": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
   {
    "id": "bba291662c45",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Satya Nadella says we should assume all AI models are ‘compromised’",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "e77e9ae83492",
-   "type": "news",
-   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-   "title_orig": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "7ff5bfb82852",
-   "type": "news",
-   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-   "title_orig": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-   "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-10"
   }
