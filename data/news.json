@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-27T10:23:39+00:00",
+ "updated": "2026-10-27T16:26:30+00:00",
  "items": [
+  {
+   "id": "bb124f9e261c",
+   "type": "news",
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "title_orig": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "3f5bc6113c36",
+   "type": "news",
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "title_orig": "Japan internet giant GMO says hackers posted stolen customer data",
+   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "2d1cc6aaea46",
+   "type": "news",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "title_orig": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "e4dd73cec05d",
+   "type": "news",
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "title_orig": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "02c774ec5299",
+   "type": "news",
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "title_orig": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "abb96e9fdd6f",
+   "type": "news",
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "title_orig": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "3513fbe8e952",
+   "type": "news",
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "title_orig": "Google’s next Genie AI model generates more realistic experiences",
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "0d516a24ee36",
+   "type": "news",
+   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "title_orig": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "ef2da6cf0c5f",
+   "type": "news",
+   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "title_orig": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "a44b4d5034e5",
+   "type": "news",
+   "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "title_orig": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "5ef94984dce4",
+   "type": "news",
+   "title": "Genie 4: A new generation of world simulation",
+   "title_orig": "Genie 4: A new generation of world simulation",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "34370e88c88d",
+   "type": "news",
+   "title": "Can we trust LLMs to judge whether a research idea is novel?",
+   "title_orig": "Can we trust LLMs to judge whether a research idea is novel?",
+   "url": "https://huggingface.co/blog/allenai/novelty-bench",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "ebd1268e248b",
+   "type": "news",
+   "title": "שלושה עשורים בנינו אתרים לבני אדם. עכשיו, אנחנו בונים אותם לסוכנים",
+   "title_orig": "שלושה עשורים בנינו אתרים לבני אדם. עכשיו, אנחנו בונים אותם לסוכנים",
+   "url": "https://www.geektime.co.il/ai-agents-change-web-design/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "53a2d9483134",
+   "type": "news",
+   "title": "\"לחצנו Scan וחיכינו\": כלי AI בקוד פתוח סידר לחוקרים ישראלים חצי מיליון דולר",
+   "title_orig": "\"לחצנו Scan וחיכינו\": כלי AI בקוד פתוח סידר לחוקרים ישראלים חצי מיליון דולר",
+   "url": "https://www.geektime.co.il/half-a-million-dollar-bounty-from-one-vuln/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-27"
+  },
   {
    "id": "415aa97d276f",
    "type": "news",
@@ -430,6 +570,16 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-24"
+  },
+  {
+   "id": "c6099fc8919f",
+   "type": "news",
+   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "title_orig": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "url": "https://openai.com/index/anima",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-23"
   },
   {
    "id": "f699a3e5cdaf",
@@ -3850,156 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-12"
-  },
-  {
-   "id": "cf050b0e2662",
-   "type": "news",
-   "title": "חברות וקרנות אירופאיות נוחתות בתל אביב עם הצעות לסטארטאפים ישראלים",
-   "title_orig": "חברות וקרנות אירופאיות נוחתות בתל אביב עם הצעות לסטארטאפים ישראלים",
-   "url": "https://www.geektime.co.il/europe-days-2026-meetings-registration/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "b0202c9706cc",
-   "type": "news",
-   "title": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
-   "title_orig": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
-   "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-coming-to-israel/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "3b10b89c351f",
-   "type": "news",
-   "title": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
-   "title_orig": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
-   "url": "https://www.geektime.co.il/amazon-to-acquire-decart-israeli-ai-startup-for-7-billion-report/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "7d4e278f0b74",
-   "type": "news",
-   "title": "Will the HomeView be Apple’s first smart home success?",
-   "title_orig": "Will the HomeView be Apple’s first smart home success?",
-   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "8d1b5970f0e4",
-   "type": "news",
-   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-   "title_orig": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-   "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "df97c62cc773",
-   "type": "news",
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "title_orig": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "7ec8afeed353",
-   "type": "news",
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "title_orig": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "907a79ad3bef",
-   "type": "news",
-   "title": "מתכנת בפייתון ומסביר על טנזורים וטרנספורמרים: מתברר שבן אפלק הוא גיק רציני",
-   "title_orig": "מתכנת בפייתון ומסביר על טנזורים וטרנספורמרים: מתברר שבן אפלק הוא גיק רציני",
-   "url": "https://www.geektime.co.il/ban-affleck-is-a-nerd/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "778ab122b6ef",
-   "type": "news",
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "title_orig": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "ea95eacbd85b",
-   "type": "news",
-   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "title_orig": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "09fe6685ae58",
-   "type": "news",
-   "title": "4 תשובות אמיתיות לשאלה: איך AI באמת משנה את תפקיד המפתחים?",
-   "title_orig": "4 תשובות אמיתיות לשאלה: איך AI באמת משנה את תפקיד המפתחים?",
-   "url": "https://www.geektime.co.il/how-ai-is-changing-software-engineering-4-insights/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "7925d50d82cb",
-   "type": "news",
-   "title": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
-   "title_orig": "בנק One Zero מפטר כ-10% מהעובדים שלו בעקבות \"ההתפתחות המהירה של ה-AI\"",
-   "url": "https://www.geektime.co.il/one-zero-layoffs-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "cbec5ad8d967",
-   "type": "news",
-   "title": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
-   "title_orig": "מהמיטאפ הזה תצאו עם פתרון אמיתי לאתגר הזהויות של סוכני AI",
-   "url": "https://www.geektime.co.il/oktane-il-3112026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-11"
-  },
-  {
-   "id": "2c9728d3318b",
-   "type": "news",
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "title_orig": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-10"
-  },
-  {
-   "id": "ac1984a6a99c",
-   "type": "news",
-   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "title_orig": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-10"
   }
  ]
 }
