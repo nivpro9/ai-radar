@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-28T01:10:30+00:00",
+ "updated": "2026-10-28T08:18:12+00:00",
  "items": [
+  {
+   "id": "1b16f2a2a47a",
+   "type": "news",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "title_orig": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
   {
    "id": "a2f907c053da",
    "type": "news",
@@ -3989,16 +3999,6 @@
    "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
    "source": "Ars Technica",
    "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "1e9e06dc6382",
-   "type": "news",
-   "title": "אופיס ו-Word בחינם: המפתח ששכפל בעזרת AI את אדובי עושה את זה למיקרוסופט",
-   "title_orig": "אופיס ו-Word בחינם: המפתח ששכפל בעזרת AI את אדובי עושה את זה למיקרוסופט",
-   "url": "https://www.geektime.co.il/artcraft-releases-microsoft-office-clones-with-claude/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-13"
   }
  ]
