@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-28T08:18:12+00:00",
+ "updated": "2026-10-28T15:55:24+00:00",
  "items": [
+  {
+   "id": "516d6345c17a",
+   "type": "news",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "title_orig": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "1af93ecc8fda",
+   "type": "news",
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "title_orig": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "d9d311919980",
+   "type": "news",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "title_orig": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "efca0b654d0c",
+   "type": "news",
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "title_orig": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "5283652bd524",
+   "type": "news",
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "title_orig": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "8030d1b5c635",
+   "type": "news",
+   "title": "Voters in Texas agree: They hate data centers",
+   "title_orig": "Voters in Texas agree: They hate data centers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "6da995572c9c",
+   "type": "news",
+   "title": "Meta quietly launched an ‘AI pet journal’ app",
+   "title_orig": "Meta quietly launched an ‘AI pet journal’ app",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "85069581580d",
+   "type": "news",
+   "title": "Pairing industrial AI autonomy and human control",
+   "title_orig": "Pairing industrial AI autonomy and human control",
+   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "2fc8e689e413",
+   "type": "news",
+   "title": "Legora is building the agentic operating system for legal work",
+   "title_orig": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "7ae8eb20550e",
+   "type": "news",
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "title_orig": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "bc6dfecf766f",
+   "type": "news",
+   "title": "מחקר חדש: כותבים ל-AI בעברית? זה עולה לכם עד פי 3 טוקנים",
+   "title_orig": "מחקר חדש: כותבים ל-AI בעברית? זה עולה לכם עד פי 3 טוקנים",
+   "url": "https://www.geektime.co.il/ai-tokenizer-tax-cost-llm-hebrew/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "502420b52584",
+   "type": "news",
+   "title": "כשהעין האנושית פוגשת רשת נוירונים: פיתוח ישראלי מלמד AI לראות אחרת",
+   "title_orig": "כשהעין האנושית פוגשת רשת נוירונים: פיתוח ישראלי מלמד AI לראות אחרת",
+   "url": "https://www.geektime.co.il/ai-vision-event-based-processing-weizmann/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-28"
+  },
   {
    "id": "1b16f2a2a47a",
    "type": "news",
@@ -3879,126 +3999,6 @@
    "url": "https://www.geektime.co.il/google-releases-gemini-4-argon/",
    "source": "Geektime",
    "lang": "he",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "82ec47719a83",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026: Day 1",
-   "title_orig": "TechCrunch Disrupt 2026: Day 1",
-   "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "48866c22a637",
-   "type": "news",
-   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-   "title_orig": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-   "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "161d38a5133d",
-   "type": "news",
-   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-   "title_orig": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "bc6b0eca0236",
-   "type": "news",
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "title_orig": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "33c0b5054646",
-   "type": "news",
-   "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-   "title_orig": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-   "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "d8f2c178c0c6",
-   "type": "news",
-   "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-   "title_orig": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-   "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "579aa4e27ad5",
-   "type": "news",
-   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-   "title_orig": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-   "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "fa1d998e852e",
-   "type": "news",
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "title_orig": "Apple launches HomeView, its first smart display for the home",
-   "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "17822a6c9063",
-   "type": "news",
-   "title": "Character.AI files for bankruptcy",
-   "title_orig": "Character.AI files for bankruptcy",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "c48f77cfce80",
-   "type": "news",
-   "title": "Open models have real benefits. Do they outweigh the risks?",
-   "title_orig": "Open models have real benefits. Do they outweigh the risks?",
-   "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "6b99b1697520",
-   "type": "news",
-   "title": "AI labs are buying data from dead startups to train their models",
-   "title_orig": "AI labs are buying data from dead startups to train their models",
-   "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "a2352b9071f9",
-   "type": "news",
-   "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-   "title_orig": "They war-gamed dimming the Sun. It went even worse than you think.",
-   "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-   "source": "Ars Technica",
-   "lang": "en",
    "date": "2026-10-13"
   }
  ]
