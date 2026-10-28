@@ -1,6 +1,166 @@
 {
- "updated": "2026-10-28T15:55:24+00:00",
+ "updated": "2026-10-28T20:57:54+00:00",
  "items": [
+  {
+   "id": "ea370fdd96af",
+   "type": "news",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "title_orig": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "8500267ec5b4",
+   "type": "news",
+   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "title_orig": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "964eb21e0e03",
+   "type": "news",
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "title_orig": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "a01db71b034c",
+   "type": "news",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "title_orig": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "5e4098babe95",
+   "type": "news",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "title_orig": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "fc7d1d71bde9",
+   "type": "news",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "title_orig": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "d0753be868cc",
+   "type": "news",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "title_orig": "Microsoft is ending Copilot support on smart TVs",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "c802108aab79",
+   "type": "news",
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "title_orig": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "1739307690c3",
+   "type": "news",
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "title_orig": "Meta says it’ll probably delay its controversial new business terms again",
+   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "e164bf48fa23",
+   "type": "news",
+   "title": "Creating AI value with enterprise context",
+   "title_orig": "Creating AI value with enterprise context",
+   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "41e0dc889e76",
+   "type": "news",
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "title_orig": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "9a783b4021e0",
+   "type": "news",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "title_orig": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "75e2017ed4c5",
+   "type": "news",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "title_orig": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "0dc3cf0b7c98",
+   "type": "news",
+   "title": "The future of the firm",
+   "title_orig": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "41c97fe8dc29",
+   "type": "news",
+   "title": "Legora is building the agentic operating system for legal work",
+   "title_orig": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "34b0bf3f94c3",
+   "type": "news",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "title_orig": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
   {
    "id": "516d6345c17a",
    "type": "news",
@@ -3839,166 +3999,6 @@
    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
    "source": "The Verge",
    "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "64be3d764257",
-   "type": "news",
-   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-   "title_orig": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-   "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "c9abe9b08cd3",
-   "type": "news",
-   "title": "Facebook will let you customize your feed algorithm using AI",
-   "title_orig": "Facebook will let you customize your feed algorithm using AI",
-   "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "a3312401eb55",
-   "type": "news",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "title_orig": "Google makes it easier to launch your vibe-coded apps",
-   "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "e8881f4e9b5e",
-   "type": "news",
-   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-   "title_orig": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "24ef7cf40bd2",
-   "type": "news",
-   "title": "Google finally releases Gemini 4 Argon",
-   "title_orig": "Google finally releases Gemini 4 Argon",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "c11b8b011c28",
-   "type": "news",
-   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-   "title_orig": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "f17adc20acb8",
-   "type": "news",
-   "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-   "title_orig": "Google wants to host your personal vibe-coded apps in the Play Store",
-   "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "2bad0427cfe4",
-   "type": "news",
-   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "title_orig": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "ffc748cb8d88",
-   "type": "news",
-   "title": "Higgsfield takes AI video from 1 minute to over 10",
-   "title_orig": "Higgsfield takes AI video from 1 minute to over 10",
-   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "66cb1e68848f",
-   "type": "news",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "25432b6b093a",
-   "type": "news",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "title_orig": "Developing Gemini 4 Argon responsibly and safely",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "8b0463614a7b",
-   "type": "news",
-   "title": "Gemini 4 Argon for Robotics",
-   "title_orig": "Gemini 4 Argon for Robotics",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "316153953adf",
-   "type": "news",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "550c4c02e9ff",
-   "type": "news",
-   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "title_orig": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "601963fcff07",
-   "type": "news",
-   "title": "הסטארטאפ Pluto נחשף עכשיו עם גיוסים של 42 מיליון דולר",
-   "title_orig": "הסטארטאפ Pluto נחשף עכשיו עם גיוסים של 42 מיליון דולר",
-   "url": "https://www.geektime.co.il/pluto-security-raises-42m-seed-and-a-round/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "7158b15b98e9",
-   "type": "news",
-   "title": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
-   "title_orig": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
-   "url": "https://www.geektime.co.il/google-releases-gemini-4-argon/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-13"
   }
  ]
