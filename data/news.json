@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-27T21:13:31+00:00",
+ "updated": "2026-10-28T01:10:30+00:00",
  "items": [
+  {
+   "id": "a2f907c053da",
+   "type": "news",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "title_orig": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "a81d0c1c06b0",
+   "type": "news",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "title_orig": "The data center boom has an upside: innovation for the US grid",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "7afb98bf1433",
+   "type": "news",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "title_orig": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "e4dbba9a243c",
+   "type": "news",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "title_orig": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "ba3cece69efb",
+   "type": "news",
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "title_orig": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "0419fa07eb02",
+   "type": "news",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "title_orig": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "9daa2cd43fa5",
+   "type": "news",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "title_orig": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "d42fb1eb3362",
+   "type": "news",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "title_orig": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
   {
    "id": "195cb6337f5e",
    "type": "news",
@@ -3920,86 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-13"
-  },
-  {
-   "id": "f57402d1faf4",
-   "type": "news",
-   "title": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
-   "title_orig": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
-   "url": "https://www.geektime.co.il/meta-announces-muse-wonder-and-muse-wonder-fulll/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "9726aa3a5f66",
-   "type": "news",
-   "title": "Meta releases its first frontier model, Muse Wonder",
-   "title_orig": "Meta releases its first frontier model, Muse Wonder",
-   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "bdf59882f2c6",
-   "type": "news",
-   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-   "title_orig": "Honeyjar offers AI tools to improve PR and comms at every company",
-   "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "1950a6eafc69",
-   "type": "news",
-   "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-   "title_orig": "Epic Games reportedly pivoting to \"AI first\" game development model",
-   "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "1cb84cfd891a",
-   "type": "news",
-   "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-   "title_orig": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-   "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "8c286df7888a",
-   "type": "news",
-   "title": "Russia was not ready for the data center war it started with Ukraine",
-   "title_orig": "Russia was not ready for the data center war it started with Ukraine",
-   "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "83b9a2e31e6e",
-   "type": "news",
-   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "title_orig": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
-  },
-  {
-   "id": "5974203bb3c7",
-   "type": "news",
-   "title": "Microsoft president says UK is best placed to drive AI regulation",
-   "title_orig": "Microsoft president says UK is best placed to drive AI regulation",
-   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-12"
   }
  ]
 }
