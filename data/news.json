@@ -1,6 +1,236 @@
 {
- "updated": "2026-10-29T14:07:51+00:00",
+ "updated": "2026-10-29T20:12:08+00:00",
  "items": [
+  {
+   "id": "1e09943a421e",
+   "type": "news",
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "title_orig": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "7587406daf7d",
+   "type": "news",
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "title_orig": "Rivian expands joint venture with VW to include AI assistant",
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "4db20898e948",
+   "type": "news",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "title_orig": "OpenAI-backed Thrive Holdings acquires ADT",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "bde015e58f37",
+   "type": "news",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "title_orig": "Meta quietly launches an AI fashion app called Style Sketch",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "066f3bd17c5f",
+   "type": "news",
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "title_orig": "Granola crunches up a dictation feature to compete with Wispr",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "23e63926ccea",
+   "type": "news",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "title_orig": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "a9493e03c65c",
+   "type": "news",
+   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "title_orig": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "4dcfcc0d1943",
+   "type": "news",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "title_orig": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "5c450d9a985f",
+   "type": "news",
+   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "title_orig": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "65d251570ded",
+   "type": "news",
+   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "title_orig": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "2a1a8a7c88a0",
+   "type": "news",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "title_orig": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "45b4ef0b726f",
+   "type": "news",
+   "title": "Microsoft’s AI future has fewer jobs",
+   "title_orig": "Microsoft’s AI future has fewer jobs",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "9d92d4ec6e5e",
+   "type": "news",
+   "title": "The NYT Cooking app is testing AI recipe modifications",
+   "title_orig": "The NYT Cooking app is testing AI recipe modifications",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "079251699e8e",
+   "type": "news",
+   "title": "Anthropic is asking Wall Street to believe in AGI",
+   "title_orig": "Anthropic is asking Wall Street to believe in AGI",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "cfed78c7b300",
+   "type": "news",
+   "title": "Trump declares robot imports a national security threat",
+   "title_orig": "Trump declares robot imports a national security threat",
+   "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "b394caaea480",
+   "type": "news",
+   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "title_orig": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "7bf0065ceb16",
+   "type": "news",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "title_orig": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "d28967fce9c6",
+   "type": "news",
+   "title": "How we detect frontier model misalignment",
+   "title_orig": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "2d9928289658",
+   "type": "news",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "title_orig": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "e1c742c1d925",
+   "type": "news",
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "title_orig": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "url": "https://huggingface.co/blog/announcing-project-protostar",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "a1765f446c5b",
+   "type": "news",
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "title_orig": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "url": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "06fe571d8018",
+   "type": "news",
+   "title": "הנה ההכרזות החדשות של גיטהאב שאתם צריכים להכיר",
+   "title_orig": "הנה ההכרזות החדשות של גיטהאב שאתם צריכים להכיר",
+   "url": "https://www.geektime.co.il/github-copilot-universe-2026-agents-guide/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "85473f57c247",
+   "type": "news",
+   "title": "חצי טריליון דולר נמחקו ביממה: מה מפחיד כל-כך את המשקיעים של גוגל?",
+   "title_orig": "חצי טריליון דולר נמחקו ביממה: מה מפחיד כל-כך את המשקיעים של גוגל?",
+   "url": "https://www.geektime.co.il/google-lost-400b-dollars-in-a-day/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-29"
+  },
   {
    "id": "d0e2301d55a3",
    "type": "news",
@@ -3769,236 +3999,6 @@
    "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
    "source": "The Verge",
    "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "524e699ebac3",
-   "type": "news",
-   "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-   "title_orig": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "0784a13f079d",
-   "type": "news",
-   "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-   "title_orig": "Microsoft has a new machine learning tool to improve weather forecasts",
-   "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "d4118e30020d",
-   "type": "news",
-   "title": "Square’s new kiosk lets you talk to AI for help with your order",
-   "title_orig": "Square’s new kiosk lets you talk to AI for help with your order",
-   "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "c034144452ef",
-   "type": "news",
-   "title": "Android is using AI to suss out scammers in Google Messages",
-   "title_orig": "Android is using AI to suss out scammers in Google Messages",
-   "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "7627a3f49095",
-   "type": "news",
-   "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-   "title_orig": "Anthropic’s self-replicating AI warning is alarming deja vu",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "08495a955cc8",
-   "type": "news",
-   "title": "Epic’s new games launcher is ‘vibe coded’",
-   "title_orig": "Epic’s new games launcher is ‘vibe coded’",
-   "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "972ce96df38a",
-   "type": "news",
-   "title": "Researchers use AI to design proteins that cut up other proteins",
-   "title_orig": "Researchers use AI to design proteins that cut up other proteins",
-   "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "02ae3f5fc0dc",
-   "type": "news",
-   "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-   "title_orig": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-   "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "a0e0fec2c2b5",
-   "type": "news",
-   "title": "Amp puts AI agents to work beyond code with OpenAI models",
-   "title_orig": "Amp puts AI agents to work beyond code with OpenAI models",
-   "url": "https://openai.com/index/amp-beyond-coding",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "24cc989c02db",
-   "type": "news",
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "title_orig": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "e181547094b0",
-   "type": "news",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "title_orig": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "672ebf75c430",
-   "type": "news",
-   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "title_orig": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "3fa3a500d610",
-   "type": "news",
-   "title": "90 שניות ויש לכם אייג'נט: הסטארטאפ הישראלי Zenzap גייס 44 מיליון דולר",
-   "title_orig": "90 שניות ויש לכם אייג'נט: הסטארטאפ הישראלי Zenzap גייס 44 מיליון דולר",
-   "url": "https://www.geektime.co.il/zenzap-comes-out-of-stealth/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "9931ca009c40",
-   "type": "news",
-   "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-   "title_orig": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-   "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "339da82e2ea9",
-   "type": "news",
-   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-   "title_orig": "Anthropic warns small AI models could self-replicate through IoT devices",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "64950daaf518",
-   "type": "news",
-   "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-   "title_orig": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-   "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "2f3282e48314",
-   "type": "news",
-   "title": "The EU’s next chapter in AI is agentic",
-   "title_orig": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "056c4a1ee68e",
-   "type": "news",
-   "title": "בואו ללמוד איך ניהול סיכונים נכון של קוד פתוח יכול להציל לכם את הגיוס הבא",
-   "title_orig": "בואו ללמוד איך ניהול סיכונים נכון של קוד פתוח יכול להציל לכם את הגיוס הבא",
-   "url": "https://www.geektime.co.il/open-source-ai-risk-management-webinar-21102026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "548d43ccf975",
-   "type": "news",
-   "title": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
-   "title_orig": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
-   "url": "https://www.geektime.co.il/openai-math-proofs-ai-academia-crisis/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "5cb1618c1db5",
-   "type": "news",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "title_orig": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "22f2733659af",
-   "type": "news",
-   "title": "רק בכנס הפיתוח של גיקטיים: הישראלי הראשון ב-Cognition מספר מה למד מלבנות את Devin",
-   "title_orig": "רק בכנס הפיתוח של גיקטיים: הישראלי הראשון ב-Cognition מספר מה למד מלבנות את Devin",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-cognition/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "803ad31e51eb",
-   "type": "news",
-   "title": "עובד OpenAI נעצר ע\"י ה-FBI לאחר שהשתיל מכשיר הקלטה במשרדים",
-   "title_orig": "עובד OpenAI נעצר ע\"י ה-FBI לאחר שהשתיל מכשיר הקלטה במשרדים",
-   "url": "https://www.geektime.co.il/fbi-arrests-openai-employee/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "39a825d31958",
-   "type": "news",
-   "title": "סקר שכר ההייטק: כמה אתם מרוויחים, כמה לבקש וכמה שווה להיות יוצא 8200?",
-   "title_orig": "סקר שכר ההייטק: כמה אתם מרוויחים, כמה לבקש וכמה שווה להיות יוצא 8200?",
-   "url": "https://www.geektime.co.il/high-tech-salary-survey-2026/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-14"
   }
  ]
