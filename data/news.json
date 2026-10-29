@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-28T20:57:54+00:00",
+ "updated": "2026-10-29T00:47:12+00:00",
  "items": [
+  {
+   "id": "1134b6a1764a",
+   "type": "news",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "title_orig": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "9b7dd4a7a685",
+   "type": "news",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "title_orig": "Google expands AI Search ads globally as core ad growth slows",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "f9d1493b929c",
+   "type": "news",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "title_orig": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "0ef91bd8c8c1",
+   "type": "news",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "title_orig": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "09f762edab0d",
+   "type": "news",
+   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "title_orig": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
+   "id": "e4867209a9cd",
+   "type": "news",
+   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "title_orig": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
   {
    "id": "ea370fdd96af",
    "type": "news",
@@ -3862,6 +3922,56 @@
    "date": "2026-10-14"
   },
   {
+   "id": "66cb1e68848f",
+   "type": "news",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "25432b6b093a",
+   "type": "news",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "title_orig": "Developing Gemini 4 Argon responsibly and safely",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "8b0463614a7b",
+   "type": "news",
+   "title": "Gemini 4 Argon for Robotics",
+   "title_orig": "Gemini 4 Argon for Robotics",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "316153953adf",
+   "type": "news",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "550c4c02e9ff",
+   "type": "news",
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "title_orig": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-13"
+  },
+  {
    "id": "2ce212c19db2",
    "type": "news",
    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -3888,116 +3998,6 @@
    "title_orig": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "f2fb2747c1a4",
-   "type": "news",
-   "title": "Cerebras CEO pushes back on AI doomsday warnings",
-   "title_orig": "Cerebras CEO pushes back on AI doomsday warnings",
-   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "70093601d146",
-   "type": "news",
-   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "title_orig": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "d3f06c5cb28b",
-   "type": "news",
-   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-   "title_orig": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-   "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "c06a934276cf",
-   "type": "news",
-   "title": "Facebook is giving users more control over their algorithm",
-   "title_orig": "Facebook is giving users more control over their algorithm",
-   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "fa1a37fdc416",
-   "type": "news",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "title_orig": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "d59d959ca724",
-   "type": "news",
-   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "title_orig": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "5b75b71a6459",
-   "type": "news",
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "title_orig": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "950fd49d85d3",
-   "type": "news",
-   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-   "title_orig": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-   "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "082a179fcd58",
-   "type": "news",
-   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-   "title_orig": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "c839b9474fae",
-   "type": "news",
-   "title": "Shopify opens its catalog up to more AI agents",
-   "title_orig": "Shopify opens its catalog up to more AI agents",
-   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-13"
-  },
-  {
-   "id": "ffb4af635c9e",
-   "type": "news",
-   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-   "title_orig": "Xbox is officially embracing the chaos of AI-powered game ports",
-   "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-13"
   }
