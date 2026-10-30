@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T00:48:26+00:00",
+ "updated": "2026-10-30T06:59:52+00:00",
  "items": [
+  {
+   "id": "3f421dfac052",
+   "type": "news",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "title_orig": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
   {
    "id": "720b04b8c5b9",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
    "title_orig": "Floqer’s AI agents research sales prospects so teams don’t have to",
    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "613feca97589",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026: Day 2",
-   "title_orig": "TechCrunch Disrupt 2026: Day 2",
-   "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-14"
