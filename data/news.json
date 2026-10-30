@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-30T06:59:52+00:00",
+ "updated": "2026-10-30T13:59:34+00:00",
  "items": [
+  {
+   "id": "e9e7beb52b83",
+   "type": "news",
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "title_orig": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "f63058a65b72",
+   "type": "news",
+   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "title_orig": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "3e4e3eed2bbf",
+   "type": "news",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "title_orig": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "5ec9437afb13",
+   "type": "news",
+   "title": "Silicon Valley wants you to invest in miracles",
+   "title_orig": "Silicon Valley wants you to invest in miracles",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "5cfbd02556ec",
+   "type": "news",
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "title_orig": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "dbfbce585037",
+   "type": "news",
+   "title": "Maine’s data center revolt will decide who controls the Senate",
+   "title_orig": "Maine’s data center revolt will decide who controls the Senate",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "a973ac401cee",
+   "type": "news",
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "title_orig": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
   {
    "id": "3f421dfac052",
    "type": "news",
@@ -3928,76 +3998,6 @@
    "title_orig": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "e1e9d7f8b0f1",
-   "type": "news",
-   "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-   "title_orig": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-   "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "877cbcbdbb3b",
-   "type": "news",
-   "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-   "title_orig": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "d7ad5c7f5c98",
-   "type": "news",
-   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-   "title_orig": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-   "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "f1c8e20f7598",
-   "type": "news",
-   "title": "Deezer will soon let you filter out AI-generated music",
-   "title_orig": "Deezer will soon let you filter out AI-generated music",
-   "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "2e447a71d8fc",
-   "type": "news",
-   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-   "title_orig": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-   "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "88518a254bc6",
-   "type": "news",
-   "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-   "title_orig": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "cef3a61011ee",
-   "type": "news",
-   "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-   "title_orig": "Floqer’s AI agents research sales prospects so teams don’t have to",
-   "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-14"
   }
