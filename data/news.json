@@ -1,6 +1,126 @@
 {
- "updated": "2026-10-30T13:59:34+00:00",
+ "updated": "2026-10-30T19:10:53+00:00",
  "items": [
+  {
+   "id": "a457451f7b0a",
+   "type": "news",
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "title_orig": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "fc6c72287137",
+   "type": "news",
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "title_orig": "Google’s first data center satellite is online and writing poetry",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "d906f2ca87fc",
+   "type": "news",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "title_orig": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "62373f3f48e1",
+   "type": "news",
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "title_orig": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "c4dbacf8aa2b",
+   "type": "news",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "title_orig": "Google’s satellite AI server transmits its first response to Earth",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "0de3f9697e49",
+   "type": "news",
+   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "title_orig": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "974d9b85c8fb",
+   "type": "news",
+   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "title_orig": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "09484dfee9e7",
+   "type": "news",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "title_orig": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "871b81f930c7",
+   "type": "news",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "title_orig": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "25cc4c9bb2e3",
+   "type": "news",
+   "title": "Making it easier for websites to express AI training preferences",
+   "title_orig": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "c7606af40dbb",
+   "type": "news",
+   "title": "Community safety report and new protections for teens",
+   "title_orig": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "b2263e9f8412",
+   "type": "news",
+   "title": "nemotron-halloween",
+   "title_orig": "nemotron-halloween",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
   {
    "id": "e9e7beb52b83",
    "type": "news",
@@ -80,6 +200,16 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-30"
+  },
+  {
+   "id": "6750c2461412",
+   "type": "news",
+   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "title_orig": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "url": "https://openai.com/index/credit-saison",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-29"
   },
   {
    "id": "720b04b8c5b9",
@@ -3870,136 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-15"
-  },
-  {
-   "id": "adaf79e50c2e",
-   "type": "news",
-   "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "title_orig": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-   "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "b6af0c3578bc",
-   "type": "news",
-   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-   "title_orig": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-   "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "faf4d5dfcd6c",
-   "type": "news",
-   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-   "title_orig": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-   "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "b4c333a1fc01",
-   "type": "news",
-   "title": "Figma announces new features to define how agents work on its platform",
-   "title_orig": "Figma announces new features to define how agents work on its platform",
-   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "f0fe7c9aa7b8",
-   "type": "news",
-   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-   "title_orig": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "d3bb9ef55af6",
-   "type": "news",
-   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-   "title_orig": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "5cb1618c1db5",
-   "type": "news",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "title_orig": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "d1f8876dacf9",
-   "type": "news",
-   "title": "McKinsey is making job applicants spar with a fake AI client",
-   "title_orig": "McKinsey is making job applicants spar with a fake AI client",
-   "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "7d10f0ddfecf",
-   "type": "news",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "title_orig": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "ceac0f96bc6e",
-   "type": "news",
-   "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-   "title_orig": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-   "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "88ac6d1c3f06",
-   "type": "news",
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "title_orig": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "2fac9b600466",
-   "type": "news",
-   "title": "The AI race is back on",
-   "title_orig": "The AI race is back on",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
-  },
-  {
-   "id": "738aed8dcc6e",
-   "type": "news",
-   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-   "title_orig": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-14"
   }
  ]
 }
