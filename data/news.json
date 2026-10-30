@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-30T19:10:53+00:00",
+ "updated": "2026-10-30T23:37:40+00:00",
  "items": [
+  {
+   "id": "5d6f84404e1c",
+   "type": "news",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "title_orig": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "a977761811a9",
+   "type": "news",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "title_orig": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "1ad66cf690a9",
+   "type": "news",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "title_orig": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "ade2d7581a3b",
+   "type": "news",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "title_orig": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "07912041c313",
+   "type": "news",
+   "title": "Cracks are emerging in the AI spending boom",
+   "title_orig": "Cracks are emerging in the AI spending boom",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "011fdc062b2b",
+   "type": "news",
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "title_orig": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "e6a83342c0c5",
+   "type": "news",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "title_orig": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "25a528e218b1",
+   "type": "news",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "title_orig": "The biggest names in AI are backing a new way to opt out of scraping",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "ef4c1375c469",
+   "type": "news",
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "title_orig": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "93351cbb4cc4",
+   "type": "news",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "title_orig": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "d6402cbeb2e6",
+   "type": "news",
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "title_orig": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "8f65b6637c02",
+   "type": "news",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "title_orig": "Basically no one is using AI agents for their DoorDash orders",
+   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "d2282bcce162",
+   "type": "news",
+   "title": "Fair use benefits everyone",
+   "title_orig": "Fair use benefits everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-30"
+  },
   {
    "id": "a457451f7b0a",
    "type": "news",
@@ -3867,136 +3997,6 @@
    "title": "TechCrunch Disrupt 2026: Last day",
    "title_orig": "TechCrunch Disrupt 2026: Last day",
    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "1b6257d35772",
-   "type": "news",
-   "title": "Friends don’t let friends feed their data to AI agents",
-   "title_orig": "Friends don’t let friends feed their data to AI agents",
-   "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "97f8573c584b",
-   "type": "news",
-   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-   "title_orig": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "f616628c1389",
-   "type": "news",
-   "title": "Nobody is safe from celebrity AI deepfakes",
-   "title_orig": "Nobody is safe from celebrity AI deepfakes",
-   "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "e86ff66c4910",
-   "type": "news",
-   "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-   "title_orig": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "12f70f9144a8",
-   "type": "news",
-   "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-   "title_orig": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-   "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "6388b3d480b1",
-   "type": "news",
-   "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-   "title_orig": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-   "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "fa14b8f7db46",
-   "type": "news",
-   "title": "Teaching students to think and learn through questions",
-   "title_orig": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "1d4cff712a9a",
-   "type": "news",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "title_orig": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "e3c36d4422c6",
-   "type": "news",
-   "title": "Apertus 1.5 Release Notes",
-   "title_orig": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "9d251ac6836a",
-   "type": "news",
-   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "title_orig": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "url": "https://huggingface.co/blog/meta-muse-spark-open",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "3733c75a28bf",
-   "type": "news",
-   "title": "Welcome FLUX.3 Image Klein in Diffusers",
-   "title_orig": "Welcome FLUX.3 Image Klein in Diffusers",
-   "url": "https://huggingface.co/blog/flux-3",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "e9de5a0ac552",
-   "type": "news",
-   "title": "הסתכלתי לטורף שלי בעיניים. עכשיו הוא עובד אצלי",
-   "title_orig": "הסתכלתי לטורף שלי בעיניים. עכשיו הוא עובד אצלי",
-   "url": "https://www.geektime.co.il/from-predator-to-partner-how-we-harnessed-ai-agents/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "cc07996f6bad",
-   "type": "news",
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "title_orig": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-15"
