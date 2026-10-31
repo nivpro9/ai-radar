@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-31T17:38:56+00:00",
+ "updated": "2026-10-31T21:25:02+00:00",
  "items": [
+  {
+   "id": "e07dacdb45dc",
+   "type": "news",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "title_orig": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-31"
+  },
   {
    "id": "c10fef6ec816",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "66efd2f87608",
-   "type": "news",
-   "title": "The tech backlash is now in theaters",
-   "title_orig": "The tech backlash is now in theaters",
-   "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-15"
   }
