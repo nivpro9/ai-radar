@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-31T12:11:15+00:00",
+ "updated": "2026-10-31T17:38:56+00:00",
  "items": [
+  {
+   "id": "c10fef6ec816",
+   "type": "news",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "title_orig": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-31"
+  },
+  {
+   "id": "ed0268fa6e32",
+   "type": "news",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "title_orig": "I built an AI Tamagotchi before Meta could",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-10-31"
+  },
+  {
+   "id": "9a82c47f8540",
+   "type": "news",
+   "title": "מתי באמת צריך AI ומתי עדיף קוד מסורתי? 3 אירועי טכנולוגיה מומלצים",
+   "title_orig": "מתי באמת צריך AI ומתי עדיף קוד מסורתי? 3 אירועי טכנולוגיה מומלצים",
+   "url": "https://www.geektime.co.il/geek-events-1112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-31"
+  },
+  {
+   "id": "874d77786f8e",
+   "type": "news",
+   "title": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
+   "title_orig": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
+   "url": "https://www.geektime.co.il/plnty-is-out-of-stealth-with-a-check-from-base44-founder/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-10-31"
+  },
   {
    "id": "c6b2d3ea7917",
    "type": "news",
@@ -3958,46 +3998,6 @@
    "title_orig": "The tech backlash is now in theaters",
    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "54d7a618ecd3",
-   "type": "news",
-   "title": "Trump posts AI-edited photo to brag about White House restoration work",
-   "title_orig": "Trump posts AI-edited photo to brag about White House restoration work",
-   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "2c7772f8550a",
-   "type": "news",
-   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-   "title_orig": "Bluesky’s AI tool now lets you make games and apps to share on social",
-   "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "c7cea461bd6d",
-   "type": "news",
-   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-   "title_orig": "Meta and Apple team up to make Muse AI models run better on Macs",
-   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "a72d1e4da6b0",
-   "type": "news",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "title_orig": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-15"
   }
