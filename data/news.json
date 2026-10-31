@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T23:37:40+00:00",
+ "updated": "2026-10-31T05:22:37+00:00",
  "items": [
+  {
+   "id": "c6b2d3ea7917",
+   "type": "news",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "title_orig": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-10-31"
+  },
   {
    "id": "5d6f84404e1c",
    "type": "news",
@@ -3822,6 +3832,46 @@
    "date": "2026-10-16"
   },
   {
+   "id": "1d4cff712a9a",
+   "type": "news",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "title_orig": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "e3c36d4422c6",
+   "type": "news",
+   "title": "Apertus 1.5 Release Notes",
+   "title_orig": "Apertus 1.5 Release Notes",
+   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "9d251ac6836a",
+   "type": "news",
+   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "title_orig": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "url": "https://huggingface.co/blog/meta-muse-spark-open",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "3733c75a28bf",
+   "type": "news",
+   "title": "Welcome FLUX.3 Image Klein in Diffusers",
+   "title_orig": "Welcome FLUX.3 Image Klein in Diffusers",
+   "url": "https://huggingface.co/blog/flux-3",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-15"
+  },
+  {
    "id": "aae90d6b2dab",
    "type": "news",
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -3948,56 +3998,6 @@
    "title_orig": "Bringing GPT-Rosalind to academic research labs",
    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "a01e02239da0",
-   "type": "news",
-   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-   "title_orig": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "d9d8114df721",
-   "type": "news",
-   "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-   "title_orig": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-   "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "2c9392a52f20",
-   "type": "news",
-   "title": "AI agents are coming to Rivian’s cars",
-   "title_orig": "AI agents are coming to Rivian’s cars",
-   "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "244831af6248",
-   "type": "news",
-   "title": "Google’s Universal Cart shopping tool launches in the US",
-   "title_orig": "Google’s Universal Cart shopping tool launches in the US",
-   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "a678873210a0",
-   "type": "news",
-   "title": "TechCrunch Disrupt 2026: Last day",
-   "title_orig": "TechCrunch Disrupt 2026: Last day",
-   "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-15"
   }
