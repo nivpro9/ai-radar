@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-01T14:57:54+00:00",
+ "updated": "2026-11-01T19:31:19+00:00",
  "items": [
+  {
+   "id": "3b5be3ec0f0e",
+   "type": "news",
+   "title": "כנס הפיתוח וה-AI של גיקטיים חוזר ברביעי עם תשובה לשאלה: מה בעצם נשאר לנו לעשות?",
+   "title_orig": "כנס הפיתוח וה-AI של גיקטיים חוזר ברביעי עם תשובה לשאלה: מה בעצם נשאר לנו לעשות?",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-last-call/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-01"
+  },
   {
    "id": "c91d650e922c",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "dd00c04c9b95",
-   "type": "news",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "title_orig": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-15"
   }
