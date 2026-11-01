@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-01T19:31:19+00:00",
+ "updated": "2026-11-01T23:29:39+00:00",
  "items": [
+  {
+   "id": "0dbf0226aa90",
+   "type": "news",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "title_orig": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-01"
+  },
+  {
+   "id": "bb2642061f37",
+   "type": "news",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "title_orig": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-01"
+  },
   {
    "id": "3b5be3ec0f0e",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "924ca13842a3",
-   "type": "news",
-   "title": "ChatGPT can peek at your Chrome tabs now",
-   "title_orig": "ChatGPT can peek at your Chrome tabs now",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "b78fa0f3af3a",
-   "type": "news",
-   "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-   "title_orig": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-   "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-15"
   }
