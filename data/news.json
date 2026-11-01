@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-01T07:23:44+00:00",
+ "updated": "2026-11-01T14:57:54+00:00",
  "items": [
+  {
+   "id": "c91d650e922c",
+   "type": "news",
+   "title": "המודל נחנק? כך תרוויחו בחזרה 76% מהזיכרון",
+   "title_orig": "המודל נחנק? כך תרוויחו בחזרה 76% מהזיכרון",
+   "url": "https://www.geektime.co.il/optimize-llm-kv-cache-gpu-performance/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-01"
+  },
+  {
+   "id": "bf9333c07964",
+   "type": "news",
+   "title": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
+   "title_orig": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
+   "url": "https://www.geektime.co.il/anthropic-claude-code-blocks-game-reverse-engineering/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-01"
+  },
   {
    "id": "9f56e268b05e",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Sullivan & Cromwell brings legal expertise into agreement review",
    "url": "https://openai.com/index/sullivan-cromwell",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "d5bac5a69bce",
-   "type": "news",
-   "title": "Meta launches an open-weight AI model that runs on Macs",
-   "title_orig": "Meta launches an open-weight AI model that runs on Macs",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "a983409c8d0b",
-   "type": "news",
-   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-   "title_orig": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-15"
   }
