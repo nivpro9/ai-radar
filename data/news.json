@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-02T15:35:00+00:00",
+ "updated": "2026-11-02T23:25:17+00:00",
  "items": [
+  {
+   "id": "b2485c91dd17",
+   "type": "news",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "title_orig": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "855688c450b2",
+   "type": "news",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "title_orig": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "60a2f0712c33",
+   "type": "news",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "title_orig": "Web host Squarespace lays off 19% of its employees",
+   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "a437782712b7",
+   "type": "news",
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "title_orig": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "133799eedc2b",
+   "type": "news",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "title_orig": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "272a05aa5da7",
+   "type": "news",
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "title_orig": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "e3f3f6c0c50f",
+   "type": "news",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "title_orig": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "16194c055af9",
+   "type": "news",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "title_orig": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "dc6c7ef2ed74",
+   "type": "news",
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "title_orig": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "1126d665d260",
+   "type": "news",
+   "title": "Raising the quality of insights in agentic analytics",
+   "title_orig": "Raising the quality of insights in agentic analytics",
+   "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "4dded51f71fc",
+   "type": "news",
+   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+   "title_orig": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+   "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "7bff3ad3cf63",
+   "type": "news",
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "title_orig": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "ed4b58253682",
+   "type": "news",
+   "title": "LifeVal",
+   "title_orig": "LifeVal",
+   "url": "https://openai.com/index/lifeval",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "598c6194c0d3",
+   "type": "news",
+   "title": "Qodo builds context into AI code review with Codex",
+   "title_orig": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "1802721ebc5f",
+   "type": "news",
+   "title": "The latest AI news we announced in October 2026",
+   "title_orig": "The latest AI news we announced in October 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
   {
    "id": "31255b2b57a8",
    "type": "news",
@@ -100,6 +250,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-02"
+  },
+  {
+   "id": "8a042d77f1d6",
+   "type": "news",
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "title_orig": "Data centers are now a midterm issue, even in Brooklyn",
+   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-01"
   },
   {
    "id": "0dbf0226aa90",
@@ -3822,182 +3982,22 @@
    "date": "2026-10-17"
   },
   {
+   "id": "849b423196d1",
+   "type": "news",
+   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "title_orig": "Welcome Beam: a 501B open model you can own, customize, and scale",
+   "url": "https://huggingface.co/blog/reflection-beam",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-16"
+  },
+  {
    "id": "4a2f3ca18eb9",
    "type": "news",
    "title": "Benefit Street Partners answers questions faster with Codex",
    "title_orig": "Benefit Street Partners answers questions faster with Codex",
    "url": "https://openai.com/index/benefit-street-partners",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "18f9fd010555",
-   "type": "news",
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "title_orig": "Replit is no longer working with Anthropic, CEO says",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "e86f92efb265",
-   "type": "news",
-   "title": "OpenAI models hacked a crypto wallet and breached more websites",
-   "title_orig": "OpenAI models hacked a crypto wallet and breached more websites",
-   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "65442e708214",
-   "type": "news",
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "title_orig": "How Itaú is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "c74e5a79a0e1",
-   "type": "news",
-   "title": "India becomes the latest country to report rogue AI agent activity",
-   "title_orig": "India becomes the latest country to report rogue AI agent activity",
-   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "8069354151ed",
-   "type": "news",
-   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "title_orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "2727d1daacce",
-   "type": "news",
-   "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-   "title_orig": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-   "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "9db4940a53f8",
-   "type": "news",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "title_orig": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "1db14d807722",
-   "type": "news",
-   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-   "title_orig": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "84c2c565c396",
-   "type": "news",
-   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-   "title_orig": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "1aa8b1ac1c09",
-   "type": "news",
-   "title": "Elorian’s first AI model wants to reason with images, not just about them",
-   "title_orig": "Elorian’s first AI model wants to reason with images, not just about them",
-   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "351478776159",
-   "type": "news",
-   "title": "Jev is Vercel’s fastest-adopted AI model ever",
-   "title_orig": "Jev is Vercel’s fastest-adopted AI model ever",
-   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "de3d82224bc1",
-   "type": "news",
-   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-   "title_orig": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "311fa86942b3",
-   "type": "news",
-   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-   "title_orig": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "e6b0c9baa366",
-   "type": "news",
-   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-   "title_orig": "Replit’s CEO says the future of work is the ‘self-driving company’",
-   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "3d6f16cf09a8",
-   "type": "news",
-   "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-   "title_orig": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-   "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "ad3a47861a30",
-   "type": "news",
-   "title": "Meta’s new terms may allow it to train AI on news sites for free",
-   "title_orig": "Meta’s new terms may allow it to train AI on news sites for free",
-   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "3c203c9854b8",
-   "type": "news",
-   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-   "title_orig": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-   "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-   "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-16"
   }
