@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-02T05:49:36+00:00",
+ "updated": "2026-11-02T15:35:00+00:00",
  "items": [
+  {
+   "id": "31255b2b57a8",
+   "type": "news",
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "title_orig": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "b1d1b8b0266c",
+   "type": "news",
+   "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+   "title_orig": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+   "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "1ab8989706ea",
+   "type": "news",
+   "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+   "title_orig": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "f054e35351ae",
+   "type": "news",
+   "title": "Stop counting tokens, start counting what ships",
+   "title_orig": "Stop counting tokens, start counting what ships",
+   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "09bdd94f057e",
+   "type": "news",
+   "title": "The agentic web is here",
+   "title_orig": "The agentic web is here",
+   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "19244c7aa206",
+   "type": "news",
+   "title": "Introducing the Grid Protectors Program",
+   "title_orig": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "d9e05bfa2110",
+   "type": "news",
+   "title": "וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Cursor וקלוד",
+   "title_orig": "וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Cursor וקלוד",
+   "url": "https://www.geektime.co.il/wix-launches-studio-two/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "c0e610c61ebc",
+   "type": "news",
+   "title": "אתם לא לבד: מיטאפ חדש מציע תשובות לבלגן שיוצר ה-AI בפרודקשן ובעלויות",
+   "title_orig": "אתם לא לבד: מיטאפ חדש מציע תשובות לבלגן שיוצר ה-AI בפרודקשן ובעלויות",
+   "url": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup-last-call/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "9b83782892b1",
+   "type": "news",
+   "title": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
+   "title_orig": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
+   "url": "https://www.geektime.co.il/build-ai-factory-multi-agent-collaboration/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "a2c33022df07",
+   "type": "news",
+   "title": "אלו קרנות הון הסיכון המובילות בישראל ב-2026 על פי דן אנד ברדסטריט",
+   "title_orig": "אלו קרנות הון הסיכון המובילות בישראל ב-2026 על פי דן אנד ברדסטריט",
+   "url": "https://www.geektime.co.il/duns-100-top-vc-funds-ranking-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-02"
+  },
   {
    "id": "0dbf0226aa90",
    "type": "news",
@@ -130,6 +230,16 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-31"
+  },
+  {
+   "id": "ea66f5a34808",
+   "type": "news",
+   "title": "Speeding up planning decisions with AI",
+   "title_orig": "Speeding up planning decisions with AI",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-30"
   },
   {
    "id": "5d6f84404e1c",
@@ -3890,116 +4000,6 @@
    "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-16"
-  },
-  {
-   "id": "82d931a544c9",
-   "type": "news",
-   "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-   "title_orig": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-   "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "849b423196d1",
-   "type": "news",
-   "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "title_orig": "Welcome Beam: a 501B open model you can own, customize, and scale",
-   "url": "https://huggingface.co/blog/reflection-beam",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "e58a7932778f",
-   "type": "news",
-   "title": "הכלי הישראלי הזה יוודא שה-AI לא יתמלל אתכם בחשאי",
-   "title_orig": "הכלי הישראלי הזה יוודא שה-AI לא יתמלל אתכם בחשאי",
-   "url": "https://www.geektime.co.il/off-the-record-will-block-ai-from-transcribing-your-convos/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "3a7c6df7b818",
-   "type": "news",
-   "title": "ה-PC הראשון עם מעבד של אנבידיה נוחת בישראל עם מפרט מטורף ומחיר תואם",
-   "title_orig": "ה-PC הראשון עם מעבד של אנבידיה נוחת בישראל עם מפרט מטורף ומחיר תואם",
-   "url": "https://www.geektime.co.il/asus-proart-16-nvidia-rtx/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "ba4e7337aba2",
-   "type": "news",
-   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "title_orig": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "93c17b0f1846",
-   "type": "news",
-   "title": "\"מכוניות מעופפות זה דבר אמיתי\": טסלה חושפת את Tesla Roadster שיכולה לרחף באוויר ולנסוע הפוך",
-   "title_orig": "\"מכוניות מעופפות זה דבר אמיתי\": טסלה חושפת את Tesla Roadster שיכולה לרחף באוויר ולנסוע הפוך",
-   "url": "https://www.geektime.co.il/tesla-roadster-flying-reveal/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-16"
-  },
-  {
-   "id": "1d4cff712a9a",
-   "type": "news",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "title_orig": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "e3c36d4422c6",
-   "type": "news",
-   "title": "Apertus 1.5 Release Notes",
-   "title_orig": "Apertus 1.5 Release Notes",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "9d251ac6836a",
-   "type": "news",
-   "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "title_orig": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "url": "https://huggingface.co/blog/meta-muse-spark-open",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "3733c75a28bf",
-   "type": "news",
-   "title": "Welcome FLUX.3 Image Klein in Diffusers",
-   "title_orig": "Welcome FLUX.3 Image Klein in Diffusers",
-   "url": "https://huggingface.co/blog/flux-3",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-15"
-  },
-  {
-   "id": "aae90d6b2dab",
-   "type": "news",
-   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "title_orig": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-15"
   }
  ]
 }
