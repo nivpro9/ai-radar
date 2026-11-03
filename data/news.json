@@ -1,6 +1,236 @@
 {
- "updated": "2026-11-03T14:59:11+00:00",
+ "updated": "2026-11-03T20:53:41+00:00",
  "items": [
+  {
+   "id": "42ec3b43220b",
+   "type": "news",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "title_orig": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "36315b3cb5b6",
+   "type": "news",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "title_orig": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "a4abd1e2a1c1",
+   "type": "news",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "title_orig": "Anthropic is still grappling with the economics of compute",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "ba273efe94ab",
+   "type": "news",
+   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "title_orig": "Google will let schools disable its AI tools, but not without sacrificing Search",
+   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "b20c657114df",
+   "type": "news",
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "title_orig": "Apple restricts dating apps and AI companions to users 18 and up",
+   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "49792679d79f",
+   "type": "news",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "title_orig": "Apple starts giving Siri AI access to third-party apps",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "62af55115339",
+   "type": "news",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "title_orig": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "662bf89dbff2",
+   "type": "news",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "title_orig": "OpenAI says ChatGPT is catching up to Google in search",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "db1d0915e442",
+   "type": "news",
+   "title": "Indie games are missing launch dates because Steam is backed up",
+   "title_orig": "Indie games are missing launch dates because Steam is backed up",
+   "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "c65f77dcf81d",
+   "type": "news",
+   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "title_orig": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "0eaf3e3a7544",
+   "type": "news",
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "title_orig": "Google is entirely disabling Search in schools that don’t want AI",
+   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "85827c831b0b",
+   "type": "news",
+   "title": "Midterm elections 2026: all the news",
+   "title_orig": "Midterm elections 2026: all the news",
+   "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "dde5f3bd6293",
+   "type": "news",
+   "title": "Apple is all in on AI — its own and everyone else’s",
+   "title_orig": "Apple is all in on AI — its own and everyone else’s",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "32791f69eb2c",
+   "type": "news",
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "title_orig": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "d3f05a61364c",
+   "type": "news",
+   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "title_orig": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "f3b71b18e198",
+   "type": "news",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "title_orig": "Google will let schools skip AI tools, but they have to give up search, too",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "26c6032e1d26",
+   "type": "news",
+   "title": "Accelerating engineering for the physical world",
+   "title_orig": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "a2357e701f02",
+   "type": "news",
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "title_orig": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "3d509e27bae2",
+   "type": "news",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "title_orig": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "adafdd4764cb",
+   "type": "news",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "title_orig": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "a55665cf4895",
+   "type": "news",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "title_orig": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "bc4177032a04",
+   "type": "news",
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "title_orig": "Palette: teaching a small model to build decks in your design language",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "20954e3ac0ff",
+   "type": "news",
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "title_orig": "CWE-bench v2: More coverage, quality, and transparency",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
   {
    "id": "b5b460571a4b",
    "type": "news",
@@ -3770,236 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-19"
-  },
-  {
-   "id": "fef6e8089579",
-   "type": "news",
-   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-   "title_orig": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "7a364f356aab",
-   "type": "news",
-   "title": "Advancing Coding in Low-Resource Programming Languages",
-   "title_orig": "Advancing Coding in Low-Resource Programming Languages",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "1ef5dd457f6d",
-   "type": "news",
-   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-   "title_orig": "Tolan snags $30M for its AI companion that helps users navigate life",
-   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "a8d6030b440a",
-   "type": "news",
-   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "title_orig": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "25c38f880dd1",
-   "type": "news",
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "title_orig": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "69bd463197ee",
-   "type": "news",
-   "title": "People are using AI to make their smart TVs dumb again",
-   "title_orig": "People are using AI to make their smart TVs dumb again",
-   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "c33a66b4df03",
-   "type": "news",
-   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-   "title_orig": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "448617650f8a",
-   "type": "news",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "title_orig": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "fd89b9b5cd58",
-   "type": "news",
-   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "title_orig": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "c08e28e17ab3",
-   "type": "news",
-   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "title_orig": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "59d7a6203965",
-   "type": "news",
-   "title": "Making the internet better for AI agents might make it worse for everyone else",
-   "title_orig": "Making the internet better for AI agents might make it worse for everyone else",
-   "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "53a5a39bf873",
-   "type": "news",
-   "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-   "title_orig": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "1375bb961f6a",
-   "type": "news",
-   "title": "AI game clones are making indie developers afraid to show their work",
-   "title_orig": "AI game clones are making indie developers afraid to show their work",
-   "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "b3d41182461b",
-   "type": "news",
-   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-   "title_orig": "Disney found a way to buy Character.AI without buying its lawsuits",
-   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "9dbc0d55ff91",
-   "type": "news",
-   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-   "title_orig": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-   "url": "https://huggingface.co/blog/hf-torchneuron",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "9279cf6bb0c3",
-   "type": "news",
-   "title": "Democrats think cracking down on AI could give them an edge",
-   "title_orig": "Democrats think cracking down on AI could give them an edge",
-   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "dce24a8973ca",
-   "type": "news",
-   "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-   "title_orig": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "887ea26336be",
-   "type": "news",
-   "title": "\"תוכנה שמשפרת את עצמה\": הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים",
-   "title_orig": "\"תוכנה שמשפרת את עצמה\": הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים",
-   "url": "https://www.geektime.co.il/doubleai-amnon-shashua-cem-formal-verification-funding/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "399464ec1d55",
-   "type": "news",
-   "title": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
-   "title_orig": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
-   "url": "https://www.geektime.co.il/cloud-ai-day-tel-aviv-2026-save-the-date/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "9e42594910c9",
-   "type": "news",
-   "title": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
-   "title_orig": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
-   "url": "https://www.geektime.co.il/israel-high-tech-ai-advantage/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "e433396c6f76",
-   "type": "news",
-   "title": "בוגרי Y Combinator הישראלים מוכרים את הסטארטאפ ביותר מ-40 מיליון דולר",
-   "title_orig": "בוגרי Y Combinator הישראלים מוכרים את הסטארטאפ ביותר מ-40 מיליון דולר",
-   "url": "https://www.geektime.co.il/y-combinator-alumni-elementry-data-acquired/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "d247a188bb4c",
-   "type": "news",
-   "title": "אנת'רופיק מודה: לא ממש מגייסים ג'וניורים",
-   "title_orig": "אנת'רופיק מודה: לא ממש מגייסים ג'וניורים",
-   "url": "https://www.geektime.co.il/anthropic-junior-hiring-ai-agents/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "efeb3746fdd3",
-   "type": "news",
-   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "title_orig": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-18"
   }
  ]
 }
