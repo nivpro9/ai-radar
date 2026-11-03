@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-03T06:31:43+00:00",
+ "updated": "2026-11-03T14:59:11+00:00",
  "items": [
+  {
+   "id": "b5b460571a4b",
+   "type": "news",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "title_orig": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "994bc94aa467",
+   "type": "news",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "title_orig": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "0947affcb4cc",
+   "type": "news",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "title_orig": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "0e022216c2cb",
+   "type": "news",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "title_orig": "How “reverse game theory” could keep AI agents in check",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "08b710f1e780",
+   "type": "news",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "title_orig": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "fec0e46ceba4",
+   "type": "news",
+   "title": "Transformers Model Integration Contracts",
+   "title_orig": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "1478c82ad409",
+   "type": "news",
+   "title": "ה-AI מטשטש את הגבול בין פרודקט, דיזיין ופיתוח, וחייבים לדעת מתי לעצור",
+   "title_orig": "ה-AI מטשטש את הגבול בין פרודקט, דיזיין ופיתוח, וחייבים לדעת מתי לעצור",
+   "url": "https://www.geektime.co.il/ai-product-design-dev-boundaries/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-03"
+  },
   {
    "id": "4ed35bdfdb65",
    "type": "news",
@@ -3930,76 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-18"
-  },
-  {
-   "id": "de6b0c59a9e6",
-   "type": "news",
-   "title": "A woman was arrested in Philly for blocking a delivery robot",
-   "title_orig": "A woman was arrested in Philly for blocking a delivery robot",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "218f77bb959f",
-   "type": "news",
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "title_orig": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "56b1c8aea759",
-   "type": "news",
-   "title": "Anthropic gives outside AI watchdog “employee-like” access",
-   "title_orig": "Anthropic gives outside AI watchdog “employee-like” access",
-   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "6f49d2930b06",
-   "type": "news",
-   "title": "לא עוד צ'אטבוט: כך הפכנו את Slack לחמ\"ל של תהליכי ה-GTM שלנו",
-   "title_orig": "לא עוד צ'אטבוט: כך הפכנו את Slack לחמ\"ל של תהליכי ה-GTM שלנו",
-   "url": "https://www.geektime.co.il/building-slack-gtm-ai-orchestrator/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "12636de083da",
-   "type": "news",
-   "title": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
-   "title_orig": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
-   "url": "https://www.geektime.co.il/ventris-acquired-by-hex-rays-ai-cybersecurity/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "c02bc31e1b5f",
-   "type": "news",
-   "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
-   "title_orig": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
-   "url": "https://www.geektime.co.il/apple-meta-muse-spark-open-mac-collaboration/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-18"
-  },
-  {
-   "id": "d4d8a21bd997",
-   "type": "news",
-   "title": "Meta removes language that raised scraping and AI training concerns",
-   "title_orig": "Meta removes language that raised scraping and AI training concerns",
-   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-17"
   }
  ]
 }
