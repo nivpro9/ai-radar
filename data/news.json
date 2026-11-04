@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-04T08:58:54+00:00",
+ "updated": "2026-11-04T17:05:18+00:00",
  "items": [
+  {
+   "id": "472484bded0a",
+   "type": "news",
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "title_orig": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "ac5380eefb5a",
+   "type": "news",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "title_orig": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "6c35d4c93609",
+   "type": "news",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "title_orig": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "0c9cbd4df150",
+   "type": "news",
+   "title": "Data centers lost the midterms",
+   "title_orig": "Data centers lost the midterms",
+   "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "e818c1486ecf",
+   "type": "news",
+   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+   "title_orig": "Uber only fulfilled 4 rides from AI agents last quarter",
+   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "1eb19ba95d16",
+   "type": "news",
+   "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+   "title_orig": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "f11d9a22fb66",
+   "type": "news",
+   "title": "Google hasn’t figured out how to make AI pay like its search engine",
+   "title_orig": "Google hasn’t figured out how to make AI pay like its search engine",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "b71b7365d7a0",
+   "type": "news",
+   "title": "Securing the agentic enterprise with data lineage",
+   "title_orig": "Securing the agentic enterprise with data lineage",
+   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "3a06f84c0f51",
+   "type": "news",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "title_orig": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "75679f5aa60b",
+   "type": "news",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "title_orig": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "3cea8090d75b",
+   "type": "news",
+   "title": "לא באתם לכנס Evolve to AI? הנה כל מה שפספסתם",
+   "title_orig": "לא באתם לכנס Evolve to AI? הנה כל מה שפספסתם",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-recap/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "1f340abc7707",
+   "type": "news",
+   "title": "הטעות שיכולה לעלות לכם 46 אלף דולר ביום",
+   "title_orig": "הטעות שיכולה לעלות לכם 46 אלף דולר ביום",
+   "url": "https://www.geektime.co.il/double-agent-evolve-to-ai-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "15141651b324",
+   "type": "news",
+   "title": "הישראלי הראשון ב-Cognition: \"אין לי בכלל IDE במחשב\"",
+   "title_orig": "הישראלי הראשון ב-Cognition: \"אין לי בכלל IDE במחשב\"",
+   "url": "https://www.geektime.co.il/gilad-samules-cognition-geektime-evolve-ai-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "6ebc40e6001b",
+   "type": "news",
+   "title": "אלופים באבטחת ענן? בואו להוכיח את זה בתחרות Capture the Flag חדשה",
+   "title_orig": "אלופים באבטחת ענן? בואו להוכיח את זה בתחרות Capture the Flag חדשה",
+   "url": "https://www.geektime.co.il/capture-the-flag-find-the-threat-26112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "527b5f7ca2d8",
+   "type": "news",
+   "title": "כך בנה צוות של 10 ישראלים דפדפן עם מיליוני הורדות",
+   "title_orig": "כך בנה צוות של 10 ישראלים דפדפן עם מיליוני הורדות",
+   "url": "https://www.geektime.co.il/arpeely-ace-browser-against-the-world/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "834c926d0869",
+   "type": "news",
+   "title": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
+   "title_orig": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
+   "url": "https://www.geektime.co.il/sentra-nabs-major-funding-round/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "37b8547e47f4",
+   "type": "news",
+   "title": "\"מפתחים, תפסיקו להיות Meat Proxy\"",
+   "title_orig": "\"מפתחים, תפסיקו להיות Meat Proxy\"",
+   "url": "https://www.geektime.co.il/aws-software-factory-meat-proxy-ai/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "cd5aea12f1d2",
+   "type": "news",
+   "title": "\"הסוכנים בהגדרה הם לא רעים, הם פשוט רוצים להצליח\"",
+   "title_orig": "\"הסוכנים בהגדרה הם לא רעים, הם פשוט רוצים להצליח\"",
+   "url": "https://www.geektime.co.il/upwind-security-geektime-evole-to-ai-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
   {
    "id": "82e9371b43f4",
    "type": "news",
@@ -3622,6 +3802,16 @@
    "date": "2026-10-21"
   },
   {
+   "id": "3eb18e5ff7f2",
+   "type": "news",
+   "title": "MPS in PyTorch 2.15",
+   "title_orig": "MPS in PyTorch 2.15",
+   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
    "id": "2d379e8ffc91",
    "type": "news",
    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
@@ -3808,196 +3998,6 @@
    "title_orig": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
    "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "90e877c10910",
-   "type": "news",
-   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-   "title_orig": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "b3fcb2e42d32",
-   "type": "news",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "title_orig": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "dbaa90254253",
-   "type": "news",
-   "title": "OpenAI acquires Orchestra Bio",
-   "title_orig": "OpenAI acquires Orchestra Bio",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "4eb9f7080b11",
-   "type": "news",
-   "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-   "title_orig": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "ca293d8533a3",
-   "type": "news",
-   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-   "title_orig": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-   "url": "https://huggingface.co/blog/allenai/fairstress",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "94e7f4f5c0e5",
-   "type": "news",
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "title_orig": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "84cd8d44e982",
-   "type": "news",
-   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-   "title_orig": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-   "url": "https://huggingface.co/blog/hf-torchtpu",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "a8f19e12b127",
-   "type": "news",
-   "title": "כנס הפיתוח וה-AI של גיקטיים מציע פתרון אמיתי לבעיית הסוכן הכפול",
-   "title_orig": "כנס הפיתוח וה-AI של גיקטיים מציע פתרון אמיתי לבעיית הסוכן הכפול",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-double-agent/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "aeac09f5d4b4",
-   "type": "news",
-   "title": "החל מהיום: משקפי ה-AI של מטא זמינים רשמית לרכישה בישראל",
-   "title_orig": "החל מהיום: משקפי ה-AI של מטא זמינים רשמית לרכישה בישראל",
-   "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-now-in-israel/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "b3c5441d5c67",
-   "type": "news",
-   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-   "title_orig": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-   "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "3309b6ce15f4",
-   "type": "news",
-   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "title_orig": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "15705003f60b",
-   "type": "news",
-   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-   "title_orig": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "82497db5b87a",
-   "type": "news",
-   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-   "title_orig": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "b0930e389e92",
-   "type": "news",
-   "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-   "title_orig": "Yelp can now call on your behalf to check wait times at a restaurant",
-   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "e85a4c5da2af",
-   "type": "news",
-   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "title_orig": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "af3e08fe45e1",
-   "type": "news",
-   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "title_orig": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "0a18db4caf21",
-   "type": "news",
-   "title": "AI adoption by industry shows what other sectors can learn",
-   "title_orig": "AI adoption by industry shows what other sectors can learn",
-   "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "add383da2fc0",
-   "type": "news",
-   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-   "title_orig": "Meta Muse exposes users' personal and business secrets when they share conversations",
-   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "2596ff929aee",
-   "type": "news",
-   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "title_orig": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-10-20"
   }
