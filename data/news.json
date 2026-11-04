@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-03T20:53:41+00:00",
+ "updated": "2026-11-04T01:13:14+00:00",
  "items": [
+  {
+   "id": "5d47252e76d4",
+   "type": "news",
+   "title": "The biggest modding site in PC gaming is taking a stance on AI",
+   "title_orig": "The biggest modding site in PC gaming is taking a stance on AI",
+   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "993e48dc4504",
+   "type": "news",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "title_orig": "Anthropic is working on a system to prove AI models’ identity",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "97ea381abb97",
+   "type": "news",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "title_orig": "Data centers are turning to old jet engines as the wait for power grows",
+   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "f7b02949050d",
+   "type": "news",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "title_orig": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "032b81f3baec",
+   "type": "news",
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "title_orig": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "64fbdbf83ed1",
+   "type": "news",
+   "title": "Please stop asking me when the AI bubble will pop",
+   "title_orig": "Please stop asking me when the AI bubble will pop",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "39cfcbde58ed",
+   "type": "news",
+   "title": "Those Jeff Bezos hair transplant photos are very fake",
+   "title_orig": "Those Jeff Bezos hair transplant photos are very fake",
+   "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
   {
    "id": "42ec3b43220b",
    "type": "news",
@@ -1440,6 +1510,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-29"
+  },
+  {
+   "id": "bbd4d7a8dcb5",
+   "type": "news",
+   "title": "Evernote turns AI-driven discovery into paid subscriptions",
+   "title_orig": "Evernote turns AI-driven discovery into paid subscriptions",
+   "url": "https://openai.com/ads/customers/evernote",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-10-28"
   },
   {
    "id": "1134b6a1764a",
@@ -3920,86 +4000,6 @@
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-10-20"
-  },
-  {
-   "id": "e9f6e03adc36",
-   "type": "news",
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "title_orig": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "c86664b601af",
-   "type": "news",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "title_orig": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "2eba6fdc38ff",
-   "type": "news",
-   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "title_orig": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "0e19bec78e36",
-   "type": "news",
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "title_orig": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "8a1ba0c934b0",
-   "type": "news",
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "title_orig": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "141841bfba33",
-   "type": "news",
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "title_orig": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "50c115309d98",
-   "type": "news",
-   "title": "The fossil fuel comeback is here",
-   "title_orig": "The fossil fuel comeback is here",
-   "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-19"
-  },
-  {
-   "id": "073765c16b49",
-   "type": "news",
-   "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-   "title_orig": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-19"
   }
  ]
 }
