@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-04T17:05:18+00:00",
+ "updated": "2026-11-04T22:34:15+00:00",
  "items": [
+  {
+   "id": "858a2ce3283f",
+   "type": "news",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "title_orig": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "94c502abbc46",
+   "type": "news",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "title_orig": "Almost no one uses AI agents to book their Uber, company says",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "a1e153edc152",
+   "type": "news",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "title_orig": "OpenAI is already trying to shape the 2028 election",
+   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "d23caa988630",
+   "type": "news",
+   "title": "Meta acquires AI coding startup Conductor",
+   "title_orig": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "49cf82dfae35",
+   "type": "news",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "title_orig": "Open source AI is booming. Hugging Face explains who profits.",
+   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "f1f26a9d7d87",
+   "type": "news",
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "title_orig": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "bb779f39a67b",
+   "type": "news",
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "title_orig": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "4c9b76bc0bf9",
+   "type": "news",
+   "title": "17 better ways Elon Musk could have wasted $446 million",
+   "title_orig": "17 better ways Elon Musk could have wasted $446 million",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "b6ceabf91c49",
+   "type": "news",
+   "title": "Gemini for Home now plugs into AT&T’s smart security system",
+   "title_orig": "Gemini for Home now plugs into AT&T’s smart security system",
+   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "d0178f35064d",
+   "type": "news",
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "title_orig": "Nothing teases a screen-free AI device ahead of launch next month",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "3fdace98b464",
+   "type": "news",
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "title_orig": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "026e4ebd4085",
+   "type": "news",
+   "title": "ChatGPT will now make you animated GIFs",
+   "title_orig": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "dda2b2db6c67",
+   "type": "news",
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "title_orig": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "44e59e6a2681",
+   "type": "news",
+   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "title_orig": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "a4f4c423c542",
+   "type": "news",
+   "title": "A thousand fewer paths to root",
+   "title_orig": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "bf25be8f8779",
+   "type": "news",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "title_orig": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "5afc49da7bd4",
+   "type": "news",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "title_orig": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
   {
    "id": "472484bded0a",
    "type": "news",
@@ -3802,202 +3972,32 @@
    "date": "2026-10-21"
   },
   {
+   "id": "84cd8d44e982",
+   "type": "news",
+   "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "title_orig": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/hf-torchtpu",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "2596ff929aee",
+   "type": "news",
+   "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "title_orig": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-20"
+  },
+  {
    "id": "3eb18e5ff7f2",
    "type": "news",
    "title": "MPS in PyTorch 2.15",
    "title_orig": "MPS in PyTorch 2.15",
    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "2d379e8ffc91",
-   "type": "news",
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "title_orig": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "a84b6a7bee5c",
-   "type": "news",
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "title_orig": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "url": "https://openai.com/index/terminal-x",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "b6629abae55b",
-   "type": "news",
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "title_orig": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "342f3b31d430",
-   "type": "news",
-   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "title_orig": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "dd8747983c69",
-   "type": "news",
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "title_orig": "Anthropic’s cloud partnerships are getting messy",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "4e839948c5b0",
-   "type": "news",
-   "title": "SpaceX’s AI business is beating expectations",
-   "title_orig": "SpaceX’s AI business is beating expectations",
-   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "aeaa448f66c5",
-   "type": "news",
-   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "title_orig": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "6559d9cb2b55",
-   "type": "news",
-   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "title_orig": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "7f6bb9c0aa50",
-   "type": "news",
-   "title": "Google’s more personalized Gemini AI is heading to your car",
-   "title_orig": "Google’s more personalized Gemini AI is heading to your car",
-   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "a054bcdb2791",
-   "type": "news",
-   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-   "title_orig": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-   "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "938ea47a6b58",
-   "type": "news",
-   "title": "Gemini's Personal Intelligence is coming to cars",
-   "title_orig": "Gemini's Personal Intelligence is coming to cars",
-   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "2e553dc45565",
-   "type": "news",
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "b799bf523cce",
-   "type": "news",
-   "title": "ChatGPT now lets you lock your chats",
-   "title_orig": "ChatGPT now lets you lock your chats",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "7fe075e5e5f0",
-   "type": "news",
-   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "title_orig": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "319f79c551ee",
-   "type": "news",
-   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-   "title_orig": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "87c5cb39af2e",
-   "type": "news",
-   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-   "title_orig": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "f52190a49967",
-   "type": "news",
-   "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "title_orig": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "ebc7ad18c4ce",
-   "type": "news",
-   "title": "The new economics of enterprise AI",
-   "title_orig": "The new economics of enterprise AI",
-   "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "ecaaea07b740",
-   "type": "news",
-   "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-   "title_orig": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-   "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-   "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-20"
   }
