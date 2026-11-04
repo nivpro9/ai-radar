@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-04T01:13:14+00:00",
+ "updated": "2026-11-04T08:58:54+00:00",
  "items": [
+  {
+   "id": "82e9371b43f4",
+   "type": "news",
+   "title": "ההכרזות של GitHub מגיעות לתל אביב: בואו לראות מקרוב כל מה שחדש",
+   "title_orig": "ההכרזות של GitHub מגיעות לתל אביב: בואו לראות מקרוב כל מה שחדש",
+   "url": "https://www.geektime.co.il/github-winter-event-2026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "b7014b4ad263",
+   "type": "news",
+   "title": "אחרי שגייס 127 מיליון דולר: נסגר הסטארטאפ הקודם שהקים מאור שלמה",
+   "title_orig": "אחרי שגייס 127 מיליון דולר: נסגר הסטארטאפ הקודם שהקים מאור שלמה",
+   "url": "https://www.geektime.co.il/explorium-startup-shuts-down-ai-agents-data/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
+  },
   {
    "id": "5d47252e76d4",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "3eb18e5ff7f2",
-   "type": "news",
-   "title": "MPS in PyTorch 2.15",
-   "title_orig": "MPS in PyTorch 2.15",
-   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-20"
-  },
-  {
-   "id": "56702cb0c64f",
-   "type": "news",
-   "title": "A visit to Samsung’s massive new semiconductor hub",
-   "title_orig": "A visit to Samsung’s massive new semiconductor hub",
-   "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-10-20"
   }
