@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-05T03:25:30+00:00",
+ "updated": "2026-11-05T12:09:38+00:00",
  "items": [
+  {
+   "id": "b8c0e66ba855",
+   "type": "news",
+   "title": "Big Tech’s big AI buildout will not end until someone stops it",
+   "title_orig": "Big Tech’s big AI buildout will not end until someone stops it",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "4513cd1ca7d8",
+   "type": "news",
+   "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+   "title_orig": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+   "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "f93567576105",
+   "type": "news",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "title_orig": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "89209ab642b1",
+   "type": "news",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "title_orig": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "1fafaad6b57b",
+   "type": "news",
+   "title": "פיצ'ר התרגום של Google Meet תומך סוף סוף גם בעברית – וזה די משוגע",
+   "title_orig": "פיצ'ר התרגום של Google Meet תומך סוף סוף גם בעברית – וזה די משוגע",
+   "url": "https://www.geektime.co.il/google-meet-live-translate-now-supports-hebrew/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-05"
+  },
   {
    "id": "aa3b92b87c68",
    "type": "news",
@@ -20,6 +70,16 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-05"
+  },
+  {
+   "id": "16ca88547863",
+   "type": "news",
+   "title": "במקום לנחש איזה מודל יצליח, תנו לסוכני ה-AI לבחור בעצמם",
+   "title_orig": "במקום לנחש איזה מודל יצליח, תנו לסוכני ה-AI לבחור בעצמם",
+   "url": "https://www.geektime.co.il/evolve-to-ai-2026-red-hat/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-04"
   },
   {
    "id": "a331696f9782",
@@ -3662,6 +3722,16 @@
    "date": "2026-10-22"
   },
   {
+   "id": "6bc0a4e087e6",
+   "type": "news",
+   "title": "Southeast Asia’s digital economy to hit $368 billion",
+   "title_orig": "Southeast Asia’s digital economy to hit $368 billion",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-21"
+  },
+  {
    "id": "f7403dc55170",
    "type": "news",
    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
@@ -3929,76 +3999,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
    "source": "The Verge",
    "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "61f4d0141ff3",
-   "type": "news",
-   "title": "OpenAI models are coming to Google Cloud",
-   "title_orig": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "74fcf21eca7a",
-   "type": "news",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "title_orig": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "1de8e62ff715",
-   "type": "news",
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "title_orig": "Using thousands of AI agents to uncover new leads in biological data",
-   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "edef63b51aed",
-   "type": "news",
-   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "title_orig": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "url": "https://openai.com/index/building-chatgpt-ad-stack",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "9b35c0bfb2f0",
-   "type": "news",
-   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "title_orig": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "38715d90bd30",
-   "type": "news",
-   "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-   "title_orig": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "a5d5ea43e0be",
-   "type": "news",
-   "title": "תסמונת הסטארטרק ו-2 המלכודות של ארגונים בהטמעת סוכני AI",
-   "title_orig": "תסמונת הסטארטרק ו-2 המלכודות של ארגונים בהטמעת סוכני AI",
-   "url": "https://www.geektime.co.il/multi-agent-vs-single-agent-fintech-compliance/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-21"
   }
  ]
