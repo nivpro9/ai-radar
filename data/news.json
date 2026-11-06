@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-05T20:35:43+00:00",
+ "updated": "2026-11-06T01:28:45+00:00",
  "items": [
+  {
+   "id": "85f398082dad",
+   "type": "news",
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "title_orig": "OpenAI is stepping back from NDAs for data center projects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "cc48f8093c5b",
+   "type": "news",
+   "title": "Airbnb is working on an AI travel agent",
+   "title_orig": "Airbnb is working on an AI travel agent",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "1eac7fe42e87",
+   "type": "news",
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "title_orig": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "8e75ec02fc50",
+   "type": "news",
+   "title": "Perplexity launches its own take on AI agents for work",
+   "title_orig": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "56b7bacf1dd0",
+   "type": "news",
+   "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+   "title_orig": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+   "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "b0ae5318dec9",
+   "type": "news",
+   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "title_orig": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "c88b52d0b210",
+   "type": "news",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "title_orig": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "300d91101f21",
+   "type": "news",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "title_orig": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "1f9981de5700",
+   "type": "news",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "title_orig": "Flipsnack grows product signups with conversion optimization",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
+  {
+   "id": "c0d7b0808284",
+   "type": "news",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "title_orig": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
+  },
   {
    "id": "3c0e84566a0e",
    "type": "news",
@@ -3900,106 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-10-22"
-  },
-  {
-   "id": "1ab6b1fbef69",
-   "type": "news",
-   "title": "AI’s hidden storage bill: What inference leaves behind",
-   "title_orig": "AI’s hidden storage bill: What inference leaves behind",
-   "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "5d118fadbe79",
-   "type": "news",
-   "title": "Ensemble forecasting with IBM Granite time-series models",
-   "title_orig": "Ensemble forecasting with IBM Granite time-series models",
-   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "73903ad2f7f6",
-   "type": "news",
-   "title": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
-   "title_orig": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
-   "url": "https://www.geektime.co.il/gm-ai-autonomous-israel/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "45c7c2bf5f27",
-   "type": "news",
-   "title": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
-   "title_orig": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
-   "url": "https://www.geektime.co.il/mongodb-local-tel-aviv-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "493b726e2bac",
-   "type": "news",
-   "title": "אנת'רופיק חושפת עוזר AI חדש, Claude Duet, שיעבוד במקומכם",
-   "title_orig": "אנת'רופיק חושפת עוזר AI חדש, Claude Duet, שיעבוד במקומכם",
-   "url": "https://www.geektime.co.il/anthropic-launches-claude-duet-ai-agent/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "6bc0a4e087e6",
-   "type": "news",
-   "title": "Southeast Asia’s digital economy to hit $368 billion",
-   "title_orig": "Southeast Asia’s digital economy to hit $368 billion",
-   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "f7403dc55170",
-   "type": "news",
-   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-   "title_orig": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "9201054eeb4c",
-   "type": "news",
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "title_orig": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "3acc865d1f4f",
-   "type": "news",
-   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-   "title_orig": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-21"
-  },
-  {
-   "id": "bee997298d40",
-   "type": "news",
-   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "title_orig": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-21"
   }
  ]
 }
