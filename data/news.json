@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-06T01:28:45+00:00",
+ "updated": "2026-11-06T09:15:33+00:00",
  "items": [
+  {
+   "id": "904574e3ce24",
+   "type": "news",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "title_orig": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
   {
    "id": "85f398082dad",
    "type": "news",
@@ -20,6 +30,16 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-11-06"
+  },
+  {
+   "id": "b58fee4edbbb",
+   "type": "news",
+   "title": "Australian universities are creating AI-native graduates",
+   "title_orig": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-05"
   },
   {
    "id": "1eac7fe42e87",
@@ -3979,26 +3999,6 @@
    "url": "https://openai.com/index/forward-deployed-engineering-means",
    "source": "OpenAI",
    "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "655df0fb22ac",
-   "type": "news",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "title_orig": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "ceaa61c362ad",
-   "type": "news",
-   "title": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
-   "title_orig": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
-   "url": "https://www.geektime.co.il/gemini-agent-cxo-breakfast-roundtable-101126/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-10-22"
   }
  ]
