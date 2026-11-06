@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-06T09:15:33+00:00",
+ "updated": "2026-11-06T17:24:04+00:00",
  "items": [
+  {
+   "id": "ef57b5d47585",
+   "type": "news",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "title_orig": "After the midterms, is the AI industry in for a rough two years?",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "7c70b636a2cf",
+   "type": "news",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "title_orig": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "4a6109d50595",
+   "type": "news",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "title_orig": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "a394d9aad7a2",
+   "type": "news",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "title_orig": "Underdog shows off a 32MB speech model in new demo",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "1f3694f5e3c9",
+   "type": "news",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "title_orig": "Physicl raises $10M to make the digital world real enough for robots",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "91f8d419f4fc",
+   "type": "news",
+   "title": "AI is the new dating dealbreaker",
+   "title_orig": "AI is the new dating dealbreaker",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "22815b4f725e",
+   "type": "news",
+   "title": "Big Tech lost big in the 2026 election",
+   "title_orig": "Big Tech lost big in the 2026 election",
+   "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "c821c11af1c2",
+   "type": "news",
+   "title": "How Akai and Moog are embracing vibe-coded mods",
+   "title_orig": "How Akai and Moog are embracing vibe-coded mods",
+   "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "35ab47bbc76c",
+   "type": "news",
+   "title": "Amazon will let you text Alexa your shopping list",
+   "title_orig": "Amazon will let you text Alexa your shopping list",
+   "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "44766e97c429",
+   "type": "news",
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "title_orig": "Protesters break into Microsoft data center site in Amsterdam",
+   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "93fc4c1ba090",
+   "type": "news",
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "title_orig": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "1b9119e805ea",
+   "type": "news",
+   "title": "Could potential AI clones of GTA VI force a quicker official port?",
+   "title_orig": "Could potential AI clones of GTA VI force a quicker official port?",
+   "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "be1ba71e55b7",
+   "type": "news",
+   "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "title_orig": "ToyBlocks: A controlled world for robot learning and evaluation",
+   "url": "https://huggingface.co/blog/allenai/toyblocks",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "82196d4ece0a",
+   "type": "news",
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "title_orig": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
   {
    "id": "904574e3ce24",
    "type": "news",
@@ -3642,6 +3782,16 @@
    "date": "2026-10-23"
   },
   {
+   "id": "655df0fb22ac",
+   "type": "news",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "title_orig": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-22"
+  },
+  {
    "id": "6372ebaa66c8",
    "type": "news",
    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -3848,156 +3998,6 @@
    "title_orig": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "7faddebfff09",
-   "type": "news",
-   "title": "PHP: The three little letters wreaking havoc across the web",
-   "title_orig": "PHP: The three little letters wreaking havoc across the web",
-   "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "01440c581752",
-   "type": "news",
-   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-   "title_orig": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "ba6fa07d677a",
-   "type": "news",
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "title_orig": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "eaa0ebff7daf",
-   "type": "news",
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "title_orig": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "12d0b1a86546",
-   "type": "news",
-   "title": "Spotify’s current AI bet is about being the music service that agents choose",
-   "title_orig": "Spotify’s current AI bet is about being the music service that agents choose",
-   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "8e16d6a95427",
-   "type": "news",
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "title_orig": "Claude Duet app is Anthropic’s bet on agents",
-   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "d2c9aa9349dc",
-   "type": "news",
-   "title": "Nirva raises $33M for a pendant that only listens to you",
-   "title_orig": "Nirva raises $33M for a pendant that only listens to you",
-   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "2bef5e155399",
-   "type": "news",
-   "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "title_orig": "DeepSeek reportedly raises $15B days after US restrictions",
-   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "12686626013b",
-   "type": "news",
-   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "title_orig": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "633b64365941",
-   "type": "news",
-   "title": "1Password lets AI agents use your passwords without seeing them",
-   "title_orig": "1Password lets AI agents use your passwords without seeing them",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "c24876b37e46",
-   "type": "news",
-   "title": "AI agents are ready to shop. Some retailers are wary.",
-   "title_orig": "AI agents are ready to shop. Some retailers are wary.",
-   "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "ff67e4725a21",
-   "type": "news",
-   "title": "Claude did not invent scorpion antivenom",
-   "title_orig": "Claude did not invent scorpion antivenom",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "e106504eaece",
-   "type": "news",
-   "title": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-   "title_orig": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-   "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "58fe41da7be4",
-   "type": "news",
-   "title": "Making the case for context-aware AI",
-   "title_orig": "Making the case for context-aware AI",
-   "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "63c31ca523f9",
-   "type": "news",
-   "title": "What FDE means at OpenAI",
-   "title_orig": "What FDE means at OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-22"
   }
