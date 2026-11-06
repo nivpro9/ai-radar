@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-06T17:24:04+00:00",
+ "updated": "2026-11-06T22:59:38+00:00",
  "items": [
+  {
+   "id": "118369de89f0",
+   "type": "news",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "title_orig": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "29c568495a81",
+   "type": "news",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "title_orig": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "016e849ea3ab",
+   "type": "news",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "title_orig": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "fc8f30aee8f3",
+   "type": "news",
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "title_orig": "How a Blue Wave midterm might reshape the AI industry",
+   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "c0641eb0de56",
+   "type": "news",
+   "title": "All the latest updates on AI data centers",
+   "title_orig": "All the latest updates on AI data centers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "52e0623fab79",
+   "type": "news",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "title_orig": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "9d00431e265d",
+   "type": "news",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "title_orig": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "bc8f9eac1966",
+   "type": "news",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "title_orig": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "cfd4354afa14",
+   "type": "news",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "title_orig": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-06"
+  },
   {
    "id": "ef57b5d47585",
    "type": "news",
@@ -3908,96 +3998,6 @@
    "title_orig": "Build more responsive apps with the Decisions API",
    "url": "https://openai.com/index/decisions-api",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "95eb6975ad24",
-   "type": "news",
-   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "title_orig": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "fe52d49759b6",
-   "type": "news",
-   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-   "title_orig": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "865ffb65f1d5",
-   "type": "news",
-   "title": "Canva releases its first image generation model",
-   "title_orig": "Canva releases its first image generation model",
-   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "d26ae9b2d9ce",
-   "type": "news",
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "title_orig": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "d1b19037538a",
-   "type": "news",
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "title_orig": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "2e9a4426b964",
-   "type": "news",
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "title_orig": "Uber puts all 30,000 employees on ChatGPT Work",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "7b213ad205a3",
-   "type": "news",
-   "title": "Someone hacked the Switch 2 by using an old game and AI",
-   "title_orig": "Someone hacked the Switch 2 by using an old game and AI",
-   "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "2a8e11324f4e",
-   "type": "news",
-   "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-   "title_orig": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-   "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "540e896edf86",
-   "type": "news",
-   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "title_orig": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-22"
   }
