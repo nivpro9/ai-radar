@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-07T02:41:15+00:00",
+ "updated": "2026-11-07T09:55:03+00:00",
  "items": [
+  {
+   "id": "983b9b8b584c",
+   "type": "news",
+   "title": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
+   "title_orig": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
+   "url": "https://www.geektime.co.il/nvidia-ceo-jensen-huang-chinese-spy-megaspeed/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-07"
+  },
   {
    "id": "c2107a5a7cf6",
    "type": "news",
@@ -3987,16 +3997,6 @@
    "title": "Discord now formats Markdown previews right",
    "title_orig": "Discord now formats Markdown previews right",
    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "2c1b17b37189",
-   "type": "news",
-   "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "title_orig": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-22"
