@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-07T09:55:03+00:00",
+ "updated": "2026-11-07T16:18:14+00:00",
  "items": [
+  {
+   "id": "fa06ff8fdc83",
+   "type": "news",
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "title_orig": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
+  {
+   "id": "73be1ddc7ff2",
+   "type": "news",
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "title_orig": "The US let Nvidia sell chips to an empty office in China",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
+  {
+   "id": "055e03fe8fc4",
+   "type": "news",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "title_orig": "AI broke the cybersecurity world. What’s next?",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
+  {
+   "id": "8879475e62b3",
+   "type": "news",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "title_orig": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
   {
    "id": "983b9b8b584c",
    "type": "news",
@@ -3957,46 +3997,6 @@
    "title": "Canva’s first AI image model plans designs before generating them",
    "title_orig": "Canva’s first AI image model plans designs before generating them",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "29a87826b845",
-   "type": "news",
-   "title": "Meta’s AI could still scrape news sites, legal experts say",
-   "title_orig": "Meta’s AI could still scrape news sites, legal experts say",
-   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "afeec198fbf5",
-   "type": "news",
-   "title": "Meta turns Muse sharing back on",
-   "title_orig": "Meta turns Muse sharing back on",
-   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "3992fc4ed3eb",
-   "type": "news",
-   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-   "title_orig": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "6dc97b2e6ae2",
-   "type": "news",
-   "title": "Discord now formats Markdown previews right",
-   "title_orig": "Discord now formats Markdown previews right",
-   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-22"
