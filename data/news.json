@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-07T16:18:14+00:00",
+ "updated": "2026-11-07T20:48:00+00:00",
  "items": [
+  {
+   "id": "94e2151ed42b",
+   "type": "news",
+   "title": "הכנס הישראלי הראשון לסוכני AI (ועוד כמה המלצות לבני האדם שלהם)",
+   "title_orig": "הכנס הישראלי הראשון לסוכני AI (ועוד כמה המלצות לבני האדם שלהם)",
+   "url": "https://www.geektime.co.il/geek-events-8112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-07"
+  },
   {
    "id": "fa06ff8fdc83",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "1437b0ebe886",
-   "type": "news",
-   "title": "Canva’s first AI image model plans designs before generating them",
-   "title_orig": "Canva’s first AI image model plans designs before generating them",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-22"
   }
