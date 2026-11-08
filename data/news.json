@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-08T19:30:04+00:00",
+ "updated": "2026-11-08T23:38:09+00:00",
  "items": [
+  {
+   "id": "45da7994669e",
+   "type": "news",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "title_orig": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-08"
+  },
+  {
+   "id": "67abd93f196f",
+   "type": "news",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "title_orig": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-08"
+  },
+  {
+   "id": "ecd65815b585",
+   "type": "news",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "title_orig": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-08"
+  },
+  {
+   "id": "5f6025b4ad59",
+   "type": "news",
+   "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
+   "title_orig": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
+   "url": "https://www.geektime.co.il/jensen-huang-admits-to-affair-with-chinese-spy/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-08"
+  },
   {
    "id": "53044e44b3aa",
    "type": "news",
@@ -3958,46 +3998,6 @@
    "title_orig": "Retro gaming is being overrun with AI",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "6430909168b5",
-   "type": "news",
-   "title": "Does Your Model Run on AWS Trainium? Look It Up",
-   "title_orig": "Does Your Model Run on AWS Trainium? Look It Up",
-   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "eac45b36fa1a",
-   "type": "news",
-   "title": "הודעות הסלאק והמיילים של סטארטאפים שנסגרו הם היעד החם של חברות ה-AI",
-   "title_orig": "הודעות הסלאק והמיילים של סטארטאפים שנסגרו הם היעד החם של חברות ה-AI",
-   "url": "https://www.geektime.co.il/slack-dms-are-so-hot-right-now/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "15c1f8ef7a58",
-   "type": "news",
-   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "title_orig": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "3602c8887bef",
-   "type": "news",
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-   "title_orig": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-23"
   }
