@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-08T07:10:52+00:00",
+ "updated": "2026-11-08T15:00:12+00:00",
  "items": [
+  {
+   "id": "2b5134214865",
+   "type": "news",
+   "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
+   "title_orig": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
+   "url": "https://www.geektime.co.il/why-ai-agents-need-company-brain/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-08"
+  },
   {
    "id": "d44fec61ccb7",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "655df0fb22ac",
-   "type": "news",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "title_orig": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "source": "Google DeepMind",
    "lang": "en",
    "date": "2026-10-22"
   }
