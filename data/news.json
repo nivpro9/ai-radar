@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-07T20:48:00+00:00",
+ "updated": "2026-11-08T00:25:00+00:00",
  "items": [
+  {
+   "id": "d44fec61ccb7",
+   "type": "news",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "title_orig": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
+  {
+   "id": "2c93e9013ac1",
+   "type": "news",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "title_orig": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-07"
+  },
   {
    "id": "94e2151ed42b",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Beyond tree cover: mapping the world’s forest types",
    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
    "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "6372ebaa66c8",
-   "type": "news",
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "title_orig": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-22"
-  },
-  {
-   "id": "5d204276414b",
-   "type": "news",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "title_orig": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-22"
   }
