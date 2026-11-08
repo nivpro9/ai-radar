@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-08T15:00:12+00:00",
+ "updated": "2026-11-08T19:30:04+00:00",
  "items": [
+  {
+   "id": "53044e44b3aa",
+   "type": "news",
+   "title": "Apple is racing to make Siri more agentic",
+   "title_orig": "Apple is racing to make Siri more agentic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-08"
+  },
+  {
+   "id": "ae06ecf71872",
+   "type": "news",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "title_orig": "Elvis and Eminem rights holders are suing Suno",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-08"
+  },
   {
    "id": "2b5134214865",
    "type": "news",
@@ -3980,26 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-23"
-  },
-  {
-   "id": "8937fd9c8277",
-   "type": "news",
-   "title": "Left alone with nothing to do, AI agents started playing",
-   "title_orig": "Left alone with nothing to do, AI agents started playing",
-   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "95eb6975ad24",
-   "type": "news",
-   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "title_orig": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-22"
   }
  ]
 }
