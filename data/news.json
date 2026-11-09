@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-09T06:02:35+00:00",
+ "updated": "2026-11-09T16:00:11+00:00",
  "items": [
+  {
+   "id": "bd74b7cf0c1b",
+   "type": "news",
+   "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+   "title_orig": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "42e7d6fc3426",
+   "type": "news",
+   "title": "Innovating with AI in the special chemicals industry",
+   "title_orig": "Innovating with AI in the special chemicals industry",
+   "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "55280474a321",
+   "type": "news",
+   "title": "Nvidia CEO's affair becomes a national security problem",
+   "title_orig": "Nvidia CEO's affair becomes a national security problem",
+   "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "057e22ab69c0",
+   "type": "news",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "title_orig": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "7b1451fc786c",
+   "type": "news",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "title_orig": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "59f3366d41da",
+   "type": "news",
+   "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
+   "title_orig": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
+   "url": "https://www.geektime.co.il/grok-bot-xai-cursor-critical-security-flaw/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "2dedf13b1045",
+   "type": "news",
+   "title": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
+   "title_orig": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
+   "url": "https://www.geektime.co.il/ai-reimagined-26112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "00fb489f729c",
+   "type": "news",
+   "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
+   "title_orig": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
+   "url": "https://www.geektime.co.il/ternus-wants-to-turn-siri-ai-into-muse-like/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-09"
+  },
   {
    "id": "b10abbc74a23",
    "type": "news",
@@ -3918,86 +3998,6 @@
    "title_orig": "OpenAI now trains its frontier AI models with no internet access",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "f490e9c8ed30",
-   "type": "news",
-   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "title_orig": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "6643f32ed82d",
-   "type": "news",
-   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-   "title_orig": "Updated Google privacy policy says your Gmail might be used for advertising",
-   "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "48e2274fdf2b",
-   "type": "news",
-   "title": "Securing our frontier model training environment",
-   "title_orig": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "9ecaeb5e8630",
-   "type": "news",
-   "title": "The iPhone Duo should have been an iPad",
-   "title_orig": "The iPhone Duo should have been an iPad",
-   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "55f38e2b0de9",
-   "type": "news",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "title_orig": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "b2b7ebe6730f",
-   "type": "news",
-   "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-   "title_orig": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-   "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "298c8de07d18",
-   "type": "news",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "d5dfb55b0129",
-   "type": "news",
-   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-   "title_orig": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-   "url": "https://huggingface.co/blog/allenai/litpivot",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-10-23"
   }
