@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-08T23:38:09+00:00",
+ "updated": "2026-11-09T06:02:35+00:00",
  "items": [
+  {
+   "id": "b10abbc74a23",
+   "type": "news",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "title_orig": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
   {
    "id": "45da7994669e",
    "type": "news",
@@ -3852,6 +3862,16 @@
    "date": "2026-10-24"
   },
   {
+   "id": "6430909168b5",
+   "type": "news",
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "title_orig": "Does Your Model Run on AWS Trainium? Look It Up",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-23"
+  },
+  {
    "id": "c6099fc8919f",
    "type": "news",
    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
@@ -3978,26 +3998,6 @@
    "title_orig": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
    "url": "https://huggingface.co/blog/allenai/litpivot",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "d34a3f37bdd3",
-   "type": "news",
-   "title": "Meta delays new business terms after publisher pushback on AI scraping",
-   "title_orig": "Meta delays new business terms after publisher pushback on AI scraping",
-   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "fa80f1a6b4b7",
-   "type": "news",
-   "title": "Retro gaming is being overrun with AI",
-   "title_orig": "Retro gaming is being overrun with AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-23"
   }
