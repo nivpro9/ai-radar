@@ -1,6 +1,266 @@
 {
- "updated": "2026-11-09T16:00:11+00:00",
+ "updated": "2026-11-10T00:08:48+00:00",
  "items": [
+  {
+   "id": "9b0466c1eb02",
+   "type": "news",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "title_orig": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "432027aa0838",
+   "type": "news",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "title_orig": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "09274ed8ecd7",
+   "type": "news",
+   "title": "The race is on to sue Nvidia",
+   "title_orig": "The race is on to sue Nvidia",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "3541a994b8f0",
+   "type": "news",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "title_orig": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "56a49980686e",
+   "type": "news",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "title_orig": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "faa2c8a3a820",
+   "type": "news",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "title_orig": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "99d632aaa416",
+   "type": "news",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "title_orig": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "d75c80b5454d",
+   "type": "news",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "title_orig": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "dbd9680f73cb",
+   "type": "news",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "title_orig": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "285987eab731",
+   "type": "news",
+   "title": "What could China get from Jensen Huang?",
+   "title_orig": "What could China get from Jensen Huang?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "fd48ce2874be",
+   "type": "news",
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "title_orig": "Here’s what Trump said he knew about Jensen Huang",
+   "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "15c28179b2dc",
+   "type": "news",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "title_orig": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "4a7141713ab5",
+   "type": "news",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "title_orig": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "f1eea0a2781a",
+   "type": "news",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "title_orig": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "9d5aee5d27ee",
+   "type": "news",
+   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "title_orig": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "a06869aa80e5",
+   "type": "news",
+   "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "title_orig": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "67d134866a7d",
+   "type": "news",
+   "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "title_orig": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "86961a9937fd",
+   "type": "news",
+   "title": "Disney and Adobe are building generative AI tools together",
+   "title_orig": "Disney and Adobe are building generative AI tools together",
+   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "bce465cdb584",
+   "type": "news",
+   "title": "Hold up — I had a great time talking to the RIAA guy",
+   "title_orig": "Hold up — I had a great time talking to the RIAA guy",
+   "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "c4cbbe764314",
+   "type": "news",
+   "title": "The backlash about data centers might really just be about electricity",
+   "title_orig": "The backlash about data centers might really just be about electricity",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "7f47f4f4451c",
+   "type": "news",
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "title_orig": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "1f917ef42e11",
+   "type": "news",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "title_orig": "Claude Code is accidentally exposing secrets all over GitHub",
+   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "9c331579e229",
+   "type": "news",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "title_orig": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "f37b680abcf7",
+   "type": "news",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "title_orig": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "23b94c697622",
+   "type": "news",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "title_orig": "CodeRabbit scales agentic software development and ships 20x more",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
+   "id": "932fe34bad72",
+   "type": "news",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "title_orig": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
   {
    "id": "bd74b7cf0c1b",
    "type": "news",
@@ -160,6 +420,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-08"
+  },
+  {
+   "id": "0819cd72b72e",
+   "type": "news",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "title_orig": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-07"
   },
   {
    "id": "d44fec61ccb7",
@@ -3730,276 +4000,6 @@
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-10-26"
-  },
-  {
-   "id": "603e1fd3a28b",
-   "type": "news",
-   "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-   "title_orig": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-   "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "e2358621b2db",
-   "type": "news",
-   "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-   "title_orig": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-   "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "400e513e4846",
-   "type": "news",
-   "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-   "title_orig": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-   "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "64d59b55a8fb",
-   "type": "news",
-   "title": "ChatGPT’s expanding world of work",
-   "title_orig": "ChatGPT’s expanding world of work",
-   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "eb7708c5f537",
-   "type": "news",
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "title_orig": "How Fanatics and OpenAI streamline the fan experience",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "188e9fbc4643",
-   "type": "news",
-   "title": "Our newest AI Quest: Mapping the human brain",
-   "title_orig": "Our newest AI Quest: Mapping the human brain",
-   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "6add9717f39f",
-   "type": "news",
-   "title": "כנס Evolve to AI מסביר: מהי הרעלת קונטקסט ואיך תשמרו על הסוכן שלכם?",
-   "title_orig": "כנס Evolve to AI מסביר: מהי הרעלת קונטקסט ואיך תשמרו על הסוכן שלכם?",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-context-poisoning/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "bf7f18e0418c",
-   "type": "news",
-   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-   "title_orig": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "b23877b88e69",
-   "type": "news",
-   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-   "title_orig": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "611184d5aa6f",
-   "type": "news",
-   "title": "The hottest AI wearables and gadgets you should know about",
-   "title_orig": "The hottest AI wearables and gadgets you should know about",
-   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "b366ba776fde",
-   "type": "news",
-   "title": "r/opensource just banned AI, non-English speakers, and more",
-   "title_orig": "r/opensource just banned AI, non-English speakers, and more",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "99c99157c7fa",
-   "type": "news",
-   "title": "Google’s AI search changes upended online publishing",
-   "title_orig": "Google’s AI search changes upended online publishing",
-   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "9a64206afad2",
-   "type": "news",
-   "title": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
-   "title_orig": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
-   "url": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "3262afbd8765",
-   "type": "news",
-   "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
-   "title_orig": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
-   "url": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-25"
-  },
-  {
-   "id": "c95cc9144761",
-   "type": "news",
-   "title": "Will AI expose the rickety infrastructure of the internet?",
-   "title_orig": "Will AI expose the rickety infrastructure of the internet?",
-   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "0509c80e85fb",
-   "type": "news",
-   "title": "Blue Planet III is keeping the rough edges in the age of AI",
-   "title_orig": "Blue Planet III is keeping the rough edges in the age of AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "dbe76530e989",
-   "type": "news",
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "title_orig": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "09a5dda45158",
-   "type": "news",
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "title_orig": "Pennsylvania will require labels on AI-generated ads",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "688136660c10",
-   "type": "news",
-   "title": "Block’s new voice model sounds eerily human",
-   "title_orig": "Block’s new voice model sounds eerily human",
-   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "e4ac1d3f295a",
-   "type": "news",
-   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-   "title_orig": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "4a535eced667",
-   "type": "news",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "title_orig": "Here are the top AI agents that can live in your text messages",
-   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-24"
-  },
-  {
-   "id": "6430909168b5",
-   "type": "news",
-   "title": "Does Your Model Run on AWS Trainium? Look It Up",
-   "title_orig": "Does Your Model Run on AWS Trainium? Look It Up",
-   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "c6099fc8919f",
-   "type": "news",
-   "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-   "title_orig": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-   "url": "https://openai.com/index/anima",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "f699a3e5cdaf",
-   "type": "news",
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "title_orig": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "67ab64203109",
-   "type": "news",
-   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "title_orig": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "4f8bba4990b7",
-   "type": "news",
-   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "title_orig": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-23"
-  },
-  {
-   "id": "f9113fa394af",
-   "type": "news",
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "title_orig": "OpenAI now trains its frontier AI models with no internet access",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-23"
   }
  ]
 }
