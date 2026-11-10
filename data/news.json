@@ -1,6 +1,246 @@
 {
- "updated": "2026-11-10T08:17:07+00:00",
+ "updated": "2026-11-10T16:58:11+00:00",
  "items": [
+  {
+   "id": "196c0edf93f9",
+   "type": "news",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "title_orig": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "a92c103556a0",
+   "type": "news",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "title_orig": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "f9ddc69f8317",
+   "type": "news",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "title_orig": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "9871791e1b1f",
+   "type": "news",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "title_orig": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "f650f08e36be",
+   "type": "news",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "title_orig": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "c188bc0e2291",
+   "type": "news",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "title_orig": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "d8a967756fad",
+   "type": "news",
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "title_orig": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "3e50515c6d1f",
+   "type": "news",
+   "title": "eBay appears to have shut the door on third-party AI agents",
+   "title_orig": "eBay appears to have shut the door on third-party AI agents",
+   "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "a14681e2ddce",
+   "type": "news",
+   "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "title_orig": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "0cd5e191c405",
+   "type": "news",
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "title_orig": "Anthropic targets $1.4 trillion IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "04566ece2f1b",
+   "type": "news",
+   "title": "Adobe is going all in on agentic AI",
+   "title_orig": "Adobe is going all in on agentic AI",
+   "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "015cb2c6872b",
+   "type": "news",
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "title_orig": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "707c973eeceb",
+   "type": "news",
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "title_orig": "Hands-on with Ring’s new AI drone camera for your home",
+   "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "0f696e8c8567",
+   "type": "news",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "title_orig": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "82fda640970b",
+   "type": "news",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "title_orig": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "46ecb159c153",
+   "type": "news",
+   "title": "Helping caregivers use AI in everyday life",
+   "title_orig": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "01a8528fa117",
+   "type": "news",
+   "title": "Closing the AI guidance gap in education",
+   "title_orig": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "3588ceed4155",
+   "type": "news",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "title_orig": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "66ed14c6418f",
+   "type": "news",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "title_orig": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "02e4a20d191a",
+   "type": "news",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "title_orig": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "fc6b6a56df7b",
+   "type": "news",
+   "title": "Gemini 4 Carbon is now available",
+   "title_orig": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "f8c1a7370c13",
+   "type": "news",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "title_orig": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "3229de0d9192",
+   "type": "news",
+   "title": "Decision Models in Hugging Face",
+   "title_orig": "Decision Models in Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "4b17cc70d1ea",
+   "type": "news",
+   "title": "יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה",
+   "title_orig": "יובל זכריה מגייסת 50 מיליון דולר לסטארטאפ שהקימה לפני פחות משנה",
+   "url": "https://www.geektime.co.il/bay-cybersecurity-ai-agents-50m-funding/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-10"
+  },
   {
    "id": "0cb7ad579ad8",
    "type": "news",
@@ -40,6 +280,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-10"
+  },
+  {
+   "id": "7da1b2b4758f",
+   "type": "news",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "title_orig": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-09"
   },
   {
    "id": "9b0466c1eb02",
@@ -3750,256 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-10-27"
-  },
-  {
-   "id": "0d516a24ee36",
-   "type": "news",
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "title_orig": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "ef2da6cf0c5f",
-   "type": "news",
-   "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "title_orig": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "a44b4d5034e5",
-   "type": "news",
-   "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-   "title_orig": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-   "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "5ef94984dce4",
-   "type": "news",
-   "title": "Genie 4: A new generation of world simulation",
-   "title_orig": "Genie 4: A new generation of world simulation",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "34370e88c88d",
-   "type": "news",
-   "title": "Can we trust LLMs to judge whether a research idea is novel?",
-   "title_orig": "Can we trust LLMs to judge whether a research idea is novel?",
-   "url": "https://huggingface.co/blog/allenai/novelty-bench",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "ebd1268e248b",
-   "type": "news",
-   "title": "שלושה עשורים בנינו אתרים לבני אדם. עכשיו, אנחנו בונים אותם לסוכנים",
-   "title_orig": "שלושה עשורים בנינו אתרים לבני אדם. עכשיו, אנחנו בונים אותם לסוכנים",
-   "url": "https://www.geektime.co.il/ai-agents-change-web-design/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "53a2d9483134",
-   "type": "news",
-   "title": "\"לחצנו Scan וחיכינו\": כלי AI בקוד פתוח סידר לחוקרים ישראלים חצי מיליון דולר",
-   "title_orig": "\"לחצנו Scan וחיכינו\": כלי AI בקוד פתוח סידר לחוקרים ישראלים חצי מיליון דולר",
-   "url": "https://www.geektime.co.il/half-a-million-dollar-bounty-from-one-vuln/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "415aa97d276f",
-   "type": "news",
-   "title": "Data center backlash is uniting America",
-   "title_orig": "Data center backlash is uniting America",
-   "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "62ecc12b68be",
-   "type": "news",
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "title_orig": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "9af0a1a0b387",
-   "type": "news",
-   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "title_orig": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "188e9fbc4643",
-   "type": "news",
-   "title": "Our newest AI Quest: Mapping the human brain",
-   "title_orig": "Our newest AI Quest: Mapping the human brain",
-   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "bba291662c45",
-   "type": "news",
-   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "title_orig": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "96b9f45bb2e6",
-   "type": "news",
-   "title": "Anthropic is burning gas to feed the AI boom",
-   "title_orig": "Anthropic is burning gas to feed the AI boom",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "93eb651fa249",
-   "type": "news",
-   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-   "title_orig": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "250e5d8f3024",
-   "type": "news",
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "title_orig": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "f16aefe89a6e",
-   "type": "news",
-   "title": "Working with academic communities to build scientific understanding",
-   "title_orig": "Working with academic communities to build scientific understanding",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "1a1d4bf2fc11",
-   "type": "news",
-   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "title_orig": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "8f2f08b6e197",
-   "type": "news",
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "title_orig": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "url": "https://openai.com/index/openai-cut-incident-investigation",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "1758535ac6be",
-   "type": "news",
-   "title": "Introducing GPT-6.1 Terra",
-   "title_orig": "Introducing GPT-6.1 Terra",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "8d6b6f60f40a",
-   "type": "news",
-   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "title_orig": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "623265788782",
-   "type": "news",
-   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "title_orig": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "7ca6b100a30f",
-   "type": "news",
-   "title": "Anthropic officially files for its public debut",
-   "title_orig": "Anthropic officially files for its public debut",
-   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "2500a6aad874",
-   "type": "news",
-   "title": "The RealReal won’t let AI agents hog designer clothing",
-   "title_orig": "The RealReal won’t let AI agents hog designer clothing",
-   "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "4a8f41d180d7",
-   "type": "news",
-   "title": "Five weird details from Anthropic’s IPO filing",
-   "title_orig": "Five weird details from Anthropic’s IPO filing",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "b8f740314eab",
-   "type": "news",
-   "title": "Microsoft offers buyouts to 60,000 employees",
-   "title_orig": "Microsoft offers buyouts to 60,000 employees",
-   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
   }
  ]
 }
