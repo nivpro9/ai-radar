@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-10T00:08:48+00:00",
+ "updated": "2026-11-10T08:17:07+00:00",
  "items": [
+  {
+   "id": "0cb7ad579ad8",
+   "type": "news",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "title_orig": "Otter AI can now follow conversations across 30+ languages",
+   "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "6289435bdbbd",
+   "type": "news",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "title_orig": "Anthropic reportedly plans to move forward with IPO plans",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "8d28cfa5555a",
+   "type": "news",
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "title_orig": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "575ba0c8506b",
+   "type": "news",
+   "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
+   "title_orig": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
+   "url": "https://www.geektime.co.il/why-nvidia-ceo-jensen-huang-china-spy/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-10"
+  },
   {
    "id": "9b0466c1eb02",
    "type": "news",
@@ -3812,6 +3852,16 @@
    "date": "2026-10-27"
   },
   {
+   "id": "188e9fbc4643",
+   "type": "news",
+   "title": "Our newest AI Quest: Mapping the human brain",
+   "title_orig": "Our newest AI Quest: Mapping the human brain",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-10-26"
+  },
+  {
    "id": "bba291662c45",
    "type": "news",
    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
@@ -3948,56 +3998,6 @@
    "title_orig": "Microsoft offers buyouts to 60,000 employees",
    "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "df88ce95d957",
-   "type": "news",
-   "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-   "title_orig": "Kevin Roose is AGI-pilled. Why aren’t you?",
-   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "a0064ee100f0",
-   "type": "news",
-   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-   "title_orig": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "9c0a98fa46a8",
-   "type": "news",
-   "title": "Can AI help solve the COBOL code crisis?",
-   "title_orig": "Can AI help solve the COBOL code crisis?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "f7b9bc5b7e40",
-   "type": "news",
-   "title": "Will the real Anthropic please stand up",
-   "title_orig": "Will the real Anthropic please stand up",
-   "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-26"
-  },
-  {
-   "id": "67160bc1e72b",
-   "type": "news",
-   "title": "The focus on AI safety disasters ignores everyday harms",
-   "title_orig": "The focus on AI safety disasters ignores everyday harms",
-   "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-10-26"
   }
