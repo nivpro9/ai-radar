@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:42:47+00:00",
+ "updated": "2026-11-11T18:36:15+00:00",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -10,6 +10,156 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-11-12"
+  },
+  {
+   "id": "7a8ca7de71bd",
+   "type": "news",
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "title_orig": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "2ed3a890d3d8",
+   "type": "news",
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "title_orig": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "6619f09dbc0d",
+   "type": "news",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "title_orig": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "0ccfb511c0c8",
+   "type": "news",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "title_orig": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "2d8f602ac5a8",
+   "type": "news",
+   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "title_orig": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "a86af765ffaf",
+   "type": "news",
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "title_orig": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "450a9863af99",
+   "type": "news",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "title_orig": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "c2f79d0f0a9a",
+   "type": "news",
+   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "title_orig": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "2464a640b3fb",
+   "type": "news",
+   "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+   "title_orig": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+   "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "4878c495cef5",
+   "type": "news",
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "title_orig": "Google DeepMind just mathematically verified key parts of Signal",
+   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "cce714811b51",
+   "type": "news",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "title_orig": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "bad6ee94c356",
+   "type": "news",
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "title_orig": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "e879c6fc35d4",
+   "type": "news",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "title_orig": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "d2296a64c0dc",
+   "type": "news",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "title_orig": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "url": "https://huggingface.co/blog/token-pooling",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "f93aee57084a",
+   "type": "news",
+   "title": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
+   "title_orig": "הם בנו למיקרוסופט את תשתית הדאטה, ועכשיו הם מגייסים 70 מיליון דולר כדי להתחרות בה",
+   "url": "https://www.geektime.co.il/edelbyte-raises-70m-ex-microsoft-data-startup-edelbyte/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-11"
   },
   {
    "id": "e28ff692f118",
@@ -3848,156 +3998,6 @@
    "title_orig": "Creating AI value with enterprise context",
    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
    "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "41e0dc889e76",
-   "type": "news",
-   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-   "title_orig": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "9a783b4021e0",
-   "type": "news",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "title_orig": "Google AI gets cagey when asked who won the 2020 elections",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "75e2017ed4c5",
-   "type": "news",
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "title_orig": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "0dc3cf0b7c98",
-   "type": "news",
-   "title": "The future of the firm",
-   "title_orig": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "41c97fe8dc29",
-   "type": "news",
-   "title": "Legora is building the agentic operating system for legal work",
-   "title_orig": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "34b0bf3f94c3",
-   "type": "news",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "title_orig": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "516d6345c17a",
-   "type": "news",
-   "title": "AI execs may be too out of touch to build for the general public",
-   "title_orig": "AI execs may be too out of touch to build for the general public",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "1af93ecc8fda",
-   "type": "news",
-   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "title_orig": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "d9d311919980",
-   "type": "news",
-   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "title_orig": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "efca0b654d0c",
-   "type": "news",
-   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-   "title_orig": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "5283652bd524",
-   "type": "news",
-   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "title_orig": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "8030d1b5c635",
-   "type": "news",
-   "title": "Voters in Texas agree: They hate data centers",
-   "title_orig": "Voters in Texas agree: They hate data centers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "6da995572c9c",
-   "type": "news",
-   "title": "Meta quietly launched an ‘AI pet journal’ app",
-   "title_orig": "Meta quietly launched an ‘AI pet journal’ app",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "85069581580d",
-   "type": "news",
-   "title": "Pairing industrial AI autonomy and human control",
-   "title_orig": "Pairing industrial AI autonomy and human control",
-   "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "2fc8e689e413",
-   "type": "news",
-   "title": "Legora is building the agentic operating system for legal work",
-   "title_orig": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-28"
   }
