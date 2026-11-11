@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-10T22:17:10+00:00",
+ "updated": "2026-11-11T02:41:51+00:00",
  "items": [
+  {
+   "id": "f28f90d2895a",
+   "type": "news",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "title_orig": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "9531c706dbfc",
+   "type": "news",
+   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "title_orig": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+   "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
   {
    "id": "571fb0494bf3",
    "type": "news",
@@ -3942,6 +3962,16 @@
    "date": "2026-10-28"
   },
   {
+   "id": "db98bf59a6c7",
+   "type": "news",
+   "title": "Build specialized multimodal models with LFM3",
+   "title_orig": "Build specialized multimodal models with LFM3",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-10-27"
+  },
+  {
    "id": "5ef94984dce4",
    "type": "news",
    "title": "Genie 4: A new generation of world simulation",
@@ -3968,36 +3998,6 @@
    "title_orig": "The data center boom has an upside: innovation for the US grid",
    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "7afb98bf1433",
-   "type": "news",
-   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-   "title_orig": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "e4dbba9a243c",
-   "type": "news",
-   "title": "Who’s really in charge at Anthropic after the IPO?",
-   "title_orig": "Who’s really in charge at Anthropic after the IPO?",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "ba3cece69efb",
-   "type": "news",
-   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "title_orig": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-27"
   }
