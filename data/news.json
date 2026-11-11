@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:41:51+00:00",
+ "updated": "2026-11-11T10:42:47+00:00",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -10,6 +10,86 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-11-12"
+  },
+  {
+   "id": "e28ff692f118",
+   "type": "news",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "title_orig": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "80b38ea7da37",
+   "type": "news",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "title_orig": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "14eef01dc0f4",
+   "type": "news",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "title_orig": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "b22522d14a17",
+   "type": "news",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "title_orig": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "22df1df76b89",
+   "type": "news",
+   "title": "חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש",
+   "title_orig": "חיפאים, Google Cloud מזמינה אתכם לאירוע AI ודאטה חדש",
+   "url": "https://www.geektime.co.il/ai-in-action-haifa-30112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "a82a36b73c5c",
+   "type": "news",
+   "title": "אנת'רופיק הולכת על הראש של אקסל עם פיצ'ר חדש של Claude",
+   "title_orig": "אנת'רופיק הולכת על הראש של אקסל עם פיצ'ר חדש של Claude",
+   "url": "https://www.geektime.co.il/anthropic-claude-sheets-whiteboards-microsoft-office/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "4e3e5904c85a",
+   "type": "news",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "title_orig": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "1ff74ee2cb10",
+   "type": "news",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "title_orig": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-10"
   },
   {
    "id": "9531c706dbfc",
@@ -3920,86 +4000,6 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-28"
-  },
-  {
-   "id": "7ae8eb20550e",
-   "type": "news",
-   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "title_orig": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "bc6dfecf766f",
-   "type": "news",
-   "title": "מחקר חדש: כותבים ל-AI בעברית? זה עולה לכם עד פי 3 טוקנים",
-   "title_orig": "מחקר חדש: כותבים ל-AI בעברית? זה עולה לכם עד פי 3 טוקנים",
-   "url": "https://www.geektime.co.il/ai-tokenizer-tax-cost-llm-hebrew/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "502420b52584",
-   "type": "news",
-   "title": "כשהעין האנושית פוגשת רשת נוירונים: פיתוח ישראלי מלמד AI לראות אחרת",
-   "title_orig": "כשהעין האנושית פוגשת רשת נוירונים: פיתוח ישראלי מלמד AI לראות אחרת",
-   "url": "https://www.geektime.co.il/ai-vision-event-based-processing-weizmann/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "1b16f2a2a47a",
-   "type": "news",
-   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "title_orig": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "db98bf59a6c7",
-   "type": "news",
-   "title": "Build specialized multimodal models with LFM3",
-   "title_orig": "Build specialized multimodal models with LFM3",
-   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "5ef94984dce4",
-   "type": "news",
-   "title": "Genie 4: A new generation of world simulation",
-   "title_orig": "Genie 4: A new generation of world simulation",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "a2f907c053da",
-   "type": "news",
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "title_orig": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
-  },
-  {
-   "id": "a81d0c1c06b0",
-   "type": "news",
-   "title": "The data center boom has an upside: innovation for the US grid",
-   "title_orig": "The data center boom has an upside: innovation for the US grid",
-   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-27"
   }
  ]
 }
