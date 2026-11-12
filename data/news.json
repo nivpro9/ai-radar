@@ -1,6 +1,246 @@
 {
- "updated": "2026-11-12T09:41:34+00:00",
+ "updated": "2026-11-12T18:08:52+00:00",
  "items": [
+  {
+   "id": "5c8a7e2ce9e4",
+   "type": "news",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "title_orig": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "ca80552a275a",
+   "type": "news",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "title_orig": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "0cefd18c08c5",
+   "type": "news",
+   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "title_orig": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "aa4bf4548cc5",
+   "type": "news",
+   "title": "Jensen Huang agrees to testify before Congress",
+   "title_orig": "Jensen Huang agrees to testify before Congress",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "aff4b2c65530",
+   "type": "news",
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "title_orig": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "44722bd03025",
+   "type": "news",
+   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+   "title_orig": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "1447c52b300c",
+   "type": "news",
+   "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+   "title_orig": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "bfccb2d38562",
+   "type": "news",
+   "title": "Norwest pushes deeper into AI with new $4B fund",
+   "title_orig": "Norwest pushes deeper into AI with new $4B fund",
+   "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "660711644cdc",
+   "type": "news",
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "title_orig": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "ef98f01e800c",
+   "type": "news",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "title_orig": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "24d7fb83f2c2",
+   "type": "news",
+   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "title_orig": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "32933935200c",
+   "type": "news",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "title_orig": "AI chatbots are recommending fake retail websites, study finds",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "4213b9afeff9",
+   "type": "news",
+   "title": "More game developers are using generative AI than they did last year",
+   "title_orig": "More game developers are using generative AI than they did last year",
+   "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "1d250e9233fe",
+   "type": "news",
+   "title": "Jensen Huang is out. What did China want from him?",
+   "title_orig": "Jensen Huang is out. What did China want from him?",
+   "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "830958e6e6f7",
+   "type": "news",
+   "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+   "title_orig": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "39f4c129e434",
+   "type": "news",
+   "title": "I reviewed the Apple HomeView, ask me anything",
+   "title_orig": "I reviewed the Apple HomeView, ask me anything",
+   "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "426b199762db",
+   "type": "news",
+   "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+   "title_orig": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "f98f612fda85",
+   "type": "news",
+   "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "title_orig": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "0990939c7d6e",
+   "type": "news",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "title_orig": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "b06379671ede",
+   "type": "news",
+   "title": "Supporting research on AI and children’s safety",
+   "title_orig": "Supporting research on AI and children’s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "ad614f81e42f",
+   "type": "news",
+   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "title_orig": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "a8d5fa7d24b3",
+   "type": "news",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "title_orig": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "56dac742ff29",
+   "type": "news",
+   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "title_orig": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "d9a8c3eeb54c",
+   "type": "news",
+   "title": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
+   "title_orig": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
+   "url": "https://www.geektime.co.il/jensen-huang-officialy-out-as-nvidia-ceo/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-12"
+  },
   {
    "id": "df5c4c0af68f",
    "type": "news",
@@ -3760,246 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-29"
-  },
-  {
-   "id": "65d251570ded",
-   "type": "news",
-   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-   "title_orig": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "2a1a8a7c88a0",
-   "type": "news",
-   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "title_orig": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "45b4ef0b726f",
-   "type": "news",
-   "title": "Microsoft’s AI future has fewer jobs",
-   "title_orig": "Microsoft’s AI future has fewer jobs",
-   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "9d92d4ec6e5e",
-   "type": "news",
-   "title": "The NYT Cooking app is testing AI recipe modifications",
-   "title_orig": "The NYT Cooking app is testing AI recipe modifications",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "079251699e8e",
-   "type": "news",
-   "title": "Anthropic is asking Wall Street to believe in AGI",
-   "title_orig": "Anthropic is asking Wall Street to believe in AGI",
-   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "cfed78c7b300",
-   "type": "news",
-   "title": "Trump declares robot imports a national security threat",
-   "title_orig": "Trump declares robot imports a national security threat",
-   "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "b394caaea480",
-   "type": "news",
-   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-   "title_orig": "Google admits AI search makes less money, but it's fixing that with more ads",
-   "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "7bf0065ceb16",
-   "type": "news",
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "title_orig": "An updated Model Spec for more capable and beneficial AI",
-   "url": "https://openai.com/index/updated-model-spec",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "d28967fce9c6",
-   "type": "news",
-   "title": "How we detect frontier model misalignment",
-   "title_orig": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "2d9928289658",
-   "type": "news",
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "title_orig": "How Ropes & Gray is developing AI for transactional diligence",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "e1c742c1d925",
-   "type": "news",
-   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "title_orig": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-   "url": "https://huggingface.co/blog/announcing-project-protostar",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "a1765f446c5b",
-   "type": "news",
-   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-   "title_orig": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-   "url": "https://huggingface.co/blog/mistral-large4",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "06fe571d8018",
-   "type": "news",
-   "title": "הנה ההכרזות החדשות של גיטהאב שאתם צריכים להכיר",
-   "title_orig": "הנה ההכרזות החדשות של גיטהאב שאתם צריכים להכיר",
-   "url": "https://www.geektime.co.il/github-copilot-universe-2026-agents-guide/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "85473f57c247",
-   "type": "news",
-   "title": "חצי טריליון דולר נמחקו ביממה: מה מפחיד כל-כך את המשקיעים של גוגל?",
-   "title_orig": "חצי טריליון דולר נמחקו ביממה: מה מפחיד כל-כך את המשקיעים של גוגל?",
-   "url": "https://www.geektime.co.il/google-lost-400b-dollars-in-a-day/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "d0e2301d55a3",
-   "type": "news",
-   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-   "title_orig": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "f1cd1b9663e9",
-   "type": "news",
-   "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-   "title_orig": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "0b3918620b86",
-   "type": "news",
-   "title": "Anthropic’s business plan: Build God or die trying",
-   "title_orig": "Anthropic’s business plan: Build God or die trying",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "9cd5509199bf",
-   "type": "news",
-   "title": "AI has come for Arizona’s water",
-   "title_orig": "AI has come for Arizona’s water",
-   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "24f676feeb3a",
-   "type": "news",
-   "title": "We urgently need to monitor AI agents’ actions in real time",
-   "title_orig": "We urgently need to monitor AI agents’ actions in real time",
-   "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "f3538b6fb36f",
-   "type": "news",
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "title_orig": "Granite Switch 4.1.1 — Update models like you update software",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "85d975255b4f",
-   "type": "news",
-   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "title_orig": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-   "url": "https://huggingface.co/blog/anydecisionmodel",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "942921eac348",
-   "type": "news",
-   "title": "מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI",
-   "title_orig": "מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI",
-   "url": "https://www.geektime.co.il/microsoft-q1-2027-azure-xbox-openai-revenue/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "34b0bf3f94c3",
-   "type": "news",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "title_orig": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "bbd4d7a8dcb5",
-   "type": "news",
-   "title": "Evernote turns AI-driven discovery into paid subscriptions",
-   "title_orig": "Evernote turns AI-driven discovery into paid subscriptions",
-   "url": "https://openai.com/ads/customers/evernote",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-28"
   }
  ]
 }
