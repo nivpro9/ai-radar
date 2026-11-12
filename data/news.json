@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-12T01:27:39+00:00",
+ "updated": "2026-11-12T09:41:34+00:00",
  "items": [
+  {
+   "id": "df5c4c0af68f",
+   "type": "news",
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "title_orig": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "95b86e6c04e8",
+   "type": "news",
+   "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
+   "title_orig": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
+   "url": "https://www.geektime.co.il/claude-code-desktop-vulnerability-cvss-8-7-high/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "a4ae33f4f2af",
+   "type": "news",
+   "title": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
+   "title_orig": "דרמה באנבידיה: הדירקטוריון נערך להדיח את ג'נסן הואנג לאחר שנחשף רומן נוסף שלו עם בכירה בחברה",
+   "url": "https://www.geektime.co.il/nvidia-board-prepares-to-oust-jensen-huang-after-second-affair/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-12"
+  },
   {
    "id": "f28f90d2895a",
    "type": "news",
@@ -3968,36 +3998,6 @@
    "title_orig": "Evernote turns AI-driven discovery into paid subscriptions",
    "url": "https://openai.com/ads/customers/evernote",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "1134b6a1764a",
-   "type": "news",
-   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-   "title_orig": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "9b7dd4a7a685",
-   "type": "news",
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "title_orig": "Google expands AI Search ads globally as core ad growth slows",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "f9d1493b929c",
-   "type": "news",
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "title_orig": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-28"
   }
