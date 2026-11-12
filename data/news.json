@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:36:15+00:00",
+ "updated": "2026-11-12T01:27:39+00:00",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -10,6 +10,126 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-11-12"
+  },
+  {
+   "id": "efdd0bfa6110",
+   "type": "news",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "title_orig": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "b91248042740",
+   "type": "news",
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "title_orig": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "d8ef3fe6591f",
+   "type": "news",
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "title_orig": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "ae5556d61c0b",
+   "type": "news",
+   "title": "Why the data center you dread might never even be built",
+   "title_orig": "Why the data center you dread might never even be built",
+   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "70b89fd3ef03",
+   "type": "news",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "title_orig": "Meta is losing its longtime head of infrastructure",
+   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "bdeaa23eb988",
+   "type": "news",
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "title_orig": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "850c0644106f",
+   "type": "news",
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "title_orig": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "6f3c74a04fea",
+   "type": "news",
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "title_orig": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "94fcbf10f807",
+   "type": "news",
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "title_orig": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "4a6d92631407",
+   "type": "news",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "title_orig": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "33bddd1c4002",
+   "type": "news",
+   "title": "United won’t let your AI agent book your flight",
+   "title_orig": "United won’t let your AI agent book your flight",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "8c999d6885d2",
+   "type": "news",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "title_orig": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-11"
   },
   {
    "id": "7a8ca7de71bd",
@@ -3832,6 +3952,16 @@
    "date": "2026-10-29"
   },
   {
+   "id": "34b0bf3f94c3",
+   "type": "news",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "title_orig": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-10-28"
+  },
+  {
    "id": "bbd4d7a8dcb5",
    "type": "news",
    "title": "Evernote turns AI-driven discovery into paid subscriptions",
@@ -3868,136 +3998,6 @@
    "title_orig": "Microsoft recorded $10 billion in revenue from OpenAI",
    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "0ef91bd8c8c1",
-   "type": "news",
-   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-   "title_orig": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "09f762edab0d",
-   "type": "news",
-   "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "title_orig": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "e4867209a9cd",
-   "type": "news",
-   "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-   "title_orig": "Akai is embracing vibe-coded mods with an open-source MPC",
-   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "ea370fdd96af",
-   "type": "news",
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "title_orig": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "8500267ec5b4",
-   "type": "news",
-   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-   "title_orig": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-   "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "964eb21e0e03",
-   "type": "news",
-   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-   "title_orig": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-   "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "a01db71b034c",
-   "type": "news",
-   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "title_orig": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "5e4098babe95",
-   "type": "news",
-   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-   "title_orig": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "fc7d1d71bde9",
-   "type": "news",
-   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "title_orig": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "d0753be868cc",
-   "type": "news",
-   "title": "Microsoft is ending Copilot support on smart TVs",
-   "title_orig": "Microsoft is ending Copilot support on smart TVs",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "c802108aab79",
-   "type": "news",
-   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "title_orig": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "1739307690c3",
-   "type": "news",
-   "title": "Meta says it’ll probably delay its controversial new business terms again",
-   "title_orig": "Meta says it’ll probably delay its controversial new business terms again",
-   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-28"
-  },
-  {
-   "id": "e164bf48fa23",
-   "type": "news",
-   "title": "Creating AI value with enterprise context",
-   "title_orig": "Creating AI value with enterprise context",
-   "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-10-28"
   }
