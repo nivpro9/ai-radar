@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-12T18:08:52+00:00",
+ "updated": "2026-11-13T00:08:31+00:00",
  "items": [
+  {
+   "id": "4e2810e47ea3",
+   "type": "news",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "title_orig": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "82d9be95873a",
+   "type": "news",
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "title_orig": "Muse can now place calls to US businesses — if you pay",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "fc0f425d4885",
+   "type": "news",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "title_orig": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "92467d3f16d5",
+   "type": "news",
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "title_orig": "Jensen Huang was having a third affair, Reuters reports",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "875637b2c34d",
+   "type": "news",
+   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "title_orig": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "d3c21aad1252",
+   "type": "news",
+   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "title_orig": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "3903c89c61e5",
+   "type": "news",
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "title_orig": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "322f998ba4d6",
+   "type": "news",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "title_orig": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "3403360ccc1d",
+   "type": "news",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "title_orig": "Google’s new Gemini model is better at understanding complicated questions",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "3b869b1138e3",
+   "type": "news",
+   "title": "No, AI agents did not discover a previously unknown Maya site",
+   "title_orig": "No, AI agents did not discover a previously unknown Maya site",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "d545fdc617b9",
+   "type": "news",
+   "title": "Oh, Palantir is ‘progressive’ now, is it?",
+   "title_orig": "Oh, Palantir is ‘progressive’ now, is it?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "96892311de09",
+   "type": "news",
+   "title": "The Jensen Huang scandal is hardly over",
+   "title_orig": "The Jensen Huang scandal is hardly over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "d1b4a114799f",
+   "type": "news",
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "title_orig": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "e94b95796523",
+   "type": "news",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "title_orig": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "b5b1e8f149e4",
+   "type": "news",
+   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+   "title_orig": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "a67e1509e9c0",
+   "type": "news",
+   "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+   "title_orig": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+   "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "81bcb5c122b2",
+   "type": "news",
+   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+   "title_orig": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "5b0f73df89a6",
+   "type": "news",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "title_orig": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "90d79223706e",
+   "type": "news",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "title_orig": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "a88bddb17214",
+   "type": "news",
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "title_orig": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-12"
+  },
   {
    "id": "5c8a7e2ce9e4",
    "type": "news",
@@ -3800,206 +4000,6 @@
    "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-30"
-  },
-  {
-   "id": "b2263e9f8412",
-   "type": "news",
-   "title": "nemotron-halloween",
-   "title_orig": "nemotron-halloween",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "e9e7beb52b83",
-   "type": "news",
-   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "title_orig": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "f63058a65b72",
-   "type": "news",
-   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-   "title_orig": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-   "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "3e4e3eed2bbf",
-   "type": "news",
-   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-   "title_orig": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-   "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "5ec9437afb13",
-   "type": "news",
-   "title": "Silicon Valley wants you to invest in miracles",
-   "title_orig": "Silicon Valley wants you to invest in miracles",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "5cfbd02556ec",
-   "type": "news",
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "title_orig": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "dbfbce585037",
-   "type": "news",
-   "title": "Maine’s data center revolt will decide who controls the Senate",
-   "title_orig": "Maine’s data center revolt will decide who controls the Senate",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "a973ac401cee",
-   "type": "news",
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "title_orig": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "3f421dfac052",
-   "type": "news",
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "title_orig": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "6750c2461412",
-   "type": "news",
-   "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "title_orig": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "url": "https://openai.com/index/credit-saison",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "720b04b8c5b9",
-   "type": "news",
-   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-   "title_orig": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "1e09943a421e",
-   "type": "news",
-   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-   "title_orig": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "7587406daf7d",
-   "type": "news",
-   "title": "Rivian expands joint venture with VW to include AI assistant",
-   "title_orig": "Rivian expands joint venture with VW to include AI assistant",
-   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "4db20898e948",
-   "type": "news",
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "title_orig": "OpenAI-backed Thrive Holdings acquires ADT",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "bde015e58f37",
-   "type": "news",
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "title_orig": "Meta quietly launches an AI fashion app called Style Sketch",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "066f3bd17c5f",
-   "type": "news",
-   "title": "Granola crunches up a dictation feature to compete with Wispr",
-   "title_orig": "Granola crunches up a dictation feature to compete with Wispr",
-   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "23e63926ccea",
-   "type": "news",
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "title_orig": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "a9493e03c65c",
-   "type": "news",
-   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "title_orig": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "4dcfcc0d1943",
-   "type": "news",
-   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "title_orig": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
-  },
-  {
-   "id": "5c450d9a985f",
-   "type": "news",
-   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-   "title_orig": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-29"
   }
  ]
 }
