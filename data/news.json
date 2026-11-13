@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-13T16:08:16+00:00",
+ "updated": "2026-11-13T22:29:51+00:00",
  "items": [
+  {
+   "id": "38741df50e34",
+   "type": "news",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "title_orig": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "f17748102e2c",
+   "type": "news",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "title_orig": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "951c84561943",
+   "type": "news",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "title_orig": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "4ecfb44c1aed",
+   "type": "news",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "title_orig": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "c371d06a5231",
+   "type": "news",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "title_orig": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "2427bacb74a9",
+   "type": "news",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "title_orig": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "8400bdfe1e2a",
+   "type": "news",
+   "title": "XYBench: Helping with the problem behind the question",
+   "title_orig": "XYBench: Helping with the problem behind the question",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
   {
    "id": "4e379f6cb9d3",
    "type": "news",
@@ -3928,76 +3998,6 @@
    "title_orig": "Intel’s stock crashes, knocking $12B from government’s stake",
    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "1ad66cf690a9",
-   "type": "news",
-   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "title_orig": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "ade2d7581a3b",
-   "type": "news",
-   "title": "Last-minute Halloween costumes for tech nerds",
-   "title_orig": "Last-minute Halloween costumes for tech nerds",
-   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "07912041c313",
-   "type": "news",
-   "title": "Cracks are emerging in the AI spending boom",
-   "title_orig": "Cracks are emerging in the AI spending boom",
-   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "011fdc062b2b",
-   "type": "news",
-   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-   "title_orig": "Apple Intelligence is finally coming to China with iOS 27.3",
-   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "e6a83342c0c5",
-   "type": "news",
-   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "title_orig": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "25a528e218b1",
-   "type": "news",
-   "title": "The biggest names in AI are backing a new way to opt out of scraping",
-   "title_orig": "The biggest names in AI are backing a new way to opt out of scraping",
-   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "ef4c1375c469",
-   "type": "news",
-   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-   "title_orig": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-   "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-   "source": "Ars Technica",
    "lang": "en",
    "date": "2026-10-30"
   }
