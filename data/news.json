@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-13T07:48:21+00:00",
+ "updated": "2026-11-13T16:08:16+00:00",
  "items": [
+  {
+   "id": "4e379f6cb9d3",
+   "type": "news",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "title_orig": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "56623f1d9c94",
+   "type": "news",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "title_orig": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "025a6c711bf8",
+   "type": "news",
+   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "title_orig": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "e00ed907e42f",
+   "type": "news",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "title_orig": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "69b43a95305b",
+   "type": "news",
+   "title": "Jensen Huang didn’t show confidence in his successor, report says",
+   "title_orig": "Jensen Huang didn’t show confidence in his successor, report says",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "627c324df106",
+   "type": "news",
+   "title": "What’s really at stake in the Jensen Huang saga",
+   "title_orig": "What’s really at stake in the Jensen Huang saga",
+   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "cd9d1a105b69",
+   "type": "news",
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "title_orig": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "71dad9da95c2",
+   "type": "news",
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "title_orig": "Let’s talk about Jensen Huang’s many affairs!",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "5bf4951adbe9",
+   "type": "news",
+   "title": "Introducing ChatGPT Wallet",
+   "title_orig": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "40e78db6601d",
+   "type": "news",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "title_orig": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "7687be5ee18d",
+   "type": "news",
+   "title": "הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק",
+   "title_orig": "הכלי הזה מאפשר לכם לשכפל כל תוכנה או משחק",
+   "url": "https://www.geektime.co.il/craft-anything-allows-you-to-clone-anything/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "cc574939cce8",
+   "type": "news",
+   "title": "ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר באמצעות AI?",
+   "title_orig": "ואם היינו אומרים לכם שהסרט הכי מדובר השנה נוצר באמצעות AI?",
+   "url": "https://www.geektime.co.il/ai-art-creativity-originality-and-the-future-of-art/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "b05df569e601",
+   "type": "news",
+   "title": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
+   "title_orig": "12 שעות אחרי: מיקרוסופט עדיין לא מצליחה לתקן את התקלה הגדולה",
+   "url": "https://www.geektime.co.il/microsoft-global-outage-outlook-teams-copilot-down/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "25faf8105912",
+   "type": "news",
+   "title": "בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA",
+   "title_orig": "בדקנו את הלפטופ הראשון עם המעבד החדש של NVIDIA",
+   "url": "https://www.geektime.co.il/asus-proart-p16-rtx-spark-laptop-review/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-13"
+  },
   {
    "id": "4e2810e47ea3",
    "type": "news",
@@ -810,6 +950,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-11"
+  },
+  {
+   "id": "cd88f6cf71e0",
+   "type": "news",
+   "title": "Opening the datasets behind our AI weather models",
+   "title_orig": "Opening the datasets behind our AI weather models",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-10"
   },
   {
    "id": "4e3e5904c85a",
@@ -3848,156 +3998,6 @@
    "title_orig": "Supersonic airliner in doubt as company shifts to powering AI data centers",
    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
    "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "93351cbb4cc4",
-   "type": "news",
-   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "title_orig": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "d6402cbeb2e6",
-   "type": "news",
-   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-   "title_orig": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "8f65b6637c02",
-   "type": "news",
-   "title": "Basically no one is using AI agents for their DoorDash orders",
-   "title_orig": "Basically no one is using AI agents for their DoorDash orders",
-   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "d2282bcce162",
-   "type": "news",
-   "title": "Fair use benefits everyone",
-   "title_orig": "Fair use benefits everyone",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "a457451f7b0a",
-   "type": "news",
-   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "title_orig": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "fc6c72287137",
-   "type": "news",
-   "title": "Google’s first data center satellite is online and writing poetry",
-   "title_orig": "Google’s first data center satellite is online and writing poetry",
-   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "d906f2ca87fc",
-   "type": "news",
-   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-   "title_orig": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "62373f3f48e1",
-   "type": "news",
-   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-   "title_orig": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-   "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "c4dbacf8aa2b",
-   "type": "news",
-   "title": "Google’s satellite AI server transmits its first response to Earth",
-   "title_orig": "Google’s satellite AI server transmits its first response to Earth",
-   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "0de3f9697e49",
-   "type": "news",
-   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-   "title_orig": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "974d9b85c8fb",
-   "type": "news",
-   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "title_orig": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "09484dfee9e7",
-   "type": "news",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "title_orig": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "871b81f930c7",
-   "type": "news",
-   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-   "title_orig": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "25cc4c9bb2e3",
-   "type": "news",
-   "title": "Making it easier for websites to express AI training preferences",
-   "title_orig": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "c7606af40dbb",
-   "type": "news",
-   "title": "Community safety report and new protections for teens",
-   "title_orig": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "source": "OpenAI",
    "lang": "en",
    "date": "2026-10-30"
   }
