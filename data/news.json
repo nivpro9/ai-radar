@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-14T16:58:10+00:00",
+ "updated": "2026-11-14T21:21:14+00:00",
  "items": [
+  {
+   "id": "b08cefd9996d",
+   "type": "news",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "title_orig": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-14"
+  },
+  {
+   "id": "8d1564129d19",
+   "type": "news",
+   "title": "כנס ה-AI של Google Cloud מגיע לירושלים ועוד המלצות רותחות",
+   "title_orig": "כנס ה-AI של Google Cloud מגיע לירושלים ועוד המלצות רותחות",
+   "url": "https://www.geektime.co.il/geek-events-15112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-14"
+  },
   {
    "id": "2a2bfff1121f",
    "type": "news",
@@ -3978,26 +3998,6 @@
    "title_orig": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-31"
-  },
-  {
-   "id": "c10fef6ec816",
-   "type": "news",
-   "title": "OpenAI reportedly lowers funding target for new round",
-   "title_orig": "OpenAI reportedly lowers funding target for new round",
-   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-31"
-  },
-  {
-   "id": "ed0268fa6e32",
-   "type": "news",
-   "title": "I built an AI Tamagotchi before Meta could",
-   "title_orig": "I built an AI Tamagotchi before Meta could",
-   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-10-31"
   }
