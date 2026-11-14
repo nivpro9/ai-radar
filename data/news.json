@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-13T22:29:51+00:00",
+ "updated": "2026-11-14T03:03:39+00:00",
  "items": [
+  {
+   "id": "ad639fbc6552",
+   "type": "news",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "title_orig": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "04367a7d0b10",
+   "type": "news",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "title_orig": "Amazon has a plan to index the world’s online shopping data",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "d1318183fe17",
+   "type": "news",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "title_orig": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-13"
+  },
   {
    "id": "38741df50e34",
    "type": "news",
@@ -3970,36 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-31"
-  },
-  {
-   "id": "ea66f5a34808",
-   "type": "news",
-   "title": "Speeding up planning decisions with AI",
-   "title_orig": "Speeding up planning decisions with AI",
-   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "5d6f84404e1c",
-   "type": "news",
-   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "title_orig": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
-  },
-  {
-   "id": "a977761811a9",
-   "type": "news",
-   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "title_orig": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-10-30"
   }
  ]
 }
