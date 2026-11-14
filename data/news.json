@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-14T10:09:20+00:00",
+ "updated": "2026-11-14T16:58:10+00:00",
  "items": [
+  {
+   "id": "2a2bfff1121f",
+   "type": "news",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "title_orig": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-14"
+  },
+  {
+   "id": "d46b516a4c83",
+   "type": "news",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "title_orig": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-14"
+  },
+  {
+   "id": "567fa298898a",
+   "type": "news",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "title_orig": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-14"
+  },
   {
    "id": "ad639fbc6552",
    "type": "news",
@@ -3968,36 +3998,6 @@
    "title_orig": "I built an AI Tamagotchi before Meta could",
    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-10-31"
-  },
-  {
-   "id": "9a82c47f8540",
-   "type": "news",
-   "title": "מתי באמת צריך AI ומתי עדיף קוד מסורתי? 3 אירועי טכנולוגיה מומלצים",
-   "title_orig": "מתי באמת צריך AI ומתי עדיף קוד מסורתי? 3 אירועי טכנולוגיה מומלצים",
-   "url": "https://www.geektime.co.il/geek-events-1112026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-31"
-  },
-  {
-   "id": "874d77786f8e",
-   "type": "news",
-   "title": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
-   "title_orig": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
-   "url": "https://www.geektime.co.il/plnty-is-out-of-stealth-with-a-check-from-base44-founder/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-10-31"
-  },
-  {
-   "id": "c6b2d3ea7917",
-   "type": "news",
-   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "title_orig": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-10-31"
   }
