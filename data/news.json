@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-15T16:58:03+00:00",
+ "updated": "2026-11-15T21:39:55+00:00",
  "items": [
+  {
+   "id": "1a811a22b701",
+   "type": "news",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "title_orig": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "2f1f5cbf7ce8",
+   "type": "news",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "title_orig": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "1207b5c1c70b",
+   "type": "news",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "title_orig": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
   {
    "id": "4c525e5e54fa",
    "type": "news",
@@ -3970,36 +4000,6 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-02"
-  },
-  {
-   "id": "8a042d77f1d6",
-   "type": "news",
-   "title": "Data centers are now a midterm issue, even in Brooklyn",
-   "title_orig": "Data centers are now a midterm issue, even in Brooklyn",
-   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-01"
-  },
-  {
-   "id": "0dbf0226aa90",
-   "type": "news",
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "title_orig": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-01"
-  },
-  {
-   "id": "bb2642061f37",
-   "type": "news",
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "title_orig": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-01"
   }
  ]
 }
