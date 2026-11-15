@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-15T09:11:31+00:00",
+ "updated": "2026-11-15T16:58:03+00:00",
  "items": [
+  {
+   "id": "4c525e5e54fa",
+   "type": "news",
+   "title": "An overview of Jensen Huang’s messy days",
+   "title_orig": "An overview of Jensen Huang’s messy days",
+   "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "5050e73e85c6",
+   "type": "news",
+   "title": "\"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נסן הואנג",
+   "title_orig": "\"אני מקווה שתמות ותגאל אותנו מהייסורים שלנו\": הצד הפחות יפה של ג'נסן הואנג",
+   "url": "https://www.geektime.co.il/the-other-side-of-jensen-huang-nvidia-former-ceo/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "f784f5ea8ecc",
+   "type": "news",
+   "title": "חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייבים את הוובינר הזה",
+   "title_orig": "חושבים שסוכני ה-AI שלכם פועלים רק בהרשאות? אתם חייבים את הוובינר הזה",
+   "url": "https://www.geektime.co.il/ai-workstation-risks-webinar-24112026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-15"
+  },
   {
    "id": "e52256d4aa0a",
    "type": "news",
@@ -3969,36 +3999,6 @@
    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-01"
-  },
-  {
-   "id": "3b5be3ec0f0e",
-   "type": "news",
-   "title": "כנס הפיתוח וה-AI של גיקטיים חוזר ברביעי עם תשובה לשאלה: מה בעצם נשאר לנו לעשות?",
-   "title_orig": "כנס הפיתוח וה-AI של גיקטיים חוזר ברביעי עם תשובה לשאלה: מה בעצם נשאר לנו לעשות?",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-last-call/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-01"
-  },
-  {
-   "id": "c91d650e922c",
-   "type": "news",
-   "title": "המודל נחנק? כך תרוויחו בחזרה 76% מהזיכרון",
-   "title_orig": "המודל נחנק? כך תרוויחו בחזרה 76% מהזיכרון",
-   "url": "https://www.geektime.co.il/optimize-llm-kv-cache-gpu-performance/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-01"
-  },
-  {
-   "id": "bf9333c07964",
-   "type": "news",
-   "title": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
-   "title_orig": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
-   "url": "https://www.geektime.co.il/anthropic-claude-code-blocks-game-reverse-engineering/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-11-01"
   }
  ]
