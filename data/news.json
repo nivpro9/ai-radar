@@ -1,6 +1,346 @@
 {
- "updated": "2026-11-16T09:27:11+00:00",
+ "updated": "2026-11-16T20:18:12+00:00",
  "items": [
+  {
+   "id": "773cc78ee17a",
+   "type": "news",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "title_orig": "California state AG sues OpenAI over rogue agent incidents",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "668b96b1a125",
+   "type": "news",
+   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "title_orig": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "adc690e60e20",
+   "type": "news",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "title_orig": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "030a040e02b2",
+   "type": "news",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "title_orig": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "d3a67d4f7f1a",
+   "type": "news",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "title_orig": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "99f66f454c3b",
+   "type": "news",
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
+   "title_orig": "OpenAI will embed safety researchers to investigate AI subversion",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "8c824024c914",
+   "type": "news",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "title_orig": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "6516c6696195",
+   "type": "news",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "title_orig": "Audible turns to AI to help users discover audiobooks",
+   "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "772ccdf8e8c7",
+   "type": "news",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "title_orig": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "5c136724c0de",
+   "type": "news",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "title_orig": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "fcbaf2152a3d",
+   "type": "news",
+   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "title_orig": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "cd9a297fa8a4",
+   "type": "news",
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "title_orig": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "5f72fbdc79b9",
+   "type": "news",
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "title_orig": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "bd7cc537cd57",
+   "type": "news",
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "title_orig": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "29a19e1aacc6",
+   "type": "news",
+   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "title_orig": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "dd02c35afc86",
+   "type": "news",
+   "title": "Google Maps can now create trip itineraries for you",
+   "title_orig": "Google Maps can now create trip itineraries for you",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "2b2bb87b4857",
+   "type": "news",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "title_orig": "The Nvidia scandal isn’t slowing down",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "21a6fc2b55ff",
+   "type": "news",
+   "title": "The open-source movement wants Jensen Huang back",
+   "title_orig": "The open-source movement wants Jensen Huang back",
+   "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "ea6ee25fa2b6",
+   "type": "news",
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "title_orig": "Building trustworthy AI by fencing it in, not predicting it",
+   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "ef28afd6608b",
+   "type": "news",
+   "title": "Building AI that can work across the enterprise",
+   "title_orig": "Building AI that can work across the enterprise",
+   "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "6fd4401d69f5",
+   "type": "news",
+   "title": "US moves to cut China’s remote access to AI chips",
+   "title_orig": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "ca1899ca1680",
+   "type": "news",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "title_orig": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "f26f2a4dfd6b",
+   "type": "news",
+   "title": "Broadening access to AI for scientists",
+   "title_orig": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "b1c71d07875a",
+   "type": "news",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "title_orig": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "f891bd93f3d2",
+   "type": "news",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "title_orig": "Science at the Frontier: How scientists use ChatGPT",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "91e58e2ea930",
+   "type": "news",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "title_orig": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "ebd9eb949639",
+   "type": "news",
+   "title": "Our first phase of embedded assessments",
+   "title_orig": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "b0ded74e06b0",
+   "type": "news",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "title_orig": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "cfcc7acb02e9",
+   "type": "news",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "title_orig": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "e3915f7e4cf0",
+   "type": "news",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "title_orig": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "0bc322583e6f",
+   "type": "news",
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "title_orig": "New Ask Maps features to help with holiday travel and prep",
+   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "853b24ff0d6e",
+   "type": "news",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "title_orig": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "url": "https://huggingface.co/blog/openrouter",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "cf2b5b6155a2",
+   "type": "news",
+   "title": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
+   "title_orig": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
+   "url": "https://www.geektime.co.il/nvidia-rubin-vera-ai-science-sc26/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "5be5fb6cb13a",
+   "type": "news",
+   "title": "3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן",
+   "title_orig": "3 חודשים אחרי הגיוס הראשון, הסטארטאפ הזה כבר הפך לחד קרן",
+   "url": "https://www.geektime.co.il/3-months-after-first-funding-round-this-startup-is-already-a-unicorn/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-16"
+  },
   {
    "id": "09862cd7036c",
    "type": "news",
@@ -3660,346 +4000,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-11-03"
-  },
-  {
-   "id": "20954e3ac0ff",
-   "type": "news",
-   "title": "CWE-bench v2: More coverage, quality, and transparency",
-   "title_orig": "CWE-bench v2: More coverage, quality, and transparency",
-   "url": "https://huggingface.co/blog/cwe-bench",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "b5b460571a4b",
-   "type": "news",
-   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-   "title_orig": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-   "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "994bc94aa467",
-   "type": "news",
-   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-   "title_orig": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-   "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "0947affcb4cc",
-   "type": "news",
-   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-   "title_orig": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "0e022216c2cb",
-   "type": "news",
-   "title": "How “reverse game theory” could keep AI agents in check",
-   "title_orig": "How “reverse game theory” could keep AI agents in check",
-   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "08b710f1e780",
-   "type": "news",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "title_orig": "Heimstaden is changing residential real estate management with AI",
-   "url": "https://openai.com/index/heimstaden",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "fec0e46ceba4",
-   "type": "news",
-   "title": "Transformers Model Integration Contracts",
-   "title_orig": "Transformers Model Integration Contracts",
-   "url": "https://huggingface.co/blog/transformers-mic",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "1478c82ad409",
-   "type": "news",
-   "title": "ה-AI מטשטש את הגבול בין פרודקט, דיזיין ופיתוח, וחייבים לדעת מתי לעצור",
-   "title_orig": "ה-AI מטשטש את הגבול בין פרודקט, דיזיין ופיתוח, וחייבים לדעת מתי לעצור",
-   "url": "https://www.geektime.co.il/ai-product-design-dev-boundaries/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "4ed35bdfdb65",
-   "type": "news",
-   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-   "title_orig": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "968f14d53faf",
-   "type": "news",
-   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-   "title_orig": "Apple may try to increase revenue by doing…something with third-party AI apps",
-   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "793a736581dc",
-   "type": "news",
-   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-   "title_orig": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "a6e20d8d1eb1",
-   "type": "news",
-   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-   "title_orig": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "de4cf53f9db9",
-   "type": "news",
-   "title": "Scaling Git at OpenAI",
-   "title_orig": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "6fd6ad7938fa",
-   "type": "news",
-   "title": "Rewarding defenders with bigger bug bounties",
-   "title_orig": "Rewarding defenders with bigger bug bounties",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "262cfa35f430",
-   "type": "news",
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "title_orig": "Preparing our next security sprint to harden OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "ff138f709a7e",
-   "type": "news",
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "title_orig": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "b2485c91dd17",
-   "type": "news",
-   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-   "title_orig": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "855688c450b2",
-   "type": "news",
-   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-   "title_orig": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "60a2f0712c33",
-   "type": "news",
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "title_orig": "Web host Squarespace lays off 19% of its employees",
-   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "a437782712b7",
-   "type": "news",
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "title_orig": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "133799eedc2b",
-   "type": "news",
-   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-   "title_orig": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "272a05aa5da7",
-   "type": "news",
-   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-   "title_orig": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "e3f3f6c0c50f",
-   "type": "news",
-   "title": "Anthropic clamps down on Claude’s AI video game clones",
-   "title_orig": "Anthropic clamps down on Claude’s AI video game clones",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "16194c055af9",
-   "type": "news",
-   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "title_orig": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "dc6c7ef2ed74",
-   "type": "news",
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "title_orig": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "1126d665d260",
-   "type": "news",
-   "title": "Raising the quality of insights in agentic analytics",
-   "title_orig": "Raising the quality of insights in agentic analytics",
-   "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "4dded51f71fc",
-   "type": "news",
-   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-   "title_orig": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-   "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "7bff3ad3cf63",
-   "type": "news",
-   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-   "title_orig": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "ed4b58253682",
-   "type": "news",
-   "title": "LifeVal",
-   "title_orig": "LifeVal",
-   "url": "https://openai.com/index/lifeval",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "598c6194c0d3",
-   "type": "news",
-   "title": "Qodo builds context into AI code review with Codex",
-   "title_orig": "Qodo builds context into AI code review with Codex",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "1802721ebc5f",
-   "type": "news",
-   "title": "The latest AI news we announced in October 2026",
-   "title_orig": "The latest AI news we announced in October 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "31255b2b57a8",
-   "type": "news",
-   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-   "title_orig": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "b1d1b8b0266c",
-   "type": "news",
-   "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-   "title_orig": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-   "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "1ab8989706ea",
-   "type": "news",
-   "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-   "title_orig": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
   }
  ]
 }
