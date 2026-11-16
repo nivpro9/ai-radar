@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-16T01:52:15+00:00",
+ "updated": "2026-11-16T09:27:11+00:00",
  "items": [
+  {
+   "id": "09862cd7036c",
+   "type": "news",
+   "title": "Apple launches new app to study how people use AI for health",
+   "title_orig": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
   {
    "id": "f7214e14d1e1",
    "type": "news",
@@ -3988,16 +3998,6 @@
    "title_orig": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "f054e35351ae",
-   "type": "news",
-   "title": "Stop counting tokens, start counting what ships",
-   "title_orig": "Stop counting tokens, start counting what ships",
-   "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-02"
   }
