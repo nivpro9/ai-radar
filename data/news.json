@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-15T21:39:55+00:00",
+ "updated": "2026-11-16T01:52:15+00:00",
  "items": [
+  {
+   "id": "f7214e14d1e1",
+   "type": "news",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "title_orig": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "fc91828979fb",
+   "type": "news",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "title_orig": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "2cb612de9116",
+   "type": "news",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "title_orig": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "87d7014c15ee",
+   "type": "news",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "title_orig": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "4b0fc5b701ff",
+   "type": "news",
+   "title": "Our new blog for science",
+   "title_orig": "Our new blog for science",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-15"
+  },
+  {
+   "id": "06ac0aaa8f40",
+   "type": "news",
+   "title": "פיילוט חדש בישראל: מעבר חצייה חכם",
+   "title_orig": "פיילוט חדש בישראל: מעבר חצייה חכם",
+   "url": "https://www.geektime.co.il/first-israeli-city-installs-smart-crosswalk/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-15"
+  },
   {
    "id": "1a811a22b701",
    "type": "news",
@@ -3939,66 +3999,6 @@
    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
    "source": "MIT Technology Review",
    "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "09bdd94f057e",
-   "type": "news",
-   "title": "The agentic web is here",
-   "title_orig": "The agentic web is here",
-   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "19244c7aa206",
-   "type": "news",
-   "title": "Introducing the Grid Protectors Program",
-   "title_orig": "Introducing the Grid Protectors Program",
-   "url": "https://openai.com/index/grid-protectors-program",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "d9e05bfa2110",
-   "type": "news",
-   "title": "וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Cursor וקלוד",
-   "title_orig": "וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Cursor וקלוד",
-   "url": "https://www.geektime.co.il/wix-launches-studio-two/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "c0e610c61ebc",
-   "type": "news",
-   "title": "אתם לא לבד: מיטאפ חדש מציע תשובות לבלגן שיוצר ה-AI בפרודקשן ובעלויות",
-   "title_orig": "אתם לא לבד: מיטאפ חדש מציע תשובות לבלגן שיוצר ה-AI בפרודקשן ובעלויות",
-   "url": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup-last-call/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "9b83782892b1",
-   "type": "news",
-   "title": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
-   "title_orig": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
-   "url": "https://www.geektime.co.il/build-ai-factory-multi-agent-collaboration/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-02"
-  },
-  {
-   "id": "a2c33022df07",
-   "type": "news",
-   "title": "אלו קרנות הון הסיכון המובילות בישראל ב-2026 על פי דן אנד ברדסטריט",
-   "title_orig": "אלו קרנות הון הסיכון המובילות בישראל ב-2026 על פי דן אנד ברדסטריט",
-   "url": "https://www.geektime.co.il/duns-100-top-vc-funds-ranking-2026/",
-   "source": "Geektime",
-   "lang": "he",
    "date": "2026-11-02"
   }
  ]
