@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-16T20:18:12+00:00",
+ "updated": "2026-11-17T03:41:39+00:00",
  "items": [
+  {
+   "id": "bec78e9702b1",
+   "type": "news",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "title_orig": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "51273f0e0cc7",
+   "type": "news",
+   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "title_orig": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "a59424729711",
+   "type": "news",
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "title_orig": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "d0b83026be95",
+   "type": "news",
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "title_orig": "California sues OpenAI over rogue AI hacking incidents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "6dc341b82897",
+   "type": "news",
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "title_orig": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "0873131c018e",
+   "type": "news",
+   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "title_orig": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "94e979efd738",
+   "type": "news",
+   "title": "US data centers now burn more electricity than a midsized country",
+   "title_orig": "US data centers now burn more electricity than a midsized country",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "c09018ed0460",
+   "type": "news",
+   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "title_orig": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "3899b6e8ee3c",
+   "type": "news",
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "title_orig": "At Holiday Extras, dots get to work before anyone asks",
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
   {
    "id": "773cc78ee17a",
    "type": "news",
@@ -3722,6 +3812,26 @@
    "date": "2026-11-04"
   },
   {
+   "id": "20954e3ac0ff",
+   "type": "news",
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "title_orig": "CWE-bench v2: More coverage, quality, and transparency",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "fec0e46ceba4",
+   "type": "news",
+   "title": "Transformers Model Integration Contracts",
+   "title_orig": "Transformers Model Integration Contracts",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
    "id": "993e48dc4504",
    "type": "news",
    "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -3888,116 +3998,6 @@
    "title_orig": "Google is entirely disabling Search in schools that don’t want AI",
    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
    "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "85827c831b0b",
-   "type": "news",
-   "title": "Midterm elections 2026: all the news",
-   "title_orig": "Midterm elections 2026: all the news",
-   "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "dde5f3bd6293",
-   "type": "news",
-   "title": "Apple is all in on AI — its own and everyone else’s",
-   "title_orig": "Apple is all in on AI — its own and everyone else’s",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "32791f69eb2c",
-   "type": "news",
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "title_orig": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "d3f05a61364c",
-   "type": "news",
-   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-   "title_orig": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-   "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "f3b71b18e198",
-   "type": "news",
-   "title": "Google will let schools skip AI tools, but they have to give up search, too",
-   "title_orig": "Google will let schools skip AI tools, but they have to give up search, too",
-   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "26c6032e1d26",
-   "type": "news",
-   "title": "Accelerating engineering for the physical world",
-   "title_orig": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "a2357e701f02",
-   "type": "news",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "title_orig": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "3d509e27bae2",
-   "type": "news",
-   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "title_orig": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "adafdd4764cb",
-   "type": "news",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "title_orig": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "a55665cf4895",
-   "type": "news",
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "title_orig": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "bc4177032a04",
-   "type": "news",
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "title_orig": "Palette: teaching a small model to build decks in your design language",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-11-03"
   }
