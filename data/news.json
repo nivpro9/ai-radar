@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-17T03:41:39+00:00",
+ "updated": "2026-11-17T13:06:45+00:00",
  "items": [
+  {
+   "id": "590cb0b9c5dd",
+   "type": "news",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "title_orig": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "982f036f010a",
+   "type": "news",
+   "title": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
+   "title_orig": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
+   "url": "https://www.geektime.co.il/anthropic-ipo-ai-millionaires/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "699c1599296c",
+   "type": "news",
+   "title": "לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI",
+   "title_orig": "לפני שורת הקוד הראשונה: מדריך מזורז לאפיון פרויקט AI",
+   "url": "https://www.geektime.co.il/ai-project-specification-guide/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "f054a54f8228",
+   "type": "news",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "title_orig": "How Revolut raises ambition without lowering the bar",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16"
+  },
   {
    "id": "bec78e9702b1",
    "type": "news",
@@ -3812,6 +3852,26 @@
    "date": "2026-11-04"
   },
   {
+   "id": "adafdd4764cb",
+   "type": "news",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "title_orig": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "bc4177032a04",
+   "type": "news",
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "title_orig": "Palette: teaching a small model to build decks in your design language",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-03"
+  },
+  {
    "id": "20954e3ac0ff",
    "type": "news",
    "title": "CWE-bench v2: More coverage, quality, and transparency",
@@ -3938,66 +3998,6 @@
    "title_orig": "Apple restricts dating apps and AI companions to users 18 and up",
    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "49792679d79f",
-   "type": "news",
-   "title": "Apple starts giving Siri AI access to third-party apps",
-   "title_orig": "Apple starts giving Siri AI access to third-party apps",
-   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "62af55115339",
-   "type": "news",
-   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-   "title_orig": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "662bf89dbff2",
-   "type": "news",
-   "title": "OpenAI says ChatGPT is catching up to Google in search",
-   "title_orig": "OpenAI says ChatGPT is catching up to Google in search",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "db1d0915e442",
-   "type": "news",
-   "title": "Indie games are missing launch dates because Steam is backed up",
-   "title_orig": "Indie games are missing launch dates because Steam is backed up",
-   "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "c65f77dcf81d",
-   "type": "news",
-   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-   "title_orig": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "0eaf3e3a7544",
-   "type": "news",
-   "title": "Google is entirely disabling Search in schools that don’t want AI",
-   "title_orig": "Google is entirely disabling Search in schools that don’t want AI",
-   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-   "source": "The Verge",
    "lang": "en",
    "date": "2026-11-03"
   }
