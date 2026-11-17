@@ -1,6 +1,276 @@
 {
- "updated": "2026-11-17T13:06:45+00:00",
+ "updated": "2026-11-17T21:43:53+00:00",
  "items": [
+  {
+   "id": "f378d4ace0f3",
+   "type": "news",
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "title_orig": "Google joins the tech outage trend by announcing it’s not having one",
+   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "776157cf22e3",
+   "type": "news",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "title_orig": "Model ML raises $250M to automate investment banking grunt work",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "3aa0c6065ac0",
+   "type": "news",
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "title_orig": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "3a4b135687e3",
+   "type": "news",
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "title_orig": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "027b06d66aa2",
+   "type": "news",
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "title_orig": "As decision model use skyrockets, is customization the next frontier?",
+   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "48c463046560",
+   "type": "news",
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "title_orig": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "6ab4eb3121ad",
+   "type": "news",
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "title_orig": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "b20533735bac",
+   "type": "news",
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "title_orig": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "950a39f90ba9",
+   "type": "news",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "title_orig": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "9073920a14ea",
+   "type": "news",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "title_orig": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "df92921082e9",
+   "type": "news",
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "title_orig": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "ed47f6db4915",
+   "type": "news",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "title_orig": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "6755813e5cbe",
+   "type": "news",
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "title_orig": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "2a8f3e96bb72",
+   "type": "news",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "title_orig": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "47464bcdd529",
+   "type": "news",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "title_orig": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "859fe7425ca0",
+   "type": "news",
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "title_orig": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "72284a47c9d9",
+   "type": "news",
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "title_orig": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "cb8293f821d9",
+   "type": "news",
+   "title": "The DOJ says it’s investigating Megaspeed",
+   "title_orig": "The DOJ says it’s investigating Megaspeed",
+   "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "e0185595ee6e",
+   "type": "news",
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "title_orig": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "a127bdd6bea9",
+   "type": "news",
+   "title": "Research Reports",
+   "title_orig": "Research Reports",
+   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "407420f377ab",
+   "type": "news",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "title_orig": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "bfe144881fd6",
+   "type": "news",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "title_orig": "Google makes it easier to use Gemini without training AI on your data",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "82a0f3f37665",
+   "type": "news",
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "title_orig": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "549a77347d5e",
+   "type": "news",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "title_orig": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "58da9c66b145",
+   "type": "news",
+   "title": "Introducing OpenAI for Chile",
+   "title_orig": "Introducing OpenAI for Chile",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "0604bc2b50fc",
+   "type": "news",
+   "title": "Astra for Law leads in legal intelligence",
+   "title_orig": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "cb1d8f8bc84f",
+   "type": "news",
+   "title": "Put Gemini to work for you",
+   "title_orig": "Put Gemini to work for you",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "source": "Google",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
   {
    "id": "590cb0b9c5dd",
    "type": "news",
@@ -920,6 +1190,16 @@
    "source": "Geektime",
    "lang": "he",
    "date": "2026-11-13"
+  },
+  {
+   "id": "a045ec708b22",
+   "type": "news",
+   "title": "ChatGPT Ads increases its market presence in 44 countries",
+   "title_orig": "ChatGPT Ads increases its market presence in 44 countries",
+   "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-12"
   },
   {
    "id": "4e2810e47ea3",
@@ -3720,286 +4000,6 @@
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-04"
-  },
-  {
-   "id": "3a06f84c0f51",
-   "type": "news",
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "title_orig": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "75679f5aa60b",
-   "type": "news",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "title_orig": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "3cea8090d75b",
-   "type": "news",
-   "title": "לא באתם לכנס Evolve to AI? הנה כל מה שפספסתם",
-   "title_orig": "לא באתם לכנס Evolve to AI? הנה כל מה שפספסתם",
-   "url": "https://www.geektime.co.il/evolve-to-ai-2026-recap/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "1f340abc7707",
-   "type": "news",
-   "title": "הטעות שיכולה לעלות לכם 46 אלף דולר ביום",
-   "title_orig": "הטעות שיכולה לעלות לכם 46 אלף דולר ביום",
-   "url": "https://www.geektime.co.il/double-agent-evolve-to-ai-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "15141651b324",
-   "type": "news",
-   "title": "הישראלי הראשון ב-Cognition: \"אין לי בכלל IDE במחשב\"",
-   "title_orig": "הישראלי הראשון ב-Cognition: \"אין לי בכלל IDE במחשב\"",
-   "url": "https://www.geektime.co.il/gilad-samules-cognition-geektime-evolve-ai-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "6ebc40e6001b",
-   "type": "news",
-   "title": "אלופים באבטחת ענן? בואו להוכיח את זה בתחרות Capture the Flag חדשה",
-   "title_orig": "אלופים באבטחת ענן? בואו להוכיח את זה בתחרות Capture the Flag חדשה",
-   "url": "https://www.geektime.co.il/capture-the-flag-find-the-threat-26112026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "527b5f7ca2d8",
-   "type": "news",
-   "title": "כך בנה צוות של 10 ישראלים דפדפן עם מיליוני הורדות",
-   "title_orig": "כך בנה צוות של 10 ישראלים דפדפן עם מיליוני הורדות",
-   "url": "https://www.geektime.co.il/arpeely-ace-browser-against-the-world/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "834c926d0869",
-   "type": "news",
-   "title": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
-   "title_orig": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
-   "url": "https://www.geektime.co.il/sentra-nabs-major-funding-round/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "37b8547e47f4",
-   "type": "news",
-   "title": "\"מפתחים, תפסיקו להיות Meat Proxy\"",
-   "title_orig": "\"מפתחים, תפסיקו להיות Meat Proxy\"",
-   "url": "https://www.geektime.co.il/aws-software-factory-meat-proxy-ai/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "cd5aea12f1d2",
-   "type": "news",
-   "title": "\"הסוכנים בהגדרה הם לא רעים, הם פשוט רוצים להצליח\"",
-   "title_orig": "\"הסוכנים בהגדרה הם לא רעים, הם פשוט רוצים להצליח\"",
-   "url": "https://www.geektime.co.il/upwind-security-geektime-evole-to-ai-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "82e9371b43f4",
-   "type": "news",
-   "title": "ההכרזות של GitHub מגיעות לתל אביב: בואו לראות מקרוב כל מה שחדש",
-   "title_orig": "ההכרזות של GitHub מגיעות לתל אביב: בואו לראות מקרוב כל מה שחדש",
-   "url": "https://www.geektime.co.il/github-winter-event-2026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "b7014b4ad263",
-   "type": "news",
-   "title": "אחרי שגייס 127 מיליון דולר: נסגר הסטארטאפ הקודם שהקים מאור שלמה",
-   "title_orig": "אחרי שגייס 127 מיליון דולר: נסגר הסטארטאפ הקודם שהקים מאור שלמה",
-   "url": "https://www.geektime.co.il/explorium-startup-shuts-down-ai-agents-data/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "5d47252e76d4",
-   "type": "news",
-   "title": "The biggest modding site in PC gaming is taking a stance on AI",
-   "title_orig": "The biggest modding site in PC gaming is taking a stance on AI",
-   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "adafdd4764cb",
-   "type": "news",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "title_orig": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "bc4177032a04",
-   "type": "news",
-   "title": "Palette: teaching a small model to build decks in your design language",
-   "title_orig": "Palette: teaching a small model to build decks in your design language",
-   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "20954e3ac0ff",
-   "type": "news",
-   "title": "CWE-bench v2: More coverage, quality, and transparency",
-   "title_orig": "CWE-bench v2: More coverage, quality, and transparency",
-   "url": "https://huggingface.co/blog/cwe-bench",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "fec0e46ceba4",
-   "type": "news",
-   "title": "Transformers Model Integration Contracts",
-   "title_orig": "Transformers Model Integration Contracts",
-   "url": "https://huggingface.co/blog/transformers-mic",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "993e48dc4504",
-   "type": "news",
-   "title": "Anthropic is working on a system to prove AI models’ identity",
-   "title_orig": "Anthropic is working on a system to prove AI models’ identity",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "97ea381abb97",
-   "type": "news",
-   "title": "Data centers are turning to old jet engines as the wait for power grows",
-   "title_orig": "Data centers are turning to old jet engines as the wait for power grows",
-   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "f7b02949050d",
-   "type": "news",
-   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-   "title_orig": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "032b81f3baec",
-   "type": "news",
-   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-   "title_orig": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "64fbdbf83ed1",
-   "type": "news",
-   "title": "Please stop asking me when the AI bubble will pop",
-   "title_orig": "Please stop asking me when the AI bubble will pop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "39cfcbde58ed",
-   "type": "news",
-   "title": "Those Jeff Bezos hair transplant photos are very fake",
-   "title_orig": "Those Jeff Bezos hair transplant photos are very fake",
-   "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "42ec3b43220b",
-   "type": "news",
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "title_orig": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "36315b3cb5b6",
-   "type": "news",
-   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-   "title_orig": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "a4abd1e2a1c1",
-   "type": "news",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "title_orig": "Anthropic is still grappling with the economics of compute",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "ba273efe94ab",
-   "type": "news",
-   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "title_orig": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "b20c657114df",
-   "type": "news",
-   "title": "Apple restricts dating apps and AI companions to users 18 and up",
-   "title_orig": "Apple restricts dating apps and AI companions to users 18 and up",
-   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-03"
   }
  ]
 }
