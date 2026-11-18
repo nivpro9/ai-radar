@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-17T21:43:53+00:00",
+ "updated": "2026-11-18T03:37:47+00:00",
  "items": [
+  {
+   "id": "bc1083d540d9",
+   "type": "news",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "title_orig": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "9f7286d0bf41",
+   "type": "news",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "title_orig": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "bccee91cf811",
+   "type": "news",
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "title_orig": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "8239fbdc6243",
+   "type": "news",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "title_orig": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "8f07365d378c",
+   "type": "news",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "title_orig": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "01ad01e5cd41",
+   "type": "news",
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "title_orig": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "b397f013e77f",
+   "type": "news",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "title_orig": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "28fff23dec51",
+   "type": "news",
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "title_orig": "SEC reportedly investigating Nvidia amid Huang exit",
+   "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "19bce111d0ee",
+   "type": "news",
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "title_orig": "Satya Nadella says he’s AGI-pilled now",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "7465bbc4c963",
+   "type": "news",
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "title_orig": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "c6c361c53bc4",
+   "type": "news",
+   "title": "Introducing ChatGPT for Sales",
+   "title_orig": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "b32fc9995f2f",
+   "type": "news",
+   "title": "124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל",
+   "title_orig": "124 מיליון דולר לסטארטאפ הישראלי שיאפשר להציב דאטה סנטרים בחלל",
+   "url": "https://www.geektime.co.il/ramon-space-raises-124m-series-b/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-17"
+  },
   {
    "id": "f378d4ace0f3",
    "type": "news",
@@ -3877,126 +3997,6 @@
    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
    "title_orig": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "44e59e6a2681",
-   "type": "news",
-   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-   "title_orig": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-   "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "a4f4c423c542",
-   "type": "news",
-   "title": "A thousand fewer paths to root",
-   "title_orig": "A thousand fewer paths to root",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "bf25be8f8779",
-   "type": "news",
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "title_orig": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "url": "https://openai.com/index/devrev-enterprise-self-service",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "5afc49da7bd4",
-   "type": "news",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "title_orig": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "472484bded0a",
-   "type": "news",
-   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-   "title_orig": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "ac5380eefb5a",
-   "type": "news",
-   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "title_orig": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "6c35d4c93609",
-   "type": "news",
-   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-   "title_orig": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-   "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "0c9cbd4df150",
-   "type": "news",
-   "title": "Data centers lost the midterms",
-   "title_orig": "Data centers lost the midterms",
-   "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "e818c1486ecf",
-   "type": "news",
-   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-   "title_orig": "Uber only fulfilled 4 rides from AI agents last quarter",
-   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "1eb19ba95d16",
-   "type": "news",
-   "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-   "title_orig": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "f11d9a22fb66",
-   "type": "news",
-   "title": "Google hasn’t figured out how to make AI pay like its search engine",
-   "title_orig": "Google hasn’t figured out how to make AI pay like its search engine",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "b71b7365d7a0",
-   "type": "news",
-   "title": "Securing the agentic enterprise with data lineage",
-   "title_orig": "Securing the agentic enterprise with data lineage",
-   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-04"
