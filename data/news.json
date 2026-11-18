@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-18T03:37:47+00:00",
+ "updated": "2026-11-18T12:56:24+00:00",
  "items": [
+  {
+   "id": "82df8b109823",
+   "type": "news",
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "title_orig": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "55dde3921be9",
+   "type": "news",
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "title_orig": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "c38beb9bd9c3",
+   "type": "news",
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "title_orig": "This smell startup says its AI nose is as good as a human’s",
+   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "6cab9c8cd383",
+   "type": "news",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "title_orig": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "91d443215bff",
+   "type": "news",
+   "title": "הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות'",
+   "title_orig": "הנה שיטה קלה לבדוק אם אתם משלמים יותר מדי על ג'ירה, קונפלואנס ושות'",
+   "url": "https://www.geektime.co.il/cost-savings-in-atlassian-systems/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "abc3489d1ab1",
+   "type": "news",
+   "title": "אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI עם הכלים של Google Cloud",
+   "title_orig": "אירוע בהזמנה בלבד: כך תתגוננו מפני מתקפות AI עם הכלים של Google Cloud",
+   "url": "https://www.geektime.co.il/cxo-security-breakfast-6122026/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "5a754ca4cd8f",
+   "type": "news",
+   "title": "גוגל הופכת את הסוכנים שלה לחינמיים",
+   "title_orig": "גוגל הופכת את הסוכנים שלה לחינמיים",
+   "url": "https://www.geektime.co.il/google-gemini-spark-tasks-free-launch/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "61885238cdf5",
+   "type": "news",
+   "title": "ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה",
+   "title_orig": "ה-AI של מטא חסם את ה-AI של מטא, אז הוא תבע אותה",
+   "url": "https://www.geektime.co.il/muse-ai-sues-meta/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
   {
    "id": "bc1083d540d9",
    "type": "news",
@@ -3832,6 +3912,16 @@
    "date": "2026-11-05"
   },
   {
+   "id": "5afc49da7bd4",
+   "type": "news",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "title_orig": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-04"
+  },
+  {
    "id": "16ca88547863",
    "type": "news",
    "title": "במקום לנחש איזה מודל יצליח, תנו לסוכני ה-AI לבחור בעצמם",
@@ -3908,96 +3998,6 @@
    "title_orig": "Meta acquires AI coding startup Conductor",
    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
    "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "49cf82dfae35",
-   "type": "news",
-   "title": "Open source AI is booming. Hugging Face explains who profits.",
-   "title_orig": "Open source AI is booming. Hugging Face explains who profits.",
-   "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "f1f26a9d7d87",
-   "type": "news",
-   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "title_orig": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "bb779f39a67b",
-   "type": "news",
-   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-   "title_orig": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "4c9b76bc0bf9",
-   "type": "news",
-   "title": "17 better ways Elon Musk could have wasted $446 million",
-   "title_orig": "17 better ways Elon Musk could have wasted $446 million",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "b6ceabf91c49",
-   "type": "news",
-   "title": "Gemini for Home now plugs into AT&T’s smart security system",
-   "title_orig": "Gemini for Home now plugs into AT&T’s smart security system",
-   "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "d0178f35064d",
-   "type": "news",
-   "title": "Nothing teases a screen-free AI device ahead of launch next month",
-   "title_orig": "Nothing teases a screen-free AI device ahead of launch next month",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "3fdace98b464",
-   "type": "news",
-   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-   "title_orig": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-   "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "026e4ebd4085",
-   "type": "news",
-   "title": "ChatGPT will now make you animated GIFs",
-   "title_orig": "ChatGPT will now make you animated GIFs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-04"
-  },
-  {
-   "id": "dda2b2db6c67",
-   "type": "news",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "title_orig": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-04"
   }
