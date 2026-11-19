@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-19T03:12:00+00:00",
+ "updated": "2026-11-19T12:50:29+00:00",
  "items": [
+  {
+   "id": "fdfefb89d613",
+   "type": "news",
+   "title": "Canva adds an AI ‘off’ button",
+   "title_orig": "Canva adds an AI ‘off’ button",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "ebb96885c1c6",
+   "type": "news",
+   "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
+   "title_orig": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
+   "url": "https://www.geektime.co.il/microsoft-nadella-explains-60k-employees-buyout-ai/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "43155114bf2b",
+   "type": "news",
+   "title": "גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה",
+   "title_orig": "גוגל מביאה את מצב האינקוגניטו לחיפוש ה-AI שלה",
+   "url": "https://www.geektime.co.il/google-ai-search-temporary-threads/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-19"
+  },
   {
    "id": "c8a4b2ac137e",
    "type": "news",
@@ -3970,36 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-11-06"
-  },
-  {
-   "id": "d7e9e3e89ee7",
-   "type": "news",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "source": "Google",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "003a6dd08e36",
-   "type": "news",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "source": "Google DeepMind",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "89209ab642b1",
-   "type": "news",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "title_orig": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "url": "https://huggingface.co/blog/phonon-tts",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-05"
   }
  ]
 }
