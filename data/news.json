@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-18T21:20:16+00:00",
+ "updated": "2026-11-19T03:12:00+00:00",
  "items": [
+  {
+   "id": "c8a4b2ac137e",
+   "type": "news",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "title_orig": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "2cf389d7c377",
+   "type": "news",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "title_orig": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "74ced3375481",
+   "type": "news",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "title_orig": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "0e23395eb734",
+   "type": "news",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "title_orig": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "acb7f96633bb",
+   "type": "news",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "title_orig": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "b7121aa76176",
+   "type": "news",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title_orig": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "54bca3b9a46d",
+   "type": "news",
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "title_orig": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "22c3131e87fd",
+   "type": "news",
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "title_orig": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "246fea28a789",
+   "type": "news",
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "title_orig": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "b429cb510b69",
+   "type": "news",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "title_orig": "The nation’s largest school districts consider ditching Google Search",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "9fa731b0ef6c",
+   "type": "news",
+   "title": "Research acceleration: The jagged frontier",
+   "title_orig": "Research acceleration: The jagged frontier",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "b527b6f0ddce",
+   "type": "news",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "title_orig": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "url": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "b898a1b2127c",
+   "type": "news",
+   "title": "Introducing Gemini 4 Neon",
+   "title_orig": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "source": "Google DeepMind",
+   "lang": "en",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "e3abea854ae8",
+   "type": "news",
+   "title": "הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך",
+   "title_orig": "הממשלה מקדמת \"ארגז חול\" לסטארטאפים, אבל שכחה 4 דברים בדרך",
+   "url": "https://www.geektime.co.il/regulatory-sandbox-startups-israel/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "e6355330f752",
+   "type": "news",
+   "title": "\"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר",
+   "title_orig": "\"זה מקצוע חדש בפני עצמו\": יוצאי 8200 גייסו 11 מיליון דולר",
+   "url": "https://www.geektime.co.il/vero-raises-seed/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-18"
+  },
   {
    "id": "54287e141aa4",
    "type": "news",
@@ -3822,182 +3972,32 @@
    "date": "2026-11-06"
   },
   {
-   "id": "b58fee4edbbb",
+   "id": "d7e9e3e89ee7",
    "type": "news",
-   "title": "Australian universities are creating AI-native graduates",
-   "title_orig": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "source": "OpenAI",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google",
    "lang": "en",
    "date": "2026-11-05"
   },
   {
-   "id": "1eac7fe42e87",
+   "id": "003a6dd08e36",
    "type": "news",
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "title_orig": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "source": "TechCrunch",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source": "Google DeepMind",
    "lang": "en",
    "date": "2026-11-05"
   },
   {
-   "id": "8e75ec02fc50",
+   "id": "89209ab642b1",
    "type": "news",
-   "title": "Perplexity launches its own take on AI agents for work",
-   "title_orig": "Perplexity launches its own take on AI agents for work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "56b7bacf1dd0",
-   "type": "news",
-   "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-   "title_orig": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-   "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "b0ae5318dec9",
-   "type": "news",
-   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-   "title_orig": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "c88b52d0b210",
-   "type": "news",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "title_orig": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "300d91101f21",
-   "type": "news",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "title_orig": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "1f9981de5700",
-   "type": "news",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "title_orig": "Flipsnack grows product signups with conversion optimization",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "c0d7b0808284",
-   "type": "news",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "title_orig": "Franklin Templeton uses OpenAI to support investment research",
-   "url": "https://openai.com/index/franklin-templeton",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "3c0e84566a0e",
-   "type": "news",
-   "title": "Meta says US users can now video chat with their Muse AI avatar",
-   "title_orig": "Meta says US users can now video chat with their Muse AI avatar",
-   "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "2e06a7a163b7",
-   "type": "news",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "title_orig": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "ec73671ce52f",
-   "type": "news",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "title_orig": "OpenAI released a new cybersecurity model. Is that enough?",
-   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "cfd1704d56b5",
-   "type": "news",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "title_orig": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "7b187a5bdc28",
-   "type": "news",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "title_orig": "Claude can now analyze your spending with its new Personal Finance tool",
-   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "2846e03446f4",
-   "type": "news",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "title_orig": "Axiom Math wants to keep AI slop out of mathematics",
-   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "aecc9a23fd3c",
-   "type": "news",
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "title_orig": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "c9efcd5ee343",
-   "type": "news",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "title_orig": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-05"
-  },
-  {
-   "id": "5ea6f104b1e8",
-   "type": "news",
-   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "title_orig": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "source": "TechCrunch",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "title_orig": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "url": "https://huggingface.co/blog/phonon-tts",
+   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-11-05"
   }
