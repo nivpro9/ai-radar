@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-20T11:21:14+00:00",
+ "updated": "2026-11-20T19:58:48+00:00",
  "items": [
+  {
+   "id": "59fa562eab8a",
+   "type": "news",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "title_orig": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "321bf9e3c390",
+   "type": "news",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "title_orig": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "e43240c9ae66",
+   "type": "news",
+   "title": "Chips can survive the space environment — can their financing?",
+   "title_orig": "Chips can survive the space environment — can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "f0e77c900b9f",
+   "type": "news",
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "title_orig": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "912ce9389b49",
+   "type": "news",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "title_orig": "Six AI-powered gadgets that could make your home office smarter",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "3a0cb236fd32",
+   "type": "news",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "title_orig": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "859ee3ec8c20",
+   "type": "news",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "title_orig": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "299291fdd518",
+   "type": "news",
+   "title": "The week everything fell apart",
+   "title_orig": "The week everything fell apart",
+   "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "779ccf54081c",
+   "type": "news",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "title_orig": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "2fdd7a0916ab",
+   "type": "news",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "title_orig": "The most misunderstood graph in AI just got a major update",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "3ea993db7e3c",
+   "type": "news",
+   "title": "Combatting adversarial distillation",
+   "title_orig": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "f4784c304003",
+   "type": "news",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "title_orig": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "211fbe8009a4",
+   "type": "news",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "title_orig": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "9033750dc077",
+   "type": "news",
+   "title": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
+   "title_orig": "סם אלטמן התלונן שאנחנו מבזבזים RAM וקיבל הטרלה מושלמת",
+   "url": "https://www.geektime.co.il/ram-altman-unused-memory-trolling-tool/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-20"
+  },
   {
    "id": "2ed09bbf2a0c",
    "type": "news",
@@ -3860,146 +4000,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-09"
-  },
-  {
-   "id": "45da7994669e",
-   "type": "news",
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "title_orig": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "67abd93f196f",
-   "type": "news",
-   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "title_orig": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "ecd65815b585",
-   "type": "news",
-   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "title_orig": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "5f6025b4ad59",
-   "type": "news",
-   "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
-   "title_orig": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
-   "url": "https://www.geektime.co.il/jensen-huang-admits-to-affair-with-chinese-spy/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "53044e44b3aa",
-   "type": "news",
-   "title": "Apple is racing to make Siri more agentic",
-   "title_orig": "Apple is racing to make Siri more agentic",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "ae06ecf71872",
-   "type": "news",
-   "title": "Elvis and Eminem rights holders are suing Suno",
-   "title_orig": "Elvis and Eminem rights holders are suing Suno",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "2b5134214865",
-   "type": "news",
-   "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
-   "title_orig": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
-   "url": "https://www.geektime.co.il/why-ai-agents-need-company-brain/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-08"
-  },
-  {
-   "id": "0819cd72b72e",
-   "type": "news",
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "title_orig": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "d44fec61ccb7",
-   "type": "news",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "title_orig": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "2c93e9013ac1",
-   "type": "news",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "title_orig": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "94e2151ed42b",
-   "type": "news",
-   "title": "הכנס הישראלי הראשון לסוכני AI (ועוד כמה המלצות לבני האדם שלהם)",
-   "title_orig": "הכנס הישראלי הראשון לסוכני AI (ועוד כמה המלצות לבני האדם שלהם)",
-   "url": "https://www.geektime.co.il/geek-events-8112026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "fa06ff8fdc83",
-   "type": "news",
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "title_orig": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "73be1ddc7ff2",
-   "type": "news",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "title_orig": "The US let Nvidia sell chips to an empty office in China",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "055e03fe8fc4",
-   "type": "news",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "title_orig": "AI broke the cybersecurity world. What’s next?",
-   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-07"
   }
  ]
 }
