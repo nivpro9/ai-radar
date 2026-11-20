@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-19T21:23:29+00:00",
+ "updated": "2026-11-20T02:59:33+00:00",
  "items": [
+  {
+   "id": "2ed09bbf2a0c",
+   "type": "news",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "title_orig": "Apple may be developing its own AI agent that runs your Mac",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "4aacf31011a3",
+   "type": "news",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "title_orig": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "e60f4e5e7cf4",
+   "type": "news",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "title_orig": "Meta’s new Muse Charm device may cost $300",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "52653ae3ad73",
+   "type": "news",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "title_orig": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "a22c687c439c",
+   "type": "news",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "title_orig": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "74e2df778984",
+   "type": "news",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "title_orig": "A brief history of Nvidia’s recent stock fluctuations",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "4b08ec50268e",
+   "type": "news",
+   "title": "Deploying Daybreak Red",
+   "title_orig": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "cb99e2baa62e",
+   "type": "news",
+   "title": "See PR scans in action",
+   "title_orig": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "e29ac258c013",
+   "type": "news",
+   "title": "Explore the Codex Security Plugin",
+   "title_orig": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "a2fb00344062",
+   "type": "news",
+   "title": "Get started with Daybreak Blue",
+   "title_orig": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19"
+  },
+  {
+   "id": "70734a4058ec",
+   "type": "news",
+   "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
+   "title_orig": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
+   "url": "https://www.geektime.co.il/anthropic-ipo-is-the-biggest-we-have-ever-seen/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-19"
+  },
   {
    "id": "2fc737ddb995",
    "type": "news",
@@ -3890,116 +4000,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-11-07"
-  },
-  {
-   "id": "8879475e62b3",
-   "type": "news",
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "title_orig": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "983b9b8b584c",
-   "type": "news",
-   "title": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
-   "title_orig": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
-   "url": "https://www.geektime.co.il/nvidia-ceo-jensen-huang-chinese-spy-megaspeed/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "c2107a5a7cf6",
-   "type": "news",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "title_orig": "Crusoe sells troubled Wyoming data center project to Google",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-07"
-  },
-  {
-   "id": "6813d62fd925",
-   "type": "news",
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "title_orig": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "1bc7ba2a28c4",
-   "type": "news",
-   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "title_orig": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "118369de89f0",
-   "type": "news",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "title_orig": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "29c568495a81",
-   "type": "news",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "title_orig": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "016e849ea3ab",
-   "type": "news",
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "title_orig": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "fc8f30aee8f3",
-   "type": "news",
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "title_orig": "How a Blue Wave midterm might reshape the AI industry",
-   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "c0641eb0de56",
-   "type": "news",
-   "title": "All the latest updates on AI data centers",
-   "title_orig": "All the latest updates on AI data centers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-06"
-  },
-  {
-   "id": "52e0623fab79",
-   "type": "news",
-   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "title_orig": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-06"
   }
  ]
 }
