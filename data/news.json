@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-20T19:58:48+00:00",
+ "updated": "2026-11-21T01:22:51+00:00",
  "items": [
+  {
+   "id": "4d6c192ff862",
+   "type": "news",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "title_orig": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "8bc8fed2fbe6",
+   "type": "news",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "title_orig": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "6e086317ffb3",
+   "type": "news",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "title_orig": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "d15c45643214",
+   "type": "news",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "title_orig": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "80d31a6dee29",
+   "type": "news",
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "title_orig": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-20"
+  },
   {
    "id": "59fa562eab8a",
    "type": "news",
@@ -3948,56 +3998,6 @@
    "title_orig": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
    "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "7b1451fc786c",
-   "type": "news",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "title_orig": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "59f3366d41da",
-   "type": "news",
-   "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
-   "title_orig": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
-   "url": "https://www.geektime.co.il/grok-bot-xai-cursor-critical-security-flaw/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "2dedf13b1045",
-   "type": "news",
-   "title": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
-   "title_orig": "בכנס הזה תלמדו איך מחברים AI לדאטה שלכם בלי שורת SQL אחת",
-   "url": "https://www.geektime.co.il/ai-reimagined-26112026/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "00fb489f729c",
-   "type": "news",
-   "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
-   "title_orig": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
-   "url": "https://www.geektime.co.il/ternus-wants-to-turn-siri-ai-into-muse-like/",
-   "source": "Geektime",
-   "lang": "he",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "b10abbc74a23",
-   "type": "news",
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-   "title_orig": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-09"
   }
