@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-21T01:22:51+00:00",
+ "updated": "2026-11-21T09:36:54+00:00",
  "items": [
+  {
+   "id": "8e4135b7fb95",
+   "type": "news",
+   "title": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
+   "title_orig": "במשחק הזה אתם צריכים שיפטרו את כל ההייטקיסטים",
+   "url": "https://www.geektime.co.il/agentrix-will-let-you-take-over-the-world/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-21"
+  },
   {
    "id": "4d6c192ff862",
    "type": "news",
@@ -3692,6 +3702,16 @@
    "date": "2026-11-10"
   },
   {
+   "id": "7b1451fc786c",
+   "type": "news",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "title_orig": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-09"
+  },
+  {
    "id": "7da1b2b4758f",
    "type": "news",
    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
@@ -3978,26 +3998,6 @@
    "title_orig": "Innovating with AI in the special chemicals industry",
    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
    "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "55280474a321",
-   "type": "news",
-   "title": "Nvidia CEO's affair becomes a national security problem",
-   "title_orig": "Nvidia CEO's affair becomes a national security problem",
-   "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "057e22ab69c0",
-   "type": "news",
-   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "title_orig": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-   "source": "Hugging Face",
    "lang": "en",
    "date": "2026-11-09"
   }
