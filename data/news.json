@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-21T09:36:54+00:00",
+ "updated": "2026-11-21T17:21:00+00:00",
  "items": [
+  {
+   "id": "dffab27fe8d5",
+   "type": "news",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "title_orig": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-21"
+  },
+  {
+   "id": "a9f34b76fcc6",
+   "type": "news",
+   "title": "Can Anthropic afford to put safety first?",
+   "title_orig": "Can Anthropic afford to put safety first?",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-21"
+  },
+  {
+   "id": "e74727ec8af7",
+   "type": "news",
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "title_orig": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-21"
+  },
+  {
+   "id": "61f032bc5464",
+   "type": "news",
+   "title": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
+   "title_orig": "ה-AI הפך את כולם לבילדרים. וזו בדיוק הבעיה",
+   "url": "https://www.geektime.co.il/ai-coding-agents-market-saturation/",
+   "source": "Geektime",
+   "lang": "he",
+   "date": "2026-11-21"
+  },
   {
    "id": "8e4135b7fb95",
    "type": "news",
@@ -3958,46 +3998,6 @@
    "title_orig": "Control Room: A central system to track and stop model workloads across our research infrastructure",
    "url": "https://openai.com/index/control-room",
    "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "23b94c697622",
-   "type": "news",
-   "title": "CodeRabbit scales agentic software development and ships 20x more",
-   "title_orig": "CodeRabbit scales agentic software development and ships 20x more",
-   "url": "https://openai.com/index/coderabbit-codex-daybreak",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "932fe34bad72",
-   "type": "news",
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "title_orig": "Kuken Industries searches 70 years of drawings in minutes",
-   "url": "https://openai.com/index/kuken",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "bd74b7cf0c1b",
-   "type": "news",
-   "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-   "title_orig": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-09"
-  },
-  {
-   "id": "42e7d6fc3426",
-   "type": "news",
-   "title": "Innovating with AI in the special chemicals industry",
-   "title_orig": "Innovating with AI in the special chemicals industry",
-   "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-09"
   }
